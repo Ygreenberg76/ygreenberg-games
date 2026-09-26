@@ -1,51 +1,61 @@
 const games=[
   {
     "title": "Fallout 4",
+    "appId": 377160,
     "hours": 328,
     "status": "coming"
   },
   {
     "title": "Starfield",
+    "appId": 1716740,
     "hours": 257.6,
     "status": "coming"
   },
   {
     "title": "Grand Theft Auto V Legacy",
+    "appId": 271590,
     "hours": 218.8,
     "status": "coming"
   },
   {
     "title": "Far Cry® 3",
+    "appId": 220240,
     "hours": 168.6,
     "status": "coming"
   },
   {
     "title": "Far Cry® 3 Blood Dragon",
+    "appId": 233270,
     "hours": 163.7,
     "status": "coming"
   },
   {
     "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "appId": 287700,
     "hours": 140.7,
     "status": "coming"
   },
   {
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "appId": 1643320,
     "hours": 131.6,
     "status": "coming"
   },
   {
     "title": "Kingdom Come: Deliverance II",
+    "appId": 1771300,
     "hours": 117.9,
     "status": "coming"
   },
   {
     "title": "Stumble Guys",
+    "appId": 1677740,
     "hours": 111.1,
     "status": "coming"
   },
   {
     "title": "Assassin's Creed Odyssey",
+    "appId": 812140,
     "hours": 105.3,
     "status": "coming"
   },
