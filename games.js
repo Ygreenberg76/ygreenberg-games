@@ -19,7 +19,18 @@ const games=[
     "title": "Starfield",
     "appId": 1716740,
     "hours": 257.6,
-    "status": "coming"
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The part I enjoyed most was the feeling of exploration. Traveling to new planets, discovering different worlds, developing different powers, and building my own spaceship made me feel like a true space explorer.",
+      "disliked": "Spaceship combat was one of the weaker parts of the game for me. I enjoyed owning, building, and flying my ship, but the actual spaceship combat wasn't the best experience.",
+      "story": "I thought the main story was great, especially the ending. Without giving too much away, the ending almost feels like another beginning and gives you a real reason to play through the game again. The side quests were generally fun, although some became repetitive or simply weren't interesting enough for me to want to complete them.",
+      "combat": "Ground combat was great. There is an awesome selection of weapons, and having different weapons and powers available gave me plenty of ways to approach combat.",
+      "exploration": "Exploration was easily one of the best parts of the game for me. Being able to build my own ship from the inside out and then use it to travel between worlds really added to the feeling of being an explorer.",
+      "building": "The building system was a little difficult to understand at first, but once I learned how it worked and had access to the right parts, putting together what I wanted became much easier.",
+      "recommendation": "I'd recommend Starfield to RPG fans and players who love exploring large worlds. The ability to make choices and decide whether your character takes a good or bad path also helps keep the gameplay interesting.",
+      "verdict": "A strong space RPG where exploration, weapons, powers, and ship building were the highlights for me."
+    }
   },
   {
     "title": "Grand Theft Auto V Legacy",
