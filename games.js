@@ -3,7 +3,17 @@ const games=[
     "title": "Fallout 4",
     "appId": 377160,
     "hours": 328,
-    "status": "coming"
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "I loved the open world, story, graphics, and combat system. The world is huge and diverse, with so much to explore and discover that I always felt like there was something else I wanted to see or do.",
+      "disliked": "My biggest complaint is simple: the game eventually ends. I enjoyed the world enough that I wanted to keep experiencing more of it.",
+      "story": "The story is great, but what really impressed me were the side quests. Many of them made me want to keep playing just to find out what was going to happen next. They didn't always feel like something I was doing just to complete another objective.",
+      "combat": "The combat is very good, with plenty of different weapons to experiment with. Building and upgrading weapons and power armor was also a lot of fun. I especially enjoyed the slow-motion V.A.T.S. shots, which made combat even more satisfying.",
+      "exploration": "The open world is big and diverse, with a lot to see, explore, and do.",
+      "recommendation": "I highly recommend Fallout 4 to RPG fans, especially if you enjoy story-driven games, large open worlds, exploration, side quests, character progression, and lots of freedom in how you play.",
+      "verdict": "One of those games I just didn't want to end."
+    }
   },
   {
     "title": "Starfield",
