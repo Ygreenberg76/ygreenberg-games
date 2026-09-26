@@ -82,31 +82,37 @@ const games=[
   },
   {
     "title": "Cyberpunk 2077",
+    "appId": 1091500,
     "hours": 97.5,
     "status": "coming"
   },
   {
     "title": "Dying Light 2: Reloaded Edition",
+    "appId": 534380,
     "hours": 84.5,
     "status": "coming"
   },
   {
     "title": "The Elder Scrolls V: Skyrim",
+    "appId": 72850,
     "hours": 78.6,
     "status": "coming"
   },
   {
     "title": "Kingdom Come: Deliverance",
+    "appId": 379430,
     "hours": 74.5,
     "status": "coming"
   },
   {
     "title": "Assetto Corsa",
+    "appId": 244210,
     "hours": 70.9,
     "status": "coming"
   },
   {
     "title": "Horizon Forbidden West™ Complete Edition",
+    "appId": 2420110,
     "hours": 70.7,
     "status": "coming"
   },
@@ -130,6 +136,7 @@ const games=[
   },
   {
     "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "appId": 2215430,
     "hours": 65.5,
     "status": "coming"
   },
@@ -159,6 +166,7 @@ const games=[
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "appId": 228560,
     "hours": 51.3,
     "status": "coming"
   },
@@ -188,6 +196,7 @@ const games=[
   },
   {
     "title": "Tom Clancy's Splinter Cell Blacklist",
+    "appId": 235600,
     "hours": 46.3,
     "status": "coming"
   },
@@ -217,6 +226,7 @@ const games=[
   },
   {
     "title": "Where Winds Meet",
+    "appId": 3564740,
     "hours": 40,
     "status": "coming"
   },
@@ -386,6 +396,7 @@ const games=[
   },
   {
     "title": "DOOM: The Dark Ages",
+    "appId": 3017860,
     "hours": 22.8,
     "status": "coming"
   },
@@ -570,6 +581,7 @@ const games=[
   },
   {
     "title": "Totally Accurate Battlegrounds",
+    "appId": 823130,
     "hours": 12.3,
     "status": "coming"
   },
@@ -617,6 +629,7 @@ const games=[
   },
   {
     "title": "Hello Neighbor Alpha 4",
+    "appId": 1096710,
     "hours": 10.1,
     "status": "coming"
   },
@@ -628,6 +641,7 @@ const games=[
   },
   {
     "title": "King's Quest",
+    "appId": 345390,
     "hours": 9.7,
     "status": "coming"
   },
@@ -873,6 +887,7 @@ const games=[
   },
   {
     "title": "Crab Game",
+    "appId": 1782210,
     "hours": 0.783,
     "status": "coming"
   },
@@ -953,6 +968,7 @@ const games=[
   },
   {
     "title": "Hired Ops",
+    "appId": 374280,
     "hours": 0.15,
     "status": "coming"
   },
