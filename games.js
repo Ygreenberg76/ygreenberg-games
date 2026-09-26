@@ -401,5 +401,535 @@ const games=[
     "title": "Watch_Dogs",
     "hours": 16,
     "status": "coming"
+  },
+  {
+    "title": "RAGE",
+    "hours": 16,
+    "status": "coming"
+  },
+  {
+    "title": "Tomb Raider",
+    "hours": 15.7,
+    "status": "coming"
+  },
+  {
+    "title": "Wolfenstein: The New Order",
+    "hours": 15.7,
+    "status": "coming"
+  },
+  {
+    "title": "Watch_Dogs 2",
+    "hours": 15.4,
+    "status": "coming"
+  },
+  {
+    "title": "Max Payne 3",
+    "hours": 15.3,
+    "status": "coming"
+  },
+  {
+    "title": "Driver San Francisco",
+    "hours": 14.8,
+    "status": "coming"
+  },
+  {
+    "title": "Far Cry 2",
+    "hours": 14.8,
+    "status": "coming"
+  },
+  {
+    "title": "Tom Clancy's Splinter Cell: Conviction",
+    "hours": 13.1,
+    "status": "coming"
+  },
+  {
+    "title": "Police Simulator: Patrol Officers",
+    "hours": 13,
+    "status": "coming"
+  },
+  {
+    "title": "RoboCop: Rogue City",
+    "hours": 13,
+    "status": "coming"
+  },
+  {
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "hours": 12.8,
+    "status": "coming"
+  },
+  {
+    "title": "Binary Domain",
+    "hours": 12.8,
+    "status": "coming"
+  },
+  {
+    "title": "Lara Croft and the Guardian of Light",
+    "hours": 12.7,
+    "status": "coming"
+  },
+  {
+    "title": "Totally Accurate Battlegrounds",
+    "hours": 12.3,
+    "status": "coming"
+  },
+  {
+    "title": "Lethal Company",
+    "hours": 12.2,
+    "status": "coming"
+  },
+  {
+    "title": "Detroit: Become Human",
+    "hours": 11.4,
+    "status": "coming"
+  },
+  {
+    "title": "Dead Island",
+    "hours": 11.3,
+    "status": "coming"
+  },
+  {
+    "title": "EA SPORTS™ FIFA 23",
+    "hours": 11.1,
+    "status": "coming"
+  },
+  {
+    "title": "F.E.A.R. 2: Project Origin",
+    "hours": 11.1,
+    "status": "coming"
+  },
+  {
+    "title": "Wolfenstein: The Old Blood",
+    "hours": 10.6,
+    "status": "coming"
+  },
+  {
+    "title": "Call of Duty: Black Ops",
+    "hours": 10.2,
+    "status": "coming"
+  },
+  {
+    "title": "Hello Neighbor Alpha 4",
+    "hours": 10.1,
+    "status": "coming"
+  },
+  {
+    "title": "Metro: Last Light Complete Edition",
+    "hours": 9.9,
+    "status": "coming"
+  },
+  {
+    "title": "King's Quest",
+    "hours": 9.7,
+    "status": "coming"
+  },
+  {
+    "title": "Saints Row: The Third",
+    "hours": 9.7,
+    "status": "coming"
+  },
+  {
+    "title": "Bro Falls: Ultimate Showdown",
+    "hours": 9.5,
+    "status": "coming"
+  },
+  {
+    "title": "Portal 2",
+    "hours": 9.4,
+    "status": "coming"
+  },
+  {
+    "title": "Singularity",
+    "hours": 9.3,
+    "status": "coming"
+  },
+  {
+    "title": "Transformers: Fall of Cybertron",
+    "hours": 8.9,
+    "status": "coming"
+  },
+  {
+    "title": "Battlefield™ 6",
+    "hours": 8.8,
+    "status": "coming"
+  },
+  {
+    "title": "Red Faction: Armageddon",
+    "hours": 8.3,
+    "status": "coming"
+  },
+  {
+    "title": "Crosshair V2",
+    "hours": 7.9,
+    "status": "coming"
+  },
+  {
+    "title": "Sniper Elite V2",
+    "hours": 7.5,
+    "status": "coming"
+  },
+  {
+    "title": "theHunter Classic",
+    "hours": 7.3,
+    "status": "coming"
+  },
+  {
+    "title": "F.E.A.R. 3",
+    "hours": 7.3,
+    "status": "coming"
+  },
+  {
+    "title": "I Am Alive",
+    "hours": 6.7,
+    "status": "coming"
+  },
+  {
+    "title": "Remember Me",
+    "hours": 6.6,
+    "status": "coming"
+  },
+  {
+    "title": "Feed and Grow: Fish",
+    "hours": 6.4,
+    "status": "coming"
+  },
+  {
+    "title": "Alien: Rogue Incursion VR",
+    "hours": 5.2,
+    "status": "coming"
+  },
+  {
+    "title": "Just Cause 2",
+    "hours": 5.2,
+    "status": "coming"
+  },
+  {
+    "title": "Sniper Ghost Warrior 2",
+    "hours": 5,
+    "status": "coming"
+  },
+  {
+    "title": "Poppy Playtime",
+    "hours": 4.8,
+    "status": "coming"
+  },
+  {
+    "title": "Darksiders II",
+    "hours": 4.4,
+    "status": "coming"
+  },
+  {
+    "title": "Blade & Sorcery",
+    "hours": 4.2,
+    "status": "coming"
+  },
+  {
+    "title": "Gorilla Tag",
+    "hours": 3.9,
+    "status": "coming"
+  },
+  {
+    "title": "BIGFOOT",
+    "hours": 3.4,
+    "status": "coming"
+  },
+  {
+    "title": "Aliens vs. Predator",
+    "hours": 3.4,
+    "status": "coming"
+  },
+  {
+    "title": "Ultimate Custom Night",
+    "hours": 3.3,
+    "status": "coming"
+  },
+  {
+    "title": "State of Decay",
+    "hours": 3.3,
+    "status": "coming"
+  },
+  {
+    "title": "CreativeDestruction",
+    "hours": 3.1,
+    "status": "coming"
+  },
+  {
+    "title": "HITMAN™ 2",
+    "hours": 2.9,
+    "status": "coming"
+  },
+  {
+    "title": "Half-Life 2",
+    "hours": 2.7,
+    "status": "coming"
+  },
+  {
+    "title": "Call of Duty: Ghosts",
+    "hours": 2.5,
+    "status": "coming"
+  },
+  {
+    "title": "STAR WARS™: The Force Unleashed™ II",
+    "hours": 2.5,
+    "status": "coming"
+  },
+  {
+    "title": "Destiny 2",
+    "hours": 1.767,
+    "status": "coming"
+  },
+  {
+    "title": "Red Faction: Guerrilla Steam Edition",
+    "hours": 1.533,
+    "status": "coming"
+  },
+  {
+    "title": "Disco Elysium",
+    "hours": 1.5,
+    "status": "coming"
+  },
+  {
+    "title": "Quaver",
+    "hours": 1.317,
+    "status": "coming"
+  },
+  {
+    "title": "Delta Force",
+    "hours": 1.2,
+    "status": "coming"
+  },
+  {
+    "title": "Fallout 3",
+    "hours": 1.2,
+    "status": "coming"
+  },
+  {
+    "title": "Counter-Strike 2",
+    "hours": 1.133,
+    "status": "coming"
+  },
+  {
+    "title": "Brawlhalla",
+    "hours": 0.967,
+    "status": "coming"
+  },
+  {
+    "title": "The Lab",
+    "hours": 0.933,
+    "status": "coming"
+  },
+  {
+    "title": "Garry's Mod",
+    "hours": 0.917,
+    "status": "coming"
+  },
+  {
+    "title": "Trash Patrol - Academic Version",
+    "hours": 0.883,
+    "status": "coming"
+  },
+  {
+    "title": "Crab Game",
+    "hours": 0.783,
+    "status": "coming"
+  },
+  {
+    "title": "The Scourge Project: Episode 1 and 2",
+    "hours": 0.75,
+    "status": "coming"
+  },
+  {
+    "title": "Plants vs. Zombies: Game of the Year",
+    "hours": 0.633,
+    "status": "coming"
+  },
+  {
+    "title": "Aimlabs",
+    "hours": 0.6,
+    "status": "coming"
+  },
+  {
+    "title": "Hitman: Sniper Challenge",
+    "hours": 0.6,
+    "status": "coming"
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "hours": 0.583,
+    "status": "coming"
+  },
+  {
+    "title": "Divinity: Original Sin (Classic)",
+    "hours": 0.55,
+    "status": "coming"
+  },
+  {
+    "title": "ARC Raiders Playtest",
+    "hours": 0.367,
+    "status": "coming"
+  },
+  {
+    "title": "Grand Theft Auto V Enhanced",
+    "hours": 0.35,
+    "status": "coming"
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "hours": 0.3,
+    "status": "coming"
+  },
+  {
+    "title": "Counter-Strike: Source",
+    "hours": 0.267,
+    "status": "coming"
+  },
+  {
+    "title": "DARK SOULS™: Prepare To Die Edition",
+    "hours": 0.2,
+    "status": "coming"
+  },
+  {
+    "title": "Resident Evil 7 Teaser: Beginning Hour",
+    "hours": 0.2,
+    "status": "coming"
+  },
+  {
+    "title": "Waltz of the Wizard (Legacy demo)",
+    "hours": 0.183,
+    "status": "coming"
+  },
+  {
+    "title": "Hired Ops",
+    "hours": 0.15,
+    "status": "coming"
+  },
+  {
+    "title": "Hog Hunter 2021",
+    "hours": 0.133,
+    "status": "coming"
+  },
+  {
+    "title": "Bloody Good Time",
+    "hours": 0.117,
+    "status": "coming"
+  },
+  {
+    "title": "VAIL Alpha",
+    "hours": 0.083,
+    "status": "coming"
+  },
+  {
+    "title": "Tom Clancy's The Division PTS",
+    "hours": 0.067,
+    "status": "coming"
+  },
+  {
+    "title": "Call of Duty: Ghosts - Multiplayer",
+    "hours": 0.017,
+    "status": "coming"
+  },
+  {
+    "title": "BioShock",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "BioShock Remastered",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Call of Duty: Black Ops - Multiplayer",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Crysis Warhead",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Crysis Wars",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Dark Messiah of Might & Magic Multi-Player",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Dark Messiah of Might & Magic Single Player",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Devil Daggers",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Divinity: Original Sin Enhanced Edition",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Dragon Age: Origins - Ultimate Edition",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Half-Life 2: Deathmatch",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Half-Life Deathmatch: Source",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Half-Life: Source",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Mass Effect 2 (2010) Edition",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Metro Exodus Enhanced Edition",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Red Faction Guerrilla Re-Mars-tered",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "Scourge: Outbreak",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "SiN Episodes: Emergence",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "SiN Gold",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "SiN Multiplayer",
+    "hours": null,
+    "status": "coming"
+  },
+  {
+    "title": "XCOM: Enemy Unknown",
+    "hours": null,
+    "status": "coming"
   }
 ];
