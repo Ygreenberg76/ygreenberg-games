@@ -648,62 +648,153 @@ const games=[
     "title": "Mass Effect 2 (2010)",
     "appId": 24980,
     "hours": 31.4,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The characters and story are what made this game so good for me. Building your team, getting to know each character and preparing everyone for the final mission made me care about the people traveling with me.",
+      "disliked": "Some of the planet scanning and resource collecting became repetitive. There were times when I wanted to continue the story instead of spending time searching planets for resources.",
+      "story": "This is one of the strongest parts of the game. Your decisions matter, your relationships with your crew matter, and the final mission actually makes you think about who you send to do each job. I really liked feeling that my choices could affect what happened to my team.",
+      "combat": "The combat is much more action-focused than a traditional RPG, which I enjoyed. Using different weapons and abilities while controlling your squad gives you enough options without making combat overly complicated.",
+      "exploration": "Exploration isn't really the strongest part compared with the open-world RPGs I normally enjoy, but visiting different locations and meeting new characters kept things interesting.",
+      "verdict": "An excellent RPG with great characters, meaningful choices and a story that kept me interested all the way to the end. The crew and final mission are what really made this game memorable for me."
+    }
+  }
   {
     "title": "Deus Ex: Human Revolution",
     "appId": 28050,
     "hours": 29.4,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked having different ways to complete missions. You can use stealth, hacking, combat or look for another route instead of always going directly through the enemies.",
+      "disliked": "Some parts can feel slow, especially when you're spending a lot of time sneaking around or searching for another path. The game also shows its age in a few areas.",
+      "story": "The story about human augmentation and technology is interesting and gives the game a different feeling from a normal shooter.",
+      "combat": "Having different augmentations gives you freedom to build Adam Jensen around how you want to play. I liked being able to decide whether I wanted to fight, sneak past enemies or hack my way into another area.",
+      "exploration": "Searching the environment is worth doing because you can discover alternate routes, vents, computers and information that you would completely miss if you just followed the main objective.",
+      "verdict": "A very good sci-fi RPG with plenty of freedom in how you approach missions. I liked having options instead of the game forcing me to solve every situation the same way."
+    }
+  }
   {
     "title": "Alien: Isolation",
     "appId": 214490,
     "hours": 28.9,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The atmosphere is amazing. The game constantly makes you feel like you're being hunted, and hearing the Alien moving somewhere nearby can be more frightening than actually seeing it.",
+      "disliked": "The game can feel a little too long, and there were parts where the constant tension started becoming exhausting rather than scary.",
+      "story": "Playing as Amanda Ripley and searching for information about what happened to her mother gave me a reason to keep moving forward even when I really didn't want to enter the next room.",
+      "combat": "What I really liked is that you aren't some powerful character who can simply kill everything. A lot of the time the smartest option is to hide, distract the Alien or find another way around.",
+      "exploration": "The station is dark, detailed and feels like it belongs in the Alien universe. Exploring it while knowing something could be nearby creates an incredible atmosphere.",
+      "verdict": "One of the best survival horror experiences I've played. The atmosphere and the Alien itself create a level of tension that very few games manage to achieve."
+    }
+  }
   {
     "title": "Prey",
     "appId": 480490,
     "hours": 28.4,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked exploring Talos I and never being completely sure what was safe. The Mimics make you suspicious of normal objects because almost anything in the room could suddenly attack you.",
+      "disliked": "There can be a lot of backtracking, and sometimes I spent too much time managing inventory and resources instead of moving forward.",
+      "story": "The story has some interesting ideas about identity, memory and the choices you make. Discovering what happened on the station was a big part of what kept me playing.",
+      "combat": "I liked having different ways to solve problems. Weapons, abilities, hacking and environmental options give you freedom instead of always forcing you into direct combat.",
+      "exploration": "Talos I is one of the best parts of the game. Going back to areas after getting new abilities can open places you couldn't reach before.",
+      "verdict": "A smart sci-fi game with good exploration and a lot of freedom. I especially enjoyed discovering the station and figuring out my own way through different situations."
+    }
+  }
   {
     "title": "L.A. Noire",
     "appId": 110800,
     "hours": 27.8,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The detective work is what makes this game different. Searching crime scenes, collecting evidence and questioning suspects made me feel like I was actually investigating cases instead of just following mission markers.",
+      "disliked": "Some investigations can become frustrating when the correct response during an interview isn't what I expected. The slower pace also won't work for everyone.",
+      "story": "I enjoyed moving through the different detective desks and seeing the cases become more serious. Cole Phelps is also not presented as a perfect character, which makes the story more interesting.",
+      "combat": "There is shooting and driving, but for me the investigations are much more important. Looking at evidence and then deciding whether someone is telling the truth is what separates L.A. Noire from other crime games.",
+      "exploration": "The recreation of Los Angeles gives the game a great atmosphere, although the city isn't as interactive as the open worlds in games like GTA.",
+      "verdict": "A very different type of crime game. The investigations, interrogations and atmosphere are what made it memorable for me."
+    }
+  }
   {
     "title": "Dead Space 2",
     "appId": 47780,
     "hours": 26.9,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The atmosphere and combat are excellent. Fighting Necromorphs is much more interesting than simply shooting enemies because you have to think about where you're aiming.",
+      "disliked": "After a while you start becoming more comfortable with the enemies, so some of the horror isn't as strong as it is at the beginning.",
+      "story": "Isaac feels more like an actual character in this game, and I liked seeing how the events of the first game continued to affect him.",
+      "combat": "Cutting off Necromorph limbs is still one of the things that makes Dead Space different. The weapons give you several ways to deal with enemies, and the game mixes horror with action very well.",
+      "exploration": "The Sprawl gives you more variety than staying in one type of environment for the entire game, while still keeping the dark and dangerous Dead Space atmosphere.",
+      "verdict": "A very good mix of horror and action. It's scary, violent and fun, with combat that still feels different from most shooters."
+    }
+  }
   {
     "title": "UNCHARTED™: Legacy of Thieves Collection",
     "appId": 1659420,
     "hours": 26.8,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story, characters, graphics and action are all excellent. The games feel like playing through a big adventure movie, with great locations and some incredible action scenes.",
+      "disliked": "The climbing can sometimes feel too guided because there is usually one specific route the game wants you to take.",
+      "story": "The characters are probably my favorite part. Nathan Drake, Sully, Elena and the other characters make the story entertaining even when there isn't any action happening.",
+      "combat": "The shooting is fun, but I especially liked how the game constantly changes between combat, climbing, puzzles and huge action sequences. It keeps the adventure moving.",
+      "exploration": "There are some beautiful environments to explore, although this isn't really an open-world game. The larger areas still give you some freedom to look around and discover optional things.",
+      "verdict": "One of the best cinematic adventure games I've played. Great characters, beautiful graphics and excellent action from beginning to end."
+    }
+  }
   {
     "title": "Control Ultimate Edition",
     "appId": 870780,
     "hours": 26.6,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The powers are easily one of my favorite parts. Picking up objects with telekinesis and throwing them at enemies never really stopped being fun.",
+      "disliked": "The map can be confusing. There were times when finding where I needed to go was more difficult than actually completing the mission.",
+      "story": "The story is strange, mysterious and sometimes difficult to completely understand, but that fits the game. Discovering more about the Federal Bureau of Control and the Oldest House made me want to keep exploring.",
+      "combat": "Combining Jesse's powers with the Service Weapon makes combat fast and fun. Once you have more abilities, you can move around the battlefield throwing objects, using powers and shooting without having to stay behind cover.",
+      "exploration": "The Oldest House is one of the most unusual environments I've explored in a game. It constantly changes and has plenty of strange rooms and hidden areas.",
+      "verdict": "A unique action game with excellent powers, fun combat and a very strange world. The confusing map was frustrating, but the gameplay made me want to keep going."
+    }
+  }
   {
     "title": "Terraria",
     "appId": 105600,
     "hours": 26.3,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "There is a surprising amount to do. Exploring, collecting resources, crafting equipment and slowly becoming stronger gives you plenty of reasons to keep playing.",
+      "disliked": "For me, the amount of crafting and figuring out what to do next can become a little too much. I prefer games that give me a stronger story and a clearer direction.",
+      "combat": "You start with very little, but eventually you can find and create much better weapons, armor and equipment. That progression is satisfying.",
+      "exploration": "Digging underground and discovering new areas, enemies and resources is a big part of the experience. You never really know what you're going to find.",
+      "building": "There are a huge number of things you can build and create. I can see why players who really enjoy building and crafting can spend hundreds of hours with it.",
+      "verdict": "A good game with a huge amount of content and freedom, but the heavy focus on crafting and building isn't as much my style as a story-driven RPG."
+    }
+  }
   {
     "title": "Deus Ex: Mankind Divided™",
     "appId": 337000,
     "hours": 26,
-    "status": "coming"
-  },
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the freedom to approach missions in different ways. Stealth, hacking, augmentations and combat give you plenty of options.",
+      "disliked": "The story didn't keep me as interested as Human Revolution, and the game felt like it ended before everything was completely resolved.",
+      "story": "The world and the conflict surrounding augmented humans are interesting, but I wanted more from the main story.",
+      "combat": "The gameplay gives you even more options for building Jensen around your preferred style. Sneaking through vents, hacking security systems or fighting directly are all possible.",
+      "exploration": "I liked searching areas for alternate routes and hidden locations. The environments reward you for looking around instead of simply following the objective marker.",
+      "comparison": "I enjoyed Human Revolution more overall. Mankind Divided improves some of the gameplay, but Human Revolution's story kept me more interested.",
+      "verdict": "A good Deus Ex game with strong gameplay and plenty of freedom, but the story didn't leave the same impression on me as Human Revolution."
+    }
+  }
   {
     "title": "LEGO® MARVEL Super Heroes",
     "appId": 249130,
