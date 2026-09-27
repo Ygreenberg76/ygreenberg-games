@@ -1049,7 +1049,14 @@ const games=[
   {
     "title": "Monster Jam",
     "hours": 19.8,
-    "status": "coming"
+    "score": 5,
+    "status": "reviewed",
+    "review": {
+      "liked": "Driving the monster trucks and performing jumps and stunts can be fun, especially at the beginning. The trucks themselves are the main reason I kept playing.",
+      "disliked": "The gameplay becomes repetitive pretty quickly. There just isn't enough variety to keep the experience interesting for a long time.",
+      "combat": "Driving such large trucks should feel exciting, and there are moments when it does, especially during jumps and crashes. But the overall gameplay isn't deep enough for me.",
+      "verdict": "It can be fun in short sessions if you like monster trucks, but after almost 20 hours I felt like I had seen most of what the game had to offer."
+    }
   },
   {
     "title": "Sleeping Dogs™",
@@ -1085,43 +1092,103 @@ const games=[
     "title": "The Last of Us™ Part I",
     "appId": 1888930,
     "hours": 18.8,
-    "status": "coming"
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story and characters are excellent. The relationship between Joel and Ellie develops naturally throughout the game, and I actually cared about what happened to them.",
+      "disliked": "Some sections can feel slow, especially when you're searching areas for supplies, but this wasn't a major problem for me.",
+      "story": "This is easily one of the strongest parts of the game. It's not just another story about surviving infected people. The relationship between Joel and Ellie is what makes the journey memorable.",
+      "combat": "I liked that ammunition and supplies aren't unlimited. You have to decide when to fight, when to use stealth and when avoiding enemies might be the better option.",
+      "exploration": "Searching abandoned buildings and environments for supplies also helps tell the story of what happened to the world and the people who lived there.",
+      "verdict": "An excellent story-driven game with memorable characters, strong atmosphere and enjoyable survival gameplay. The story is what really makes this game special for me."
+    }
   },
   {
     "title": "Dishonored",
     "appId": 205100,
     "hours": 17.5,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really liked the freedom the game gives you. You can use stealth, powers, weapons or combine everything depending on how you want to approach a mission.",
+      "disliked": "Some areas and objectives can become confusing, and there were times when finding the route I wanted took longer than I would have liked.",
+      "story": "The story of Corvo being framed and trying to protect Emily gives you a good reason to continue, but the freedom of the gameplay was more interesting to me than the story itself.",
+      "combat": "The powers are what make the game special. Being able to teleport with Blink, sneak past guards or attack enemies in completely different ways makes experimenting fun.",
+      "exploration": "Levels give you multiple routes and hidden areas. Looking around can reveal completely different ways of reaching the same objective.",
+      "verdict": "A very good stealth-action game because it gives you freedom instead of constantly telling you exactly how to complete a mission."
+    }
   },
   {
     "title": "EVERSPACE™",
     "appId": 396750,
     "hours": 16.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Flying through space, fighting other ships and constantly upgrading my equipment was enjoyable. I also liked discovering what I would find in the next area.",
+      "disliked": "The repeated cycle eventually started feeling repetitive. Dying and starting another run is part of the game, but doing similar things again wasn't always something I wanted to do.",
+      "combat": "Space combat is fast and gives you different weapons and equipment to experiment with. Improving your ship makes later attempts more manageable.",
+      "exploration": "Moving through different sectors gives the game a sense of discovery, even though you're regularly repeating the same basic gameplay cycle.",
+      "verdict": "A good space combat game with enjoyable progression and exploration, but the repetitive structure kept me from rating it higher."
+    }
   },
   {
     "title": "BioShock Infinite",
     "appId": 8870,
     "hours": 16.5,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Columbia is probably the most memorable part of the game. The city looks beautiful but also becomes darker and stranger as you discover what's actually happening.",
+      "disliked": "There are a lot of combat encounters, and some of them started feeling repetitive compared with the parts where I was exploring and following the story.",
+      "story": "The relationship between Booker and Elizabeth is a major part of what kept me interested. The story gets increasingly complicated and has an ending that gives you a lot to think about.",
+      "combat": "Combining guns with Vigors gives you different ways to fight. Elizabeth also helps during combat instead of feeling like someone you constantly have to protect.",
+      "exploration": "Exploring Columbia and discovering more about the city was one of my favorite parts. The environment itself tells a lot of the story.",
+      "verdict": "A very good story-driven shooter with a memorable world and interesting characters. Columbia and Elizabeth are what made the game stand out for me."
+    }
   },
   {
     "title": "Among Us",
     "appId": 945360,
     "hours": 16.2,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The idea is simple but fun. Trying to figure out who is lying—or trying to convince everyone that you're innocent—creates some funny situations.",
+      "disliked": "The experience depends heavily on the people you're playing with. The basic gameplay can also become repetitive after enough matches.",
+      "combat": "As a crewmate, you're completing tasks while trying to figure out who the Impostor is. Playing as the Impostor is more interesting because you have to lie, sabotage and eliminate players without getting caught.",
+      "verdict": "A fun social game with a simple idea that works very well, but it depends heavily on who you're playing with and becomes repetitive after enough matches."
+    }
   },
   {
     "title": "Watch_Dogs",
     "appId": 243470,
     "hours": 16,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The hacking system gives the open-world gameplay something different. Being able to manipulate cameras, traffic lights and other parts of the city gives you additional ways to approach situations.",
+      "disliked": "The world and missions can become repetitive, and I didn't connect with the characters as much as I have in some other open-world games.",
+      "story": "Aiden's personal revenge story is darker and more serious than I expected. It works, although the gameplay was more interesting to me than the characters.",
+      "combat": "Combining shooting, stealth and hacking is where the game works best. Hacking cameras and dealing with enemies without immediately starting a gunfight can be satisfying.",
+      "exploration": "Chicago is a good-sized open world with plenty to do, although many of the optional activities eventually start feeling similar.",
+      "verdict": "A good open-world game with an interesting hacking system, but repetitive activities and a story I didn't connect with enough kept it at a 7."
+    }
   },
   {
     "title": "RAGE",
     "appId": 9200,
     "hours": 16,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting feels good, and the weapons make fighting mutants and other enemies enjoyable. The post-apocalyptic setting also gives you some interesting places to visit.",
+      "disliked": "The world looks like it should offer more freedom than it actually does. I wanted more exploration and more things to discover between missions.",
+      "story": "The story works well enough to move you between missions, but it wasn't the main reason I kept playing.",
+      "combat": "Gunplay is definitely the strongest part. The weapons feel powerful, and fighting aggressive mutants can become intense when they start getting close to you.",
+      "exploration": "There is driving and an open-world structure, but the exploration isn't as deep as I would have liked.",
+      "verdict": "A good shooter with strong gunplay and an interesting post-apocalyptic setting, but I wanted more from its world and exploration."
+    }
   },
   {
     "title": "Tomb Raider",
@@ -1142,13 +1209,31 @@ const games=[
     "title": "Wolfenstein: The New Order",
     "appId": 201810,
     "hours": 15.7,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting is fast and powerful, and the alternate-history setting gives the game an interesting world.",
+      "disliked": "Some sections slowed down the action more than I wanted, and the gameplay eventually became repetitive.",
+      "story": "The alternate history gives the story something different from a normal World War II shooter, and there are some surprisingly serious character moments between all the action.",
+      "combat": "The weapons feel good, and being able to dual-wield makes some fights completely crazy. There are also opportunities for stealth when you don't want to immediately start shooting.",
+      "verdict": "A good action shooter with strong weapons and an interesting alternate-history story, but it didn't stand out enough for me to rate it higher."
+    }
   },
   {
     "title": "Watch_Dogs 2",
     "appId": 447040,
     "hours": 15.4,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The hacking gives you more options than simply shooting your way through missions. Using cameras, drones and other technology lets you deal with situations from a distance.",
+      "disliked": "Some activities become repetitive, and the lighter tone didn't always work for me.",
+      "story": "Marcus and DedSec are very different from Aiden and the first game. The story focuses more on technology, corporations and what they can do with people's information.",
+      "combat": "The hacking tools are the best part. Being able to use the drone and other devices makes it possible to complete parts of missions without physically entering every area yourself.",
+      "exploration": "San Francisco is colorful and enjoyable to drive around, with plenty of activities spread throughout the map.",
+      "comparison": "It improves the hacking and gives you more tools than the first Watch_Dogs, although I don't think every change automatically makes it a better overall experience.",
+      "verdict": "A good open-world hacking game with more tools and freedom than the first one, but some repetitive activities and the overall tone kept it at a 7 for me."
+    }
   },
   {
     "title": "Max Payne 3",
