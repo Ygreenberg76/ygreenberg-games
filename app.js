@@ -19,5 +19,5 @@ const wishlist=[
 {title:"The Expanse: Osiris Reborn",release:"Q2 2027",tags:["Action","RPG","Sci-fi","Singleplayer","Story Rich"],status:"Waiting for Release"},
 {title:"EXODUS",release:"Apr 7, 2027",tags:["Story Rich","Cinematic","Action RPG","Singleplayer","Adventure"],status:"Waiting for Release"}
 ];
-function wishlistCard(g){return \`<article class="card wishlist-card"><div class="wishlist-cover"><div class="cover-mark">WISHLIST</div><div class="cover-title">\${g.title}</div></div><div class="card-body"><p class="eyebrow">\${g.status.toUpperCase()}</p><h3>\${g.title}</h3><div class="release">Release: \${g.release}</div><div class="tag-row">\${g.tags.slice(0,3).map(t=>\`<span>\${t}</span>\`).join('')}</div><div class="status wishlist-status">PLAY • THEN REVIEW</div></div></article>\`}
+function wishlistCard(g){return `<article class="card wishlist-card"><div class="wishlist-cover"><div class="cover-mark">WISHLIST</div><div class="cover-title">${g.title}</div></div><div class="card-body"><p class="eyebrow">${g.status.toUpperCase()}</p><h3>${g.title}</h3><div class="release">Release: ${g.release}</div><div class="tag-row">${g.tags.slice(0,3).map(t=>`<span>${t}</span>`).join('')}</div><div class="status wishlist-status">PLAY • THEN REVIEW</div></div></article>`}
 document.querySelector('#wishlistGrid').innerHTML=wishlist.map(wishlistCard).join('');
