@@ -6,18 +6,18 @@ function openReview(g){const r=g.review||{};const section=(title,text)=>text?`<h
 const latest=reviewed[0];document.querySelector('#latestReview').innerHTML=latest?`<div><span class="pill">${latest.score}/10</span><h2>${latest.title}</h2><p>${latest.review.liked}</p><button id="latestBtn">Read my review</button></div><div class="spot-score">${latest.score}</div>`:'No reviews yet';if(latest)document.querySelector('#latestBtn').onclick=()=>openReview(latest);
 search.oninput=render;document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{document.querySelector('.filters .active').classList.remove('active');b.classList.add('active');filter=b.dataset.filter;render()});document.querySelector('#close').onclick=()=>{modal.classList.remove('open');modal.setAttribute('aria-hidden','true')};modal.onclick=e=>{if(e.target===modal)document.querySelector('#close').click()};document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelector('#close').click()});render();
 const wishlist=[
-{title:"Crimson Desert Enhanced",release:"Mar 19, 2026",tags:["Open World","Singleplayer","Action","Exploration","Adventure"],status:"Waiting to Play"},
-{title:"CONTROL Resonant",release:"Sep 24, 2026",tags:["Hack and Slash","Action RPG","Story Rich","Lore-Rich","Supernatural"],status:"Waiting to Play"},
-{title:"The Last of Us™ Part II Remastered",release:"Apr 3, 2025",tags:["Story Rich","Post-apocalyptic","Third-Person Shooter","Action-Adventure","LGBTQ+"],status:"Waiting to Play"},
-{title:"Indiana Jones and the Great Circle",release:"Dec 8, 2024",tags:["Action-Adventure","First-Person","Story Rich","Puzzle","Singleplayer"],status:"Waiting to Play"},
-{title:"007 First Light",release:"May 26, 2026",tags:["Cinematic","Story Rich","Singleplayer","Espionage","Action-Adventure"],status:"Waiting to Play"},
-{title:"PRAGMATA",release:"Apr 17, 2026",tags:["Cute","Sci-fi","Action","Third-Person Shooter","Funny"],status:"Waiting to Play"},
-{title:"Hell is Us",release:"Sep 4, 2025",tags:["Action","Singleplayer","Adventure","Atmospheric","Third Person"],status:"Waiting to Play"},
-{title:"Path of Exile 2",release:"Dec 6, 2024",tags:["Action RPG","Hack and Slash","RPG","Loot","Isometric"],status:"Waiting to Play"},
-{title:"The Outer Worlds 2",release:"Oct 29, 2025",tags:["RPG","Singleplayer","Action RPG","Open World","Exploration"],status:"Waiting to Play"},
-{title:"METRO 2039",release:"Feb 4, 2027",tags:["Action","Adventure","Post-apocalyptic","FPS","Shooter"],status:"Waiting for Release"},
-{title:"The Expanse: Osiris Reborn",release:"Q2 2027",tags:["Action","RPG","Sci-fi","Singleplayer","Story Rich"],status:"Waiting for Release"},
-{title:"EXODUS",release:"Apr 7, 2027",tags:["Story Rich","Cinematic","Action RPG","Singleplayer","Adventure"],status:"Waiting for Release"}
+{title:"Crimson Desert Enhanced",appId:"3321460",release:"Mar 19, 2026",tags:["Open World","Singleplayer","Action","Exploration","Adventure"],status:"Waiting to Play"},
+{title:"CONTROL Resonant",appId:"3669870",release:"Sep 24, 2026",tags:["Hack and Slash","Action RPG","Story Rich","Lore-Rich","Supernatural"],status:"Waiting to Play"},
+{title:"The Last of Us™ Part II Remastered",appId:"2531310",release:"Apr 3, 2025",tags:["Story Rich","Post-apocalyptic","Third-Person Shooter","Action-Adventure","LGBTQ+"],status:"Waiting to Play"},
+{title:"Indiana Jones and the Great Circle",appId:"2677660",release:"Dec 8, 2024",tags:["Action-Adventure","First-Person","Story Rich","Puzzle","Singleplayer"],status:"Waiting to Play"},
+{title:"007 First Light",appId:"3768760",release:"May 26, 2026",tags:["Cinematic","Story Rich","Singleplayer","Espionage","Action-Adventure"],status:"Waiting to Play"},
+{title:"PRAGMATA",appId:"3357650",release:"Apr 17, 2026",tags:["Cute","Sci-fi","Action","Third-Person Shooter","Funny"],status:"Waiting to Play"},
+{title:"Hell is Us",appId:"1620730",release:"Sep 4, 2025",tags:["Action","Singleplayer","Adventure","Atmospheric","Third Person"],status:"Waiting to Play"},
+{title:"Path of Exile 2",appId:"2694490",release:"Dec 6, 2024",tags:["Action RPG","Hack and Slash","RPG","Loot","Isometric"],status:"Waiting to Play"},
+{title:"The Outer Worlds 2",appId:"1449110",release:"Oct 29, 2025",tags:["RPG","Singleplayer","Action RPG","Open World","Exploration"],status:"Waiting to Play"},
+{title:"METRO 2039",appId:"2590240",release:"Feb 4, 2027",tags:["Action","Adventure","Post-apocalyptic","FPS","Shooter"],status:"Waiting for Release"},
+{title:"The Expanse: Osiris Reborn",appId:"3727390",release:"Q2 2027",tags:["Action","RPG","Sci-fi","Singleplayer","Story Rich"],status:"Waiting for Release"},
+{title:"EXODUS",appId:"3230960",release:"Apr 7, 2027",tags:["Story Rich","Cinematic","Action RPG","Singleplayer","Adventure"],status:"Waiting for Release"}
 ];
-function wishlistCard(g){return `<article class="card wishlist-card"><div class="wishlist-cover"><div class="cover-mark">WISHLIST</div><div class="cover-title">${g.title}</div></div><div class="card-body"><p class="eyebrow">${g.status.toUpperCase()}</p><h3>${g.title}</h3><div class="release">Release: ${g.release}</div><div class="tag-row">${g.tags.slice(0,3).map(t=>`<span>${t}</span>`).join('')}</div><div class="status wishlist-status">PLAY • THEN REVIEW</div></div></article>`}
+function wishlistCard(g){return `<article class="card wishlist-card"><div class="wishlist-cover has-artwork"><img src="https://cdn.akamai.steamstatic.com/steam/apps/${g.appId}/header.jpg" alt="${g.title} artwork" loading="lazy" onerror="this.remove();this.parentElement.classList.remove('has-artwork')"><div class="cover-mark">WISHLIST</div><div class="cover-title">${g.title}</div></div><div class="card-body"><p class="eyebrow">${g.status.toUpperCase()}</p><h3>${g.title}</h3><div class="release">Release: ${g.release}</div><div class="tag-row">${g.tags.slice(0,3).map(t=>`<span>${t}</span>`).join('')}</div><div class="status wishlist-status">PLAY • THEN REVIEW</div></div></article>`}
 document.querySelector('#wishlistGrid').innerHTML=wishlist.map(wishlistCard).join('');
