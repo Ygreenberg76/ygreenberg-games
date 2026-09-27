@@ -888,43 +888,103 @@ const games=[
     "title": "DOOM",
     "appId": 379720,
     "hours": 23.1,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combat is fast, aggressive and just fun. The game doesn't want you hiding behind cover. It wants you moving, getting close to enemies and constantly attacking.",
+      "disliked": "After a while, the basic gameplay can become repetitive because most situations come down to entering an area and killing everything before moving forward.",
+      "story": "The story is there, but it isn't really what kept me playing. The action and gameplay are much more important.",
+      "combat": "This is easily the strongest part. The weapons feel powerful, Glory Kills encourage you to stay aggressive, and constantly moving around enemies makes every large fight feel intense.",
+      "exploration": "The levels have secrets, upgrades and hidden areas, so there is a reason to look around instead of always following the main path.",
+      "verdict": "A very good shooter that focuses on exactly what it does best: fast movement, powerful weapons and nonstop demon killing."
+    }
   },
   {
     "title": "Phasmophobia",
     "appId": 739630,
     "hours": 22.9,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Trying to figure out what type of ghost you're dealing with can be fun, especially when strange things start happening and you're trying to collect enough evidence.",
+      "disliked": "The basic gameplay becomes repetitive. You enter a location, search for evidence, identify the ghost and repeat the process again.",
+      "combat": "Using different equipment to look for evidence gives you something to think about instead of simply walking around waiting for a ghost to appear.",
+      "exploration": "The atmosphere is probably the strongest part. Dark buildings, strange noises and not knowing when something is going to happen create a lot of tension.",
+      "verdict": "A good horror game with an interesting idea, but after enough hours the investigations started feeling too similar for me."
+    }
   },
   {
     "title": "DOOM: The Dark Ages",
     "appId": 3017860,
     "hours": 22.8,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combat still feels powerful and aggressive, but it has a different style from the previous DOOM games. The medieval setting, heavier weapons and Shield Saw give the game its own personality.",
+      "disliked": "Even with the new mechanics, there are still times when the constant fighting starts becoming repetitive.",
+      "story": "There is more focus on the Doom Slayer and the world around him, but I still played DOOM mainly for the combat rather than the story.",
+      "combat": "The Shield Saw is one of the biggest changes. Blocking and parrying attacks adds another part to combat instead of everything being about shooting and movement. The weapons still feel powerful, and large fights can become crazy very quickly.",
+      "exploration": "The environments feel larger and more open than some of the earlier games, with secrets and upgrades that give you a reason to explore.",
+      "verdict": "Another very good DOOM game. I liked the heavier combat and medieval style, and the Shield Saw helps make it feel different instead of simply being more of the same."
+    }
   },
   {
     "title": "Worm.is: The Game",
     "appId": 466910,
     "hours": 22.1,
-    "status": "coming"
+    "score": 6,
+    "status": "reviewed",
+    "review": {
+      "liked": "It's simple and easy to understand. You grow your worm, avoid other players and try to get bigger. It can be entertaining when you just want something quick to play.",
+      "disliked": "There isn't enough variety to keep me interested for a long time. Once you've played enough matches, you've basically seen what the game has to offer.",
+      "combat": "Trying to trap other players while avoiding getting trapped yourself can be fun, especially when you've built a large worm and don't want to lose everything.",
+      "verdict": "A simple game that can be fun for a while, but there isn't enough depth or variety for me to rate it higher."
+    }
   },
   {
     "title": "God of War",
     "appId": 1593500,
     "hours": 21.9,
-    "status": "coming"
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story, characters, combat and world are all excellent. Kratos feels completely different from the character he was in the older games, and his relationship with Atreus gives the game much more emotion.",
+      "disliked": "Some enemies and optional activities can become repetitive, but it wasn't enough to seriously hurt my experience.",
+      "story": "This is one of the strongest parts of the game. What starts as a journey for Kratos and Atreus becomes much bigger, but the relationship between them remains at the center of everything.",
+      "combat": "The Leviathan Axe feels great. Throwing it at an enemy and calling it back never really gets old. As you unlock more abilities and equipment, combat gives you more ways to deal with different enemies.",
+      "exploration": "I liked that the game isn't completely open world but still gives you freedom to explore. There are optional areas, puzzles, side quests and powerful enemies to discover away from the main story.",
+      "comparison": "After also playing Ragnarök, I think both games are excellent. God of War is where this version of Kratos and Atreus really begins, while Ragnarök expands almost everything that was introduced here.",
+      "verdict": "An excellent story-driven action game with great combat, memorable characters and a world that made me want to explore beyond the main story."
+    }
   },
   {
     "title": "Half-Life: Alyx",
     "appId": 546560,
     "hours": 21.8,
-    "status": "coming"
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The level of interaction is incredible. In VR, simple things like opening a door, searching a shelf or reloading a weapon feel completely different because you're physically doing the actions yourself.",
+      "disliked": "VR itself can make longer sessions difficult, and having to wear a headset means it's not a game I can just sit down and play as easily as a normal PC game.",
+      "story": "Returning to the Half-Life universe in VR was great. The story keeps the mystery of Half-Life while giving Alyx her own adventure.",
+      "combat": "Gunfights become much more intense in VR. Reloading manually while an enemy is coming toward you creates a completely different kind of pressure from pressing a reload button in a normal shooter.",
+      "exploration": "VR makes you want to physically look around rooms and search through objects. Even smaller environments become interesting because you can interact with so many things.",
+      "verdict": "One of the best VR experiences I've played. It doesn't feel like a normal game converted to VR—it feels like it was designed around what VR can actually do."
+    }
   },
   {
     "title": "Sniper Elite 3",
     "appId": 238090,
     "hours": 21.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Long-distance sniping is easily the best part. Planning a shot, accounting for distance and then seeing the X-ray kill camera makes successful shots satisfying.",
+      "disliked": "Missions and enemy encounters can become repetitive, and the gameplay isn't as strong when you're forced into close-range combat.",
+      "combat": "I enjoyed staying at a distance, marking enemies and deciding who to eliminate first. Using noise to hide your shots also adds some strategy instead of simply shooting everyone immediately.",
+      "exploration": "The larger levels give you different routes and positions to use, which works well with the sniper gameplay.",
+      "verdict": "A good sniper game with satisfying long-distance shooting, but the missions eventually started feeling too similar."
+    }
   },
   {
     "title": "Fallout: New Vegas",
@@ -961,13 +1021,30 @@ const games=[
     "title": "Wolfenstein II: The New Colossus",
     "appId": 612880,
     "hours": 20.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The weapons are powerful, the action is crazy and the game isn't afraid to go completely over the top.",
+      "disliked": "The story and long sections between fights sometimes interrupted the pace when I just wanted to get back to the action.",
+      "story": "The alternate-history setting is interesting and the game has some memorable characters and scenes. At times, though, the story becomes so over-the-top that it can be difficult to take seriously.",
+      "combat": "Dual-wielding weapons and fighting through groups of enemies can be a lot of fun. You can sometimes use stealth, but for me the game works best when the shooting starts.",
+      "verdict": "A good shooter with strong weapons and some crazy action, but the pacing and story sections kept me from enjoying it as much as my favorite shooters."
+    }
   },
   {
     "title": "Alan Wake",
     "appId": 108710,
     "hours": 19.9,
-    "status": "coming"
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The atmosphere and mystery are the strongest parts. The game constantly makes you want to understand what is happening and what is real.",
+      "disliked": "Combat becomes repetitive. Shining the flashlight on enemies before shooting them is interesting at first, but after enough encounters it starts feeling like the same process again.",
+      "story": "The story is what kept me interested. Alan searching for answers while pieces of a manuscript seem to predict events creates a strange mystery that makes you want to continue.",
+      "combat": "Using light as part of combat is a good idea and gives the game something different from a normal third-person shooter.",
+      "exploration": "Bright Falls and the surrounding areas have a dark, isolated atmosphere that works extremely well with the story.",
+      "verdict": "A very interesting story and atmosphere with a unique use of light, but the repetitive combat kept it from being better for me."
+    }
   },
   {
     "title": "Monster Jam",
@@ -978,7 +1055,16 @@ const games=[
     "title": "Sleeping Dogs™",
     "appId": 202170,
     "hours": 19.6,
-    "status": "coming"
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The Hong Kong setting and hand-to-hand combat make the game different from most other open-world crime games. Fighting groups of enemies is much more important than simply using guns all the time.",
+      "disliked": "Some side activities become repetitive, and parts of the open world feel dated compared with newer games.",
+      "story": "Playing an undercover police officer inside the Triads creates an interesting situation because Wei Shen is constantly caught between his police work and the people he becomes close to.",
+      "combat": "Hand-to-hand combat is one of the best parts. Counters, combos and environmental attacks make fights much more entertaining than basic punching.",
+      "exploration": "Hong Kong gives the game its own identity. Driving through the city, finding activities and exploring different neighborhoods makes it feel different from the typical American open-world setting.",
+      "verdict": "A good open-world crime game with an interesting story and very enjoyable hand-to-hand combat. It shows its age in some areas, but it's still fun to play."
+    }
   },
   {
     "title": "Metro Exodus",
