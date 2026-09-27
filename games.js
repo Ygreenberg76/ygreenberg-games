@@ -36,38 +36,95 @@ const games=[
     "title": "Grand Theft Auto V Legacy",
     "appId": 271590,
     "hours": 218.8,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "GTA V gives you a huge open world with so much freedom. I really enjoyed being able to explore Los Santos, drive different cars, use different weapons, and decide what I wanted to do instead of always following the main story.",
+      "disliked": "Some parts can become repetitive after spending hundreds of hours in the game, and traveling across the map can sometimes take longer than I would like.",
+      "story": "The story was one of the strongest parts for me. Having three different main characters keeps things interesting because each one has a different personality and way of doing things. The missions also have enough variety that I wanted to continue to see what would happen next.",
+      "combat": "The shooting and driving are fun, and there are plenty of weapons and vehicles to use. The big missions and heists were some of my favorite parts because they made the game feel different from a normal open-world shooter.",
+      "recommendation": "Anyone who enjoys open-world games, action, driving, shooting, and having the freedom to play a game the way they want.",
+      "verdict": "A huge, entertaining open world with a strong story and plenty of freedom."
+    }
+  }
   {
     "title": "Far Cry® 3",
     "appId": 220240,
     "hours": 168.6,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really enjoyed the combination of exploring the island, shooting, stealth, and upgrading my character. Taking over enemy locations and slowly becoming stronger made me want to keep exploring.",
+      "disliked": "After playing for a long time, some of the activities and side content can start feeling repetitive.",
+      "story": "The story is interesting and gives you a reason to continue. The characters and dangerous island setting help make the game memorable.",
+      "combat": "Far Cry 3 gives you a lot of freedom in combat. You can attack directly with guns or take your time, stay hidden, and eliminate enemies quietly. Having different weapons and abilities makes taking over enemy bases fun.",
+      "exploration": "The island is a big part of what makes the game fun. There is always another location to explore, enemy base to attack, or something to find.",
+      "recommendation": "Players who enjoy open-world FPS games, exploration, stealth, and action.",
+      "verdict": "A memorable open-world shooter with fun combat, stealth, and exploration."
+    }
+  }
   {
     "title": "Far Cry® 3 Blood Dragon",
     "appId": 233270,
     "hours": 163.7,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "Blood Dragon takes the Far Cry gameplay and turns everything crazy. The neon graphics, weapons, humor, and 1980s science-fiction style make it feel completely different.",
+      "disliked": "I wish there was more of it. The world and idea were good enough that the game could have been much bigger.",
+      "combat": "The shooting is great, but I especially liked having the choice between attacking enemies directly or using stealth. The Blood Dragons themselves make exploring and fighting much more interesting.",
+      "exploration": "The style and world are what make Blood Dragon special. It doesn't try to be realistic. Everything from the colors to the characters and enemies feels like an over-the-top science-fiction action movie.",
+      "recommendation": "Far Cry fans, FPS players, and especially anyone who likes crazy science-fiction and 1980s-style action.",
+      "verdict": "A crazy, fun Far Cry experience with a style that makes it stand out."
+    }
+  }
   {
     "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "appId": 287700,
     "hours": 140.7,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The amount of freedom the game gives you is excellent. You can approach missions with stealth, weapons, different equipment, and companions, and there isn't only one correct way to complete an objective.",
+      "disliked": "The biggest problem is repetition. After enough hours, you start returning to familiar locations and doing similar objectives.",
+      "combat": "Stealth is where the game is at its best. Planning how to enter an enemy base, marking enemies, and deciding whether to sneak through or fight gives the gameplay a lot of freedom.",
+      "building": "Developing Mother Base, recruiting soldiers, and unlocking new weapons and equipment gives you another reason to keep completing missions.",
+      "recommendation": "Players who enjoy stealth games and like having freedom in how they complete missions.",
+      "verdict": "Excellent stealth and freedom of approach, held back somewhat by repetition."
+    }
+  }
   {
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "appId": 1643320,
     "hours": 131.6,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The atmosphere and exploration are what made STALKER 2 special for me. The Zone feels dangerous, unpredictable, and different from most open-world games.",
+      "disliked": "The bugs and technical problems can hurt the experience. There are also times when missions require a lot of traveling.",
+      "story": "The story gives you plenty of reasons to travel deeper into the Zone, meet different factions, and find out what is really happening.",
+      "combat": "I enjoyed the gunplay and survival elements. Weapons feel important, ammunition matters, and fights can become dangerous very quickly.",
+      "exploration": "Exploring is a huge part of the experience. You never really know what you're going to find, and traveling through abandoned buildings and dangerous areas makes you want to keep looking.",
+      "recommendation": "Players who like FPS games, survival, exploration, and darker open worlds where the game doesn't always make things easy for you.",
+      "verdict": "A great atmospheric survival shooter where exploring the Zone is the real highlight."
+    }
+  }
   {
     "title": "Kingdom Come: Deliverance II",
     "appId": 1771300,
     "hours": 117.9,
-    "status": "coming"
-  },
+    "score": 9.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "This is one of the best RPG experiences I've played. The world feels alive, and I loved that the game doesn't treat you like an unstoppable hero from the beginning.",
+      "disliked": "Some systems take time to learn and the slower, more realistic gameplay won't be for everyone.",
+      "story": "The story kept me interested for more than 100 hours. I also enjoyed the side quests because many of them feel like actual stories rather than simple tasks you complete for experience points.",
+      "combat": "Combat takes time to learn, but becoming better at fighting is part of what makes it satisfying. You actually feel your character becoming more capable as you progress.",
+      "exploration": "Exploring the medieval world was a major part of the experience for me. Towns, forests, and villages make the world feel like somewhere people actually live rather than just a map filled with mission icons.",
+      "recommendation": "RPG players who want a deep story, exploration, character progression, and a more realistic medieval world.",
+      "verdict": "One of the best RPG experiences I've played, with a world and story that kept me interested for more than 100 hours."
+    }
+  }
   {
     "title": "Stumble Guys",
     "appId": 1677740,
@@ -78,26 +135,66 @@ const games=[
     "title": "Assassin's Creed Odyssey",
     "appId": 812140,
     "hours": 105.3,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Ancient Greece is beautiful and huge. I enjoyed exploring the islands, fighting enemies, upgrading equipment, and developing my character.",
+      "disliked": "The size is also one of its weaknesses. There is so much content that some activities and locations eventually begin to feel repetitive.",
+      "story": "The story kept me interested, and I liked having choices during conversations and missions. It helps make the adventure feel more like an RPG than some of the older Assassin's Creed games.",
+      "combat": "Combat is fun, especially after unlocking more abilities and finding better equipment. There are many different weapons and ways to build your character.",
+      "exploration": "The world is enormous and there is a lot to discover. Sailing between islands also gives the game a real sense of adventure.",
+      "recommendation": "Players who enjoy Assassin's Creed, RPG progression, historical worlds, and very large open-world games.",
+      "verdict": "A beautiful and very large Assassin's Creed RPG with lots to explore."
+    }
+  }
   {
     "title": "Cyberpunk 2077",
     "appId": 1091500,
     "hours": 97.5,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Night City is the biggest reason to experience Cyberpunk 2077. The graphics, atmosphere, characters, and futuristic world make exploring the city enjoyable.",
+      "disliked": "The game can sometimes overwhelm you with missions, equipment, and things happening around the map, and not every activity is equally interesting.",
+      "story": "The story and characters are strong and give you a reason to care about what happens. I also liked having choices and different ways to develop my character.",
+      "combat": "There are many ways to fight. You can use guns, hacking, and different character abilities, which allows you to build a play style that works for you.",
+      "exploration": "Night City looks great and has many different areas to explore. Driving around the city and finding missions makes the world feel much larger than simply following the main story.",
+      "recommendation": "RPG players who like story-driven games, futuristic worlds, exploration, and having different ways to build their character.",
+      "verdict": "A strong futuristic RPG with a great city, story, and different ways to play."
+    }
+  }
   {
     "title": "Dying Light 2: Reloaded Edition",
     "appId": 534380,
     "hours": 84.5,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combination of parkour, exploration, and fighting zombies makes Dying Light 2 a lot of fun. Moving across rooftops and finding different ways through the city is a big part of the experience.",
+      "disliked": "Some activities can become repetitive after spending a lot of time in the city.",
+      "story": "The story gives you choices and different characters to work with, although for me the gameplay and exploration are stronger than the story itself.",
+      "combat": "Melee combat is fun, and upgrading weapons and abilities gives you a reason to keep progressing. Parkour also becomes better as you unlock more abilities.",
+      "exploration": "The city gives you plenty of places to explore above and below ground. Day and night also change how you approach the world.",
+      "recommendation": "Players who enjoy zombies, open-world exploration, action, and especially parkour.",
+      "verdict": "A fun open-world zombie game where parkour, combat, and exploration are the strongest parts."
+    }
+  }
   {
     "title": "The Elder Scrolls V: Skyrim",
     "appId": 72850,
     "hours": 78.6,
-    "status": "coming"
-  },
+    "score": 9.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "Skyrim is the type of RPG where I can start walking toward one mission and end up spending hours doing something completely different. The freedom to explore and create your own adventure is what makes the game special.",
+      "disliked": "Some combat and animations show the game's age today, but they don't take away from what makes the world and RPG experience so enjoyable.",
+      "story": "There is so much more than the main story. Different quest lines, characters, towns, and discoveries constantly give you another reason to keep playing.",
+      "combat": "I like being able to build my character the way I want. You can focus on swords, bows, magic, stealth, or combine different styles instead of being forced into one type of character.",
+      "exploration": "Exploration is probably the best part of Skyrim. Mountains, caves, ruins, towns, and random encounters make it easy to forget what mission you originally planned to do.",
+      "recommendation": "Anyone who loves RPGs, fantasy, exploration, character building, and games that give you the freedom to create your own adventure.",
+      "verdict": "One of my favorite RPG experiences because of the freedom, exploration, and huge amount of things to discover."
+    }
+  }
   {
     "title": "Kingdom Come: Deliverance",
     "appId": 379430,
