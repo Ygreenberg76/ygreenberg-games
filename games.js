@@ -1948,60 +1948,132 @@ const games=[
     "title": "Red Faction: Guerrilla Steam Edition",
     "appId": 20500,
     "hours": 1.533,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The destruction system is easily the most interesting part. Being able to actually destroy buildings and structures makes the world much more interactive than in many other action games.",
+      "disliked": "I only played for around an hour and a half, so I didn't get far enough to experience much of the story or progression.",
+      "combat": "Destroying structures with weapons and the sledgehammer is satisfying, and I liked that destruction can actually be part of how you approach an objective.",
+      "verdict": "From the time I played, the destruction technology was the part that stood out the most. I enjoyed it, but I didn't play long enough to experience everything the game offers."
+    }
   },
   {
     "title": "Disco Elysium",
     "appId": 632470,
     "hours": 1.5,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The writing, conversations and unusual RPG systems immediately make the game feel different from almost every other RPG.",
+      "disliked": "There is a lot of reading and conversation, and the slow pace made it harder for me to get completely invested.",
+      "story": "I liked that conversations and character abilities are basically the gameplay instead of traditional combat. It's a very different approach to an RPG.",
+      "verdict": "I can see why people who enjoy deep story-driven RPGs like it. The writing and ideas are interesting, but after about an hour and a half, the slower style wasn't enough to keep me playing longer."
+    }
   },
   {
     "title": "Quaver",
     "appId": 980610,
     "hours": 1.317,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The rhythm gameplay is simple to understand but becomes much more challenging when the songs get faster.",
+      "disliked": "Rhythm games aren't really the type of game I normally spend a lot of time playing, so I didn't get deeply into it.",
+      "combat": "Timing your inputs correctly with the music is the entire challenge. Improving your timing and trying to get a better score can become addictive.",
+      "verdict": "A good rhythm game that does what it's supposed to do. I had some fun with it, but it's not really the type of game that keeps me playing for a long time."
+    }
   },
   {
     "title": "Delta Force",
     "appId": 2507950,
     "hours": 1.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The shooting feels good, and I liked the larger-scale military combat with different weapons and equipment.",
+      "disliked": "I only played for a little over an hour, so I didn't experience enough of the game to become invested in its progression or different modes.",
+      "combat": "From what I played, the gunplay is enjoyable and the larger environments give you more room to approach fights than a very linear shooter.",
+      "verdict": "A good military shooter from my limited time with it. The combat was enjoyable, but I didn't play enough to give it anything higher than a 7."
+    }
   },
   {
     "title": "Fallout 3",
     "appId": 22300,
     "hours": 1.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "Even in my limited playtime, I liked the Fallout atmosphere, exploration and freedom to decide where to go and what to investigate.",
+      "disliked": "The game definitely feels older now, especially the shooting, movement, graphics and interface.",
+      "story": "Leaving Vault 101 and entering the Capital Wasteland gives you that Fallout feeling of having a large world in front of you without knowing exactly what you're going to find.",
+      "combat": "The shooting feels dated compared with Fallout 4, but V.A.T.S. makes combat more interesting and gives it the familiar Fallout RPG style.",
+      "comparison": "I prefer Fallout 4 because of the improved combat, graphics and additional systems, but Fallout 3 still has the exploration and atmosphere I enjoy about Fallout.",
+      "verdict": "I didn't put enough hours into Fallout 3 to experience most of it, but what I played had the Fallout exploration and freedom that I enjoy. Even with its age, I still give it an 8."
+    }
   },
   {
     "title": "Counter-Strike 2",
     "appId": 730,
     "hours": 1.133,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The shooting is very skill-based, and every mistake can matter. Winning a fight because you reacted faster or aimed better can be satisfying.",
+      "disliked": "It's heavily focused on competitive multiplayer, which isn't really the type of gaming experience I normally prefer.",
+      "combat": "Weapons require accuracy and practice, and you can't simply run around shooting like you can in some faster arcade shooters.",
+      "verdict": "A solid competitive shooter with very skill-based gunplay. I understand the appeal, but competitive multiplayer isn't enough to keep me playing for a long time."
+    }
   },
   {
     "title": "Brawlhalla",
     "appId": 291550,
     "hours": 0.967,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "It's easy to start playing, and the fast matches make it a good game when you just want something quick.",
+      "disliked": "The basic fighting loop started feeling repetitive to me fairly quickly.",
+      "combat": "Different characters and weapons give the fighting some variety, while knocking opponents off the stage keeps matches simple and competitive.",
+      "verdict": "A fun fighting game for shorter sessions. I enjoyed what I played, but it didn't have enough to make me want to spend a lot more time with it."
+    }
   },
   {
     "title": "The Lab",
     "appId": 450390,
     "hours": 0.933,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked trying the different VR experiences and seeing how interaction and movement work in virtual reality.",
+      "disliked": "It feels more like a collection of VR experiments and demonstrations than a complete game.",
+      "combat": "The different activities are useful for experiencing what VR can do, and some of them are entertaining even though they're fairly simple.",
+      "verdict": "A fun VR experience and a good demonstration of the technology, but there isn't enough depth for me to treat it like a full game."
+    }
   },
   {
     "title": "Garry's Mod",
     "appId": 4000,
     "hours": 0.917,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The freedom is probably the biggest strength. You can experiment with physics, objects and community-created content instead of being forced to follow a normal game structure.",
+      "disliked": "Because there isn't really one main objective, I didn't have the same motivation to keep playing that I get from games with a story or progression.",
+      "combat": "It's basically a sandbox where the entertainment comes from experimenting and deciding what you want to do yourself.",
+      "verdict": "A creative sandbox with a huge amount of freedom, but I personally prefer games that give me a story, progression or clearer objectives."
+    }
   },
   {
     "title": "Trash Patrol - Academic Version",
     "hours": 0.883,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The concept is simple and easy to understand, and I could see what the game was trying to do.",
+      "disliked": "There wasn't enough depth or variety to keep me interested. It felt more like a small experimental or academic project than a complete game.",
+      "combat": "The mechanics are fairly basic, and after understanding how they work, I didn't feel like there was much more for me to discover.",
+      "verdict": "An interesting small project, but compared with the other games I've played, there wasn't enough content or gameplay variety to keep me interested."
+    }
   },
   {
     "title": "Crab Game",
