@@ -507,62 +507,143 @@ const games=[
     "title": "Dying Light",
     "appId": 239140,
     "hours": 41.1,
-    "status": "coming"
-  },
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The parkour is probably the best part of the game. Running across rooftops, climbing buildings and finding different ways around the city makes exploring much more fun than just walking from one mission to another.",
+      "disliked": "Some missions and activities become repetitive, and the game can feel a little slow before you unlock better skills and weapons.",
+      "story": "The story was interesting enough to keep me going, but for me the gameplay and exploring the city were stronger than the actual story.",
+      "combat": "Melee combat becomes much better as you get stronger and find better weapons. I also liked how nighttime completely changes the experience. Going outside at night feels much more dangerous than during the day.",
+      "exploration": "Parkour makes exploration one of the strongest parts. Instead of simply following roads, you're constantly looking at buildings and thinking about how to get across or on top of them.",
+      "verdict": "A fun zombie game with great parkour and exploration, although I enjoyed the newer Dying Light games more."
+    }
+  }
   {
     "title": "Where Winds Meet",
     "appId": 3564740,
     "hours": 40,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The world is beautiful, the combat is fun, and there is a huge amount to explore. I especially liked having different weapons, martial arts abilities and ways to develop my character.",
+      "disliked": "My biggest problem is that the game is simply too long. There is so much content that after around 40 hours I started getting bored. Instead of always wanting to see what was next, I started feeling like I was doing too much of the same thing.",
+      "combat": "Combat gives you plenty of options, and unlocking different abilities keeps it interesting. Switching weapons and combining martial arts abilities makes fights look and feel good.",
+      "exploration": "The open world is huge and gives you plenty to discover. At first this was one of my favorite parts, but eventually the amount of content also became part of the problem. There can be too much happening instead of the game keeping you focused.",
+      "verdict": "A very good open-world RPG with great combat and a beautiful world, but it needed to be shorter. I enjoyed it, but eventually the length started making me lose interest."
+    }
+  }
   {
     "title": "Marvel’s Spider-Man Remastered",
     "appId": 1817070,
     "hours": 39.6,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Web-swinging through New York is easily one of the best parts. Sometimes I didn't even care about using fast travel because swinging across the city was more fun.",
+      "disliked": "Some of the side activities and crimes around the city become repetitive after you've done them enough times.",
+      "story": "I enjoyed Peter Parker's story because the game doesn't only focus on Spider-Man. You also see his personal relationships and problems, which makes the characters more interesting.",
+      "combat": "Combat is fast and smooth. You can use punches, webs, gadgets and the environment, and once you become comfortable with everything you can move between enemies without stopping.",
+      "exploration": "New York looks great, but web-swinging is what makes exploring it special.",
+      "verdict": "A very good Spider-Man game with excellent movement, fun combat and a strong story."
+    }
+  }
   {
     "title": "DEATH STRANDING",
     "appId": 1190460,
     "hours": 36.4,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Death Stranding is completely different from almost anything else I've played. Planning a route, carrying cargo and figuring out how to cross difficult terrain sounds simple, but somehow it becomes satisfying.",
+      "disliked": "The game can be very slow. There are long sections where you're mostly traveling and delivering cargo, so you need patience to really enjoy it.",
+      "story": "The story is strange and sometimes confusing, but that also made me want to understand what was happening and why this world became the way it is.",
+      "exploration": "The environment itself is almost your enemy. Mountains, rivers and difficult terrain can turn a simple delivery into something you actually need to plan.",
+      "building": "I really liked how roads, bridges and other structures can make future trips easier. Slowly improving your routes gives you a real feeling of progress.",
+      "verdict": "Definitely not a game for everyone, but it's different enough that I enjoyed the experience and I'm glad I played it."
+    }
+  }
   {
     "title": "EA SPORTS FC™ 24",
     "appId": 2195250,
     "hours": 36.4,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The actual soccer gameplay is fun, especially when you just want to play a few matches. There are plenty of teams, players and modes to choose from.",
+      "disliked": "After enough hours, matches can start feeling repetitive. There are a lot of modes and features, but the basic experience doesn't change enough for me to want to keep playing forever.",
+      "combat": "Passing, shooting and building attacks can be satisfying when a match is going well. I also liked being able to play with different teams and try different formations and players.",
+      "verdict": "A good soccer game and fun when I'm in the mood for it, but not something that kept me interested the same way my favorite RPGs and open-world games do."
+    }
+  }
   {
     "title": "Batman™: Arkham Origins",
     "appId": 209000,
     "hours": 36.3,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really enjoyed the Batman combat, stealth and story. Even though it doesn't completely change the Arkham formula, that didn't bother me because the formula already works very well.",
+      "disliked": "It doesn't introduce as many new ideas as the other Arkham games, and the larger Gotham doesn't always mean there is more interesting content.",
+      "story": "Seeing a younger Batman dealing with assassins and developing relationships with characters like Gordon makes the story interesting.",
+      "combat": "The free-flow combat is excellent. Moving between enemies, countering attacks and using Batman's gadgets makes you feel powerful without making every fight automatic. The predator sections are some of my favorite parts because taking enemies out one at a time makes playing as Batman much more interesting than simply fighting everyone directly.",
+      "verdict": "It may not reinvent the Arkham games, but I really enjoyed the combat, stealth and Batman story."
+    }
+  }
   {
     "title": "theHunter: Call of the Wild™",
     "appId": 518790,
     "hours": 35.3,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The environments are beautiful, and tracking an animal successfully can be surprisingly satisfying.",
+      "disliked": "The game is very slow. You can spend a lot of time walking and tracking without actually finding what you're looking for.",
+      "exploration": "You need patience. Running everywhere and shooting at everything doesn't really work. You have to look for tracks, pay attention to the wind and slowly move toward animals.",
+      "verdict": "It's relaxing when I'm in the mood for a slower game, but sometimes it's just too slow for me."
+    }
+  }
   {
     "title": "Prototype",
     "appId": 10150,
     "hours": 32.6,
-    "status": "coming"
-  },
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The powers are what make Prototype fun. Running around the city, climbing buildings and destroying enemies makes you feel ridiculously powerful.",
+      "disliked": "After enough time, missions and combat can start feeling repetitive, and the game definitely looks and feels older today.",
+      "combat": "There are plenty of different abilities, and I liked being able to switch between powers depending on what I was fighting. The game isn't trying to make you feel like a normal person—you are basically a weapon.",
+      "exploration": "Moving around the city is fun because you're so powerful that buildings and streets don't really slow you down.",
+      "verdict": "An older game that shows its age, but the powers and freedom to cause chaos are still fun."
+    }
+  }
   {
     "title": "Saints Row IV",
     "appId": 206420,
     "hours": 32.4,
-    "status": "coming"
-  },
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The superpowers completely change Saints Row. Super speed, huge jumps and other abilities make moving around the city crazy and fun.",
+      "disliked": "Eventually the powers can make everything feel too easy, and combat starts becoming repetitive.",
+      "story": "The game doesn't take itself seriously at all. The story is crazy, and that's really the point.",
+      "combat": "Once you have enough powers, you almost don't need normal cars anymore. Running and jumping across the city becomes faster and more entertaining.",
+      "verdict": "A crazy and fun game that doesn't take itself seriously, although the superpowers eventually make some of the normal Saints Row gameplay less important."
+    }
+  }
   {
     "title": "Battlefield: Bad Company™ 2",
     "appId": 24960,
     "hours": 31.7,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting and destruction are the best parts. Being able to destroy buildings and cover makes battles more interesting because the environment can actually change during a fight.",
+      "disliked": "For me, it doesn't have the depth or long-term appeal of the shooters I enjoy most. I had fun with it, but after around 30 hours I didn't feel a strong reason to keep going.",
+      "story": "The campaign has some fun characters and big action moments. I liked that the squad has more personality than you normally get in a military shooter.",
+      "combat": "Weapons feel good, vehicles add variety, and destroying the environment makes combat different from shooters where everything around you is permanent.",
+      "verdict": "A good Battlefield game with fun destruction and shooting, but not one of my personal favorite shooters."
+    }
+  }
   {
     "title": "Mass Effect 2 (2010)",
     "appId": 24980,
