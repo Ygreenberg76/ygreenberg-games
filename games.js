@@ -2079,59 +2079,130 @@ const games=[
     "title": "Crab Game",
     "appId": 1782210,
     "hours": 0.783,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The mini-games can be funny and chaotic, especially when a lot of players are competing at the same time.",
+      "disliked": "The gameplay didn't hold my attention for very long. It feels more like something to play for a few laughs than a game I would spend many hours playing.",
+      "combat": "The simple challenges are easy to understand, and most of the entertainment comes from the unpredictable things that happen with other players.",
+      "verdict": "Funny for a short time, but there wasn't enough depth to keep me interested. Based on my short time with it, it's a 5 for me."
+    }
   },
   {
     "title": "The Scourge Project: Episode 1 and 2",
     "hours": 0.75,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The science-fiction setting and third-person shooting gave me some interesting ideas to work with during the short time I played.",
+      "disliked": "The game felt dated and didn't give me enough reason to continue playing. The controls and overall presentation didn't really pull me in.",
+      "combat": "The shooting works, but from my limited experience there wasn't anything about the combat that made it stand out from other third-person shooters.",
+      "verdict": "I only played for about 45 minutes, but it didn't make a strong enough first impression for me to continue. There are some decent ideas here, but it's a 5 for me."
+    }
   },
   {
     "title": "Plants vs. Zombies: Game of the Year",
     "appId": 3590,
     "hours": 0.633,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The concept is simple but extremely well done. Choosing the right plants and figuring out where to place them makes the gameplay surprisingly entertaining.",
+      "disliked": "I only have a short amount of recorded playtime on Steam, so I didn't experience everything this version of the game offers.",
+      "combat": "Different plants have different purposes, and deciding how to build your defenses as new zombies appear is what makes the game fun.",
+      "verdict": "A simple game that is very easy to understand but still gives you enough strategy to keep things interesting. Even from my limited Steam playtime, I enjoyed it enough to give it an 8."
+    }
   },
   {
     "title": "Aimlabs",
     "appId": 714010,
     "hours": 0.6,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "It's useful for practicing aiming, reaction time and accuracy, especially if you're trying to improve in FPS games.",
+      "disliked": "For me, it feels more like a training program than an actual game. Repeating aiming exercises also becomes boring fairly quickly.",
+      "combat": "The different exercises let you practice specific aiming skills and see your performance, which can be useful if you're serious about improving.",
+      "verdict": "A useful FPS training tool, but not something I would personally spend a lot of time using for entertainment."
+    }
   },
   {
     "title": "Hitman: Sniper Challenge",
     "appId": 205930,
     "hours": 0.6,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked having to observe the environment and decide when and where to take a shot instead of simply shooting every target immediately.",
+      "disliked": "It's a very limited experience compared with a full Hitman game, and I only spent a short amount of time with it.",
+      "combat": "Trying to eliminate targets without creating unnecessary attention makes the sniping more interesting than simply hitting long-distance shots.",
+      "verdict": "A fun small Hitman experience that works well as a sniper challenge, but it obviously doesn't have the freedom and variety of a full Hitman game."
+    }
   },
   {
     "title": "Left 4 Dead 2",
     "appId": 550,
     "hours": 0.583,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The large groups of infected make the action fast and chaotic. Having different special infected also keeps fights from being completely predictable.",
+      "disliked": "The game is designed heavily around cooperative play, while I normally prefer playing games by myself.",
+      "combat": "The shooting is simple and fast, and dealing with large numbers of infected can become intense very quickly.",
+      "verdict": "I only played for a short time, but I can understand why it's such a popular co-op zombie shooter. The gameplay is fun; it's just more multiplayer-focused than what I normally look for."
+    }
   },
   {
     "title": "Divinity: Original Sin (Classic)",
     "appId": 230230,
     "hours": 0.55,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I could see that there is a lot of depth in the RPG systems, character development and different ways to interact with the world.",
+      "disliked": "The turn-based combat and slower style didn't immediately connect with me. I generally prefer RPGs where I have direct control during combat.",
+      "combat": "Even from my short time with it, it's clear that positioning, abilities and strategy are important. It's much more tactical than the action RPGs I usually prefer.",
+      "verdict": "It looks like a deep RPG with plenty of options, but the turn-based combat and slower pace weren't enough to keep me playing. From my limited experience, I give it a 7."
+    }
   },
   {
     "title": "ARC Raiders Playtest",
     "hours": 0.367,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The world, graphics and third-person shooting made a good first impression during the short amount of time I was able to play.",
+      "disliked": "With only around 20 minutes recorded, I didn't experience nearly enough to properly judge the progression or overall gameplay loop.",
+      "combat": "The shooting felt promising from what I tried, but my playtime was simply too short to form a strong opinion about the complete experience.",
+      "verdict": "A promising first impression, but this score is based only on a very short playtest. I'd need significantly more time with the full game to judge it properly."
+    }
   },
   {
     "title": "Grand Theft Auto V Enhanced",
     "appId": 3240220,
     "hours": 0.35,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "It's still GTA V, with the open world, driving, shooting and freedom that I already enjoyed in the original version.",
+      "disliked": "My recorded playtime with the Enhanced version itself is extremely short, so I'm not going to judge all of its changes based on only about 20 minutes.",
+      "combat": "Los Santos still gives you a huge open world where you can follow missions or simply drive around and do whatever you want.",
+      "comparison": "I already rated GTA V Legacy a 9/10 based on more than 200 hours. I'm giving the Enhanced version an 8 based on my much more limited experience with this specific version.",
+      "verdict": "It's still a great open-world game, but this rating is specifically for my very limited time with the Enhanced version rather than my overall experience with GTA V."
+    }
   },
   {
     "title": "Amnesia: The Dark Descent",
     "appId": 57300,
     "hours": 0.3,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The dark environments and feeling of being vulnerable create a very uncomfortable atmosphere, which is exactly what a horror game should do.",
+      "disliked": "I only played for around 18 minutes, so I barely experienced the game and can't really judge its full story or horror experience.",
+      "combat": "Not being able to approach danger like a normal action game makes exploring feel much more tense.",
+      "verdict": "It made a good horror first impression, but my playtime is far too short for me to judge the complete game. Based only on what I experienced, I give it a 7."
+    }
   },
   {
     "title": "Counter-Strike: Source",
