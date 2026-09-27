@@ -30,3 +30,5 @@ const wishlist=[
 ];
 function wishlistCard(g){return `<article class="card wishlist-card"><div class="wishlist-cover has-artwork"><img src="${g.artwork||`https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/${g.appId}/header.jpg`}" alt="${g.title} artwork" loading="lazy" onerror="this.remove();this.parentElement.classList.remove('has-artwork')"><div class="cover-mark">WISHLIST</div><div class="cover-title">${g.title}</div></div><div class="card-body"><p class="eyebrow">${g.status.toUpperCase()}</p><h3>${g.title}</h3><div class="release">Release: ${g.release}</div><div class="tag-row">${g.tags.slice(0,3).map(t=>`<span>${t}</span>`).join('')}</div><div class="status wishlist-status">PLAY • THEN REVIEW</div></div></article>`}
 document.querySelector('#wishlistGrid').innerHTML=wishlist.map(wishlistCard).join('');
+
+const backToTop=document.querySelector('#backToTop');window.addEventListener('scroll',()=>backToTop.classList.toggle('show',window.scrollY>500),{passive:true});backToTop.onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
