@@ -1396,61 +1396,144 @@ const games=[
     "title": "Detroit: Become Human",
     "appId": 1222140,
     "hours": 11.4,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really liked how much the choices matter. Decisions can change relationships, determine who survives and completely change how parts of the story play out.",
+      "disliked": "There are sections where the gameplay is mostly walking around, investigating and selecting dialogue, so the pace can sometimes become slow.",
+      "story": "The three different characters give you different perspectives on the same world. I especially liked seeing how their stories eventually connect and how my decisions affected what happened.",
+      "combat": "This isn't really an action game. The gameplay is about making decisions, investigating areas, conversations and reacting quickly during important moments. The choices are what make it interesting.",
+      "verdict": "A very good story-driven game where your decisions actually feel important. Seeing how differently the story can develop makes it much more interesting than simply watching a fixed story."
+    }
   },
   {
     "title": "Dead Island",
     "appId": 91310,
     "hours": 11.3,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked exploring the island, finding better weapons and fighting zombies. The tropical resort is also a great setting because it looks like somewhere you would normally go on vacation, except now it's completely overrun.",
+      "disliked": "Some quests become repetitive, especially when you're repeatedly traveling somewhere, collecting something and returning.",
+      "story": "The story gives you a reason to move through different parts of the island, but for me the zombie survival and exploration were more enjoyable than the main story.",
+      "combat": "Melee combat is the strongest part. Finding weapons and modifying them makes fighting zombies more interesting, especially as stronger enemies start appearing.",
+      "exploration": "I enjoyed moving beyond the resort and discovering the different areas of the island. Searching buildings for weapons and supplies also gives you a reason to explore.",
+      "verdict": "A very enjoyable zombie game with good melee combat, weapon upgrades and exploration. Some missions are repetitive, but I had a lot of fun with it."
+    }
   },
   {
     "title": "EA SPORTS™ FIFA 23",
     "appId": 1811260,
     "hours": 11.1,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The actual football matches are enjoyable, and having so many real teams and players gives you plenty of options.",
+      "disliked": "Like many yearly sports games, it can start feeling very familiar if you've played previous FIFA games. There wasn't enough that felt completely new to me.",
+      "combat": "The controls are easy enough to understand but still give you plenty to learn if you want to become better. Matches can be entertaining, especially when they're close.",
+      "verdict": "A good football game that does what I expected from FIFA. I enjoyed playing it, but it didn't feel different enough from other football games I've played to deserve a higher score."
+    }
   },
   {
     "title": "F.E.A.R. 2: Project Origin",
     "appId": 16450,
     "hours": 11.1,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the combination of shooting and horror. One minute you're fighting soldiers and the next the game changes the atmosphere completely with something strange or disturbing.",
+      "disliked": "Some parts feel dated now, and the horror becomes less surprising once you understand the type of scares the game likes to use.",
+      "story": "The story continues the mystery surrounding Alma and gives you more information about what happened, while still keeping a lot of the disturbing atmosphere.",
+      "combat": "Slow-motion combat is still one of the best parts. Activating it during a gunfight and taking down several enemies makes the shooting much more satisfying.",
+      "exploration": "Dark environments, unexpected visions and supernatural events make the game feel different from a normal military shooter.",
+      "verdict": "A very good combination of FPS action and horror. The slow-motion gunfights are fun, while Alma and the atmosphere keep the game uncomfortable in a good way."
+    }
   },
   {
     "title": "Wolfenstein: The Old Blood",
     "appId": 350080,
     "hours": 10.6,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting feels good, and I liked returning to the Wolfenstein world for another shorter adventure.",
+      "disliked": "It doesn't feel as developed as the main Wolfenstein games. The shorter length also means there isn't as much time for the story or characters to develop.",
+      "story": "The story works as a prequel and gives B.J. another mission before the events of The New Order, but the action was more important to me than the story.",
+      "combat": "The weapons are powerful and the combination of stealth and direct combat gives you some choice in how you approach enemies.",
+      "verdict": "A good, shorter Wolfenstein experience with enjoyable shooting, but it doesn't have the same impact as the bigger games in the series."
+    }
   },
   {
     "title": "Call of Duty: Black Ops",
     "appId": 42700,
     "hours": 10.2,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The campaign has some memorable missions, and I liked that the story has more mystery than I expected from a Call of Duty game.",
+      "disliked": "The campaign is very linear, and you're usually being pushed from one action sequence directly into another.",
+      "story": "The mystery surrounding Mason, the numbers and his memories gives the campaign something different from a straightforward military story.",
+      "combat": "The shooting is fast and familiar if you've played other Call of Duty games. There isn't a lot of freedom, but the game keeps the action moving.",
+      "verdict": "A good Call of Duty campaign with an interesting story and plenty of action. I enjoyed it, but the linear gameplay limits how much freedom you have."
+    }
   },
   {
     "title": "Hello Neighbor Alpha 4",
     "appId": 1096710,
     "hours": 10.1,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the idea of sneaking into the neighbor's house and trying to figure out what he was hiding. The house itself almost becomes a puzzle.",
+      "disliked": "The controls and physics can be frustrating, and sometimes it isn't clear whether you're solving something incorrectly or the game simply isn't behaving the way you expect.",
+      "combat": "Exploring the house, finding objects and figuring out how different things connect is what kept me interested. Avoiding the neighbor adds pressure while you're trying to solve everything.",
+      "exploration": "The strange house gives you a lot to investigate, and discovering a new way into an area can be satisfying.",
+      "verdict": "An interesting stealth and puzzle concept with some fun ideas, but the controls and unpredictable gameplay can also make it frustrating."
+    }
   },
   {
     "title": "Metro: Last Light Complete Edition",
     "appId": 43160,
     "hours": 9.9,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The atmosphere is excellent. Moving through dark tunnels where you don't know exactly what's waiting ahead gives Metro a feeling that most shooters don't have.",
+      "disliked": "The game is more linear than I prefer, especially compared with the greater exploration I later enjoyed in Metro Exodus.",
+      "story": "The story continues Artyom's journey and the conflict between different groups living in the Metro. The world itself was probably more interesting to me than the political conflict.",
+      "combat": "The combination of shooting, stealth and limited resources works well. Going outside and having to manage your gas mask filters also adds tension.",
+      "comparison": "I prefer Metro Exodus because of its larger areas and greater freedom to explore, but Last Light still has the dark atmosphere that makes the Metro series interesting.",
+      "verdict": "A good atmospheric shooter with strong survival elements, but the more linear structure kept me from enjoying it as much as Metro Exodus."
+    }
   },
   {
     "title": "King's Quest",
     "appId": 345390,
     "hours": 9.7,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the humor, characters and adventure-game style. It feels very different from the action-heavy games I normally play.",
+      "disliked": "The slower pace and puzzle-heavy gameplay can sometimes make progress feel slow, especially when the solution isn't obvious.",
+      "story": "Having an older King Graham tell stories about his adventures gives the game a charming way to present its story.",
+      "combat": "Most of the experience is about exploration, conversations and solving puzzles rather than combat. Some puzzles are enjoyable, while others can take longer to figure out.",
+      "verdict": "A charming adventure game with good humor and storytelling. I enjoyed it, but the slower pace and puzzle-focused gameplay aren't always what I'm looking for."
+    }
   },
   {
     "title": "Saints Row: The Third",
     "appId": 55230,
     "hours": 9.7,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The game doesn't take itself seriously at all. There are crazy weapons, ridiculous missions and plenty of situations that would never happen in a more realistic open-world crime game.",
+      "disliked": "The crazy humor can sometimes become too much, and some of the side activities become repetitive.",
+      "story": "The story is completely over-the-top, but that fits Saints Row. It's more interested in entertaining you than creating a realistic crime story.",
+      "combat": "There are plenty of weapons, vehicles and upgrades to experiment with, and the game gives you a lot of opportunities to cause complete chaos.",
+      "exploration": "Steelport gives you an open city to drive around with activities, stores and missions spread across the map, although some activities start feeling similar after a while.",
+      "verdict": "A fun and ridiculous open-world game that doesn't try to be realistic. I enjoyed the freedom and crazy missions, but the repetitive activities and over-the-top style kept it at a 7 for me."
+    }
   },
   {
     "title": "Bro Falls: Ultimate Showdown",
