@@ -46,7 +46,7 @@ const games=[
       "recommendation": "Anyone who enjoys open-world games, action, driving, shooting, and having the freedom to play a game the way they want.",
       "verdict": "A huge, entertaining open world with a strong story and plenty of freedom."
     }
-  }
+  },
   {
     "title": "Far Cry® 3",
     "appId": 220240,
@@ -62,7 +62,7 @@ const games=[
       "recommendation": "Players who enjoy open-world FPS games, exploration, stealth, and action.",
       "verdict": "A memorable open-world shooter with fun combat, stealth, and exploration."
     }
-  }
+  },
   {
     "title": "Far Cry® 3 Blood Dragon",
     "appId": 233270,
@@ -77,7 +77,7 @@ const games=[
       "recommendation": "Far Cry fans, FPS players, and especially anyone who likes crazy science-fiction and 1980s-style action.",
       "verdict": "A crazy, fun Far Cry experience with a style that makes it stand out."
     }
-  }
+  },
   {
     "title": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "appId": 287700,
@@ -92,7 +92,7 @@ const games=[
       "recommendation": "Players who enjoy stealth games and like having freedom in how they complete missions.",
       "verdict": "Excellent stealth and freedom of approach, held back somewhat by repetition."
     }
-  }
+  },
   {
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "appId": 1643320,
@@ -108,7 +108,7 @@ const games=[
       "recommendation": "Players who like FPS games, survival, exploration, and darker open worlds where the game doesn't always make things easy for you.",
       "verdict": "A great atmospheric survival shooter where exploring the Zone is the real highlight."
     }
-  }
+  },
   {
     "title": "Kingdom Come: Deliverance II",
     "appId": 1771300,
@@ -124,7 +124,7 @@ const games=[
       "recommendation": "RPG players who want a deep story, exploration, character progression, and a more realistic medieval world.",
       "verdict": "One of the best RPG experiences I've played, with a world and story that kept me interested for more than 100 hours."
     }
-  }
+  },
   {
     "title": "Stumble Guys",
     "appId": 1677740,
@@ -146,7 +146,7 @@ const games=[
       "recommendation": "Players who enjoy Assassin's Creed, RPG progression, historical worlds, and very large open-world games.",
       "verdict": "A beautiful and very large Assassin's Creed RPG with lots to explore."
     }
-  }
+  },
   {
     "title": "Cyberpunk 2077",
     "appId": 1091500,
@@ -162,7 +162,7 @@ const games=[
       "recommendation": "RPG players who like story-driven games, futuristic worlds, exploration, and having different ways to build their character.",
       "verdict": "A strong futuristic RPG with a great city, story, and different ways to play."
     }
-  }
+  },
   {
     "title": "Dying Light 2: Reloaded Edition",
     "appId": 534380,
@@ -178,7 +178,7 @@ const games=[
       "recommendation": "Players who enjoy zombies, open-world exploration, action, and especially parkour.",
       "verdict": "A fun open-world zombie game where parkour, combat, and exploration are the strongest parts."
     }
-  }
+  },
   {
     "title": "The Elder Scrolls V: Skyrim",
     "appId": 72850,
@@ -194,7 +194,7 @@ const games=[
       "recommendation": "Anyone who loves RPGs, fantasy, exploration, character building, and games that give you the freedom to create your own adventure.",
       "verdict": "One of my favorite RPG experiences because of the freedom, exploration, and huge amount of things to discover."
     }
-  }
+  },
   {
     "title": "Kingdom Come: Deliverance",
     "appId": 379430,
@@ -210,7 +210,7 @@ const games=[
       "recommendation": "RPG players who enjoy realism, story, exploration and don't mind a game that takes some time to learn.",
       "verdict": "A realistic medieval RPG where learning and improving is a big part of the experience."
     }
-  }
+  },
   {
     "title": "Assetto Corsa",
     "appId": 244210,
@@ -224,7 +224,7 @@ const games=[
       "recommendation": "People who really enjoy cars, racing and realistic driving more than story or progression.",
       "verdict": "A good driving simulator, but for me it needed more outside the actual racing."
     }
-  }
+  },
   {
     "title": "Horizon Forbidden West™ Complete Edition",
     "appId": 2420110,
@@ -240,7 +240,7 @@ const games=[
       "recommendation": "Players who like open-world action RPGs, exploration, story and fighting large machines.",
       "verdict": "A beautiful open-world RPG with excellent machine combat and a lot to explore."
     }
-  }
+  },
   {
     "title": "Dragon's Dogma 2",
     "appId": 2054970,
@@ -255,7 +255,7 @@ const games=[
       "recommendation": "RPG players who enjoy exploration, character building and fighting large fantasy monsters.",
       "verdict": "A fun RPG where combat, large monsters and unexpected exploration are the highlights."
     }
-  }
+  },
   {
     "title": "Assassin's Creed Origins",
     "appId": 582160,
@@ -271,7 +271,7 @@ const games=[
       "recommendation": "Assassin's Creed fans and players who enjoy RPG progression, history and large open worlds.",
       "verdict": "A strong Assassin's Creed RPG with an amazing version of Ancient Egypt to explore."
     }
-  }
+  },
   {
     "title": "God of War Ragnarök",
     "appId": 2322010,
@@ -287,7 +287,7 @@ const games=[
       "recommendation": "Anyone who enjoys story-driven action games, great combat, exploration and strong characters.",
       "verdict": "An excellent story-driven action game with great combat, characters and exploration."
     }
-  }
+  },
   {
     "title": "Ghost of Tsushima DIRECTOR'S CUT",
     "appId": 2215430,
@@ -303,7 +303,7 @@ const games=[
       "recommendation": "Players who enjoy open worlds, samurai combat, stealth, exploration and a strong story.",
       "verdict": "A beautiful open-world game with excellent sword combat and a strong samurai story."
     }
-  }
+  },
   {
     "title": "Horizon Zero Dawn™ Complete Edition",
     "appId": 1151640,
@@ -319,7 +319,7 @@ const games=[
       "recommendation": "Players who enjoy open-world RPGs, science fiction, exploration and tactical combat.",
       "verdict": "A great open-world RPG with a strong story and some of my favorite machine combat."
     }
-  }
+  },
   {
     "title": "Borderlands 2",
     "appId": 49520,
@@ -334,7 +334,7 @@ const games=[
       "recommendation": "Players who enjoy shooters, loot, RPG progression and constantly finding new weapons.",
       "verdict": "A fun shooter with tons of weapons, but the gameplay can become repetitive after a while."
     }
-  }
+  },
   {
     "title": "Tom Clancy's The Division",
     "appId": 365590,
@@ -349,7 +349,7 @@ const games=[
       "recommendation": "Players who enjoy third-person shooters, RPG-style gear progression, open-world exploration and tactical combat.",
       "verdict": "A strong tactical shooter with great atmosphere, gear progression and an interesting version of New York."
     }
-  }
+  },
   {
     "title": "Days Gone",
     "appId": 1259420,
@@ -365,7 +365,7 @@ const games=[
       "recommendation": "Players who enjoy open-world zombie games, survival, exploration and large battles.",
       "verdict": "One of the better open-world zombie games I've played, especially when you start dealing with the huge hordes."
     }
-  }
+  },
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
     "appId": 228560,
@@ -379,7 +379,7 @@ const games=[
       "recommendation": "TMNT fans who want a simple action game and enjoy beat-'em-up combat.",
       "verdict": "Not an amazing game, but as a TMNT fan there is still fun to be had with the Turtles and the combat."
     }
-  }
+  },
   {
     "title": "Far Cry 4",
     "appId": 298110,
@@ -395,7 +395,7 @@ const games=[
       "recommendation": "Anyone who enjoyed Far Cry 3 and wants more open-world shooting, exploration and freedom.",
       "verdict": "A very good Far Cry game that gives you a lot of freedom, even if it doesn't change the formula that much."
     }
-  }
+  },
   {
     "title": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
     "appId": 32430,
@@ -410,7 +410,7 @@ const games=[
       "recommendation": "Star Wars fans who want to feel like an extremely powerful Force user and don't mind playing an older action game.",
       "verdict": "The game has aged, but throwing Stormtroopers around with the Force is still a lot of fun."
     }
-  }
+  },
   {
     "title": "Far Cry 5",
     "appId": 552520,
@@ -426,7 +426,7 @@ const games=[
       "recommendation": "Far Cry fans and players who enjoy open-world shooters with lots of freedom.",
       "verdict": "Another strong Far Cry game with a great open world and plenty of ways to play."
     }
-  }
+  },
   {
     "title": "Dragon Age: Origins",
     "appId": 17450,
@@ -441,7 +441,7 @@ const games=[
       "recommendation": "RPG players who care about story, characters, choices and building their own character.",
       "verdict": "One of those RPGs where the characters and decisions are just as important as the actual combat."
     }
-  }
+  },
   {
     "title": "Tom Clancy's Splinter Cell Blacklist",
     "appId": 235600,
@@ -456,7 +456,7 @@ const games=[
       "recommendation": "Anyone who enjoys stealth games, tactical gameplay and having different ways to complete a mission.",
       "verdict": "One of my favorite modern Splinter Cell games because it gives you freedom without taking away the stealth."
     }
-  }
+  },
   {
     "title": "WWE 2K25",
     "appId": 2878960,
@@ -471,7 +471,7 @@ const games=[
       "recommendation": "WWE fans who want a lot of wrestlers, match types and different modes to play.",
       "verdict": "A very good WWE game with enough content to keep a wrestling fan busy for a long time."
     }
-  }
+  },
   {
     "title": "Subnautica",
     "appId": 264710,
@@ -488,7 +488,7 @@ const games=[
       "recommendation": "Anyone who enjoys exploration, survival, crafting and games that don't constantly tell you exactly where to go.",
       "verdict": "One of the best exploration and survival games I've played. The feeling of discovering something new underwater is what makes it special."
     }
-  }
+  },
   {
     "title": "ORION: Prelude",
     "appId": 104900,
@@ -502,7 +502,7 @@ const games=[
       "recommendation": "Players who like dinosaurs, shooters and simple action games.",
       "verdict": "It's not one of the best shooters I've played, but shooting dinosaurs is still fun."
     }
-  }
+  },
   {
     "title": "Dying Light",
     "appId": 239140,
@@ -517,7 +517,7 @@ const games=[
       "exploration": "Parkour makes exploration one of the strongest parts. Instead of simply following roads, you're constantly looking at buildings and thinking about how to get across or on top of them.",
       "verdict": "A fun zombie game with great parkour and exploration, although I enjoyed the newer Dying Light games more."
     }
-  }
+  },
   {
     "title": "Where Winds Meet",
     "appId": 3564740,
@@ -531,7 +531,7 @@ const games=[
       "exploration": "The open world is huge and gives you plenty to discover. At first this was one of my favorite parts, but eventually the amount of content also became part of the problem. There can be too much happening instead of the game keeping you focused.",
       "verdict": "A very good open-world RPG with great combat and a beautiful world, but it needed to be shorter. I enjoyed it, but eventually the length started making me lose interest."
     }
-  }
+  },
   {
     "title": "Marvel’s Spider-Man Remastered",
     "appId": 1817070,
@@ -546,7 +546,7 @@ const games=[
       "exploration": "New York looks great, but web-swinging is what makes exploring it special.",
       "verdict": "A very good Spider-Man game with excellent movement, fun combat and a strong story."
     }
-  }
+  },
   {
     "title": "DEATH STRANDING",
     "appId": 1190460,
@@ -561,7 +561,7 @@ const games=[
       "building": "I really liked how roads, bridges and other structures can make future trips easier. Slowly improving your routes gives you a real feeling of progress.",
       "verdict": "Definitely not a game for everyone, but it's different enough that I enjoyed the experience and I'm glad I played it."
     }
-  }
+  },
   {
     "title": "EA SPORTS FC™ 24",
     "appId": 2195250,
@@ -574,7 +574,7 @@ const games=[
       "combat": "Passing, shooting and building attacks can be satisfying when a match is going well. I also liked being able to play with different teams and try different formations and players.",
       "verdict": "A good soccer game and fun when I'm in the mood for it, but not something that kept me interested the same way my favorite RPGs and open-world games do."
     }
-  }
+  },
   {
     "title": "Batman™: Arkham Origins",
     "appId": 209000,
@@ -588,7 +588,7 @@ const games=[
       "combat": "The free-flow combat is excellent. Moving between enemies, countering attacks and using Batman's gadgets makes you feel powerful without making every fight automatic. The predator sections are some of my favorite parts because taking enemies out one at a time makes playing as Batman much more interesting than simply fighting everyone directly.",
       "verdict": "It may not reinvent the Arkham games, but I really enjoyed the combat, stealth and Batman story."
     }
-  }
+  },
   {
     "title": "theHunter: Call of the Wild™",
     "appId": 518790,
@@ -601,7 +601,7 @@ const games=[
       "exploration": "You need patience. Running everywhere and shooting at everything doesn't really work. You have to look for tracks, pay attention to the wind and slowly move toward animals.",
       "verdict": "It's relaxing when I'm in the mood for a slower game, but sometimes it's just too slow for me."
     }
-  }
+  },
   {
     "title": "Prototype",
     "appId": 10150,
@@ -615,7 +615,7 @@ const games=[
       "exploration": "Moving around the city is fun because you're so powerful that buildings and streets don't really slow you down.",
       "verdict": "An older game that shows its age, but the powers and freedom to cause chaos are still fun."
     }
-  }
+  },
   {
     "title": "Saints Row IV",
     "appId": 206420,
@@ -629,7 +629,7 @@ const games=[
       "combat": "Once you have enough powers, you almost don't need normal cars anymore. Running and jumping across the city becomes faster and more entertaining.",
       "verdict": "A crazy and fun game that doesn't take itself seriously, although the superpowers eventually make some of the normal Saints Row gameplay less important."
     }
-  }
+  },
   {
     "title": "Battlefield: Bad Company™ 2",
     "appId": 24960,
@@ -643,7 +643,7 @@ const games=[
       "combat": "Weapons feel good, vehicles add variety, and destroying the environment makes combat different from shooters where everything around you is permanent.",
       "verdict": "A good Battlefield game with fun destruction and shooting, but not one of my personal favorite shooters."
     }
-  }
+  },
   {
     "title": "Mass Effect 2 (2010)",
     "appId": 24980,
@@ -658,7 +658,7 @@ const games=[
       "exploration": "Exploration isn't really the strongest part compared with the open-world RPGs I normally enjoy, but visiting different locations and meeting new characters kept things interesting.",
       "verdict": "An excellent RPG with great characters, meaningful choices and a story that kept me interested all the way to the end. The crew and final mission are what really made this game memorable for me."
     }
-  }
+  },
   {
     "title": "Deus Ex: Human Revolution",
     "appId": 28050,
@@ -673,7 +673,7 @@ const games=[
       "exploration": "Searching the environment is worth doing because you can discover alternate routes, vents, computers and information that you would completely miss if you just followed the main objective.",
       "verdict": "A very good sci-fi RPG with plenty of freedom in how you approach missions. I liked having options instead of the game forcing me to solve every situation the same way."
     }
-  }
+  },
   {
     "title": "Alien: Isolation",
     "appId": 214490,
@@ -688,7 +688,7 @@ const games=[
       "exploration": "The station is dark, detailed and feels like it belongs in the Alien universe. Exploring it while knowing something could be nearby creates an incredible atmosphere.",
       "verdict": "One of the best survival horror experiences I've played. The atmosphere and the Alien itself create a level of tension that very few games manage to achieve."
     }
-  }
+  },
   {
     "title": "Prey",
     "appId": 480490,
@@ -703,7 +703,7 @@ const games=[
       "exploration": "Talos I is one of the best parts of the game. Going back to areas after getting new abilities can open places you couldn't reach before.",
       "verdict": "A smart sci-fi game with good exploration and a lot of freedom. I especially enjoyed discovering the station and figuring out my own way through different situations."
     }
-  }
+  },
   {
     "title": "L.A. Noire",
     "appId": 110800,
@@ -718,7 +718,7 @@ const games=[
       "exploration": "The recreation of Los Angeles gives the game a great atmosphere, although the city isn't as interactive as the open worlds in games like GTA.",
       "verdict": "A very different type of crime game. The investigations, interrogations and atmosphere are what made it memorable for me."
     }
-  }
+  },
   {
     "title": "Dead Space 2",
     "appId": 47780,
@@ -733,7 +733,7 @@ const games=[
       "exploration": "The Sprawl gives you more variety than staying in one type of environment for the entire game, while still keeping the dark and dangerous Dead Space atmosphere.",
       "verdict": "A very good mix of horror and action. It's scary, violent and fun, with combat that still feels different from most shooters."
     }
-  }
+  },
   {
     "title": "UNCHARTED™: Legacy of Thieves Collection",
     "appId": 1659420,
@@ -748,7 +748,7 @@ const games=[
       "exploration": "There are some beautiful environments to explore, although this isn't really an open-world game. The larger areas still give you some freedom to look around and discover optional things.",
       "verdict": "One of the best cinematic adventure games I've played. Great characters, beautiful graphics and excellent action from beginning to end."
     }
-  }
+  },
   {
     "title": "Control Ultimate Edition",
     "appId": 870780,
@@ -763,7 +763,7 @@ const games=[
       "exploration": "The Oldest House is one of the most unusual environments I've explored in a game. It constantly changes and has plenty of strange rooms and hidden areas.",
       "verdict": "A unique action game with excellent powers, fun combat and a very strange world. The confusing map was frustrating, but the gameplay made me want to keep going."
     }
-  }
+  },
   {
     "title": "Terraria",
     "appId": 105600,
@@ -778,7 +778,7 @@ const games=[
       "building": "There are a huge number of things you can build and create. I can see why players who really enjoy building and crafting can spend hundreds of hours with it.",
       "verdict": "A good game with a huge amount of content and freedom, but the heavy focus on crafting and building isn't as much my style as a story-driven RPG."
     }
-  }
+  },
   {
     "title": "Deus Ex: Mankind Divided™",
     "appId": 337000,
@@ -794,7 +794,7 @@ const games=[
       "comparison": "I enjoyed Human Revolution more overall. Mankind Divided improves some of the gameplay, but Human Revolution's story kept me more interested.",
       "verdict": "A good Deus Ex game with strong gameplay and plenty of freedom, but the story didn't leave the same impression on me as Human Revolution."
     }
-  }
+  },
   {
     "title": "LEGO® MARVEL Super Heroes",
     "appId": 249130,
@@ -809,7 +809,7 @@ const games=[
       "exploration": "I liked having an open version of Manhattan to explore between missions. There are plenty of characters, collectibles and smaller activities to find.",
       "verdict": "A fun Marvel game with a huge selection of characters. It's enjoyable, especially if you like Marvel, but the simple and repetitive gameplay kept it at a 7/10 for me."
     }
-  }
+  },
   {
     "title": "Far Cry New Dawn",
     "appId": 939960,
@@ -824,7 +824,7 @@ const games=[
       "exploration": "Hope County looks very different this time, and I enjoyed exploring familiar places after the apocalypse.",
       "verdict": "A fun continuation of Far Cry 5. It's smaller and sometimes repetitive, but I enjoyed the colorful world, weapons and familiar Far Cry gameplay."
     }
-  }
+  },
   {
     "title": "Dying Light: The Beast",
     "appId": 3008130,
@@ -853,7 +853,7 @@ const games=[
       "exploration": "I enjoyed searching levels for different routes and opportunities, although some areas don't give you as much freedom as I would have liked.",
       "verdict": "A good stealth game with some enjoyable missions, but I wanted more freedom and less restriction in how I completed objectives."
     }
-  }
+  },
   {
     "title": "Torchlight II",
     "appId": 200710,
@@ -868,7 +868,7 @@ const games=[
       "exploration": "There are plenty of areas, dungeons and enemies to discover, although exploration is mostly connected to fighting and finding better loot.",
       "verdict": "A good action RPG with satisfying progression and lots of loot. I enjoyed developing my character, although the gameplay eventually became repetitive."
     }
-  }
+  },
   {
     "title": "Assassin's Creed® III",
     "appId": 208480,
@@ -883,7 +883,7 @@ const games=[
       "exploration": "Having cities, wilderness and the Homestead gives the game more environmental variety. I especially liked having larger natural areas instead of spending the entire game inside cities.",
       "verdict": "A good Assassin's Creed game with an interesting historical setting, but the slow beginning and some restrictive missions kept me from enjoying it as much as my favorite games in the series."
     }
-  }
+  },
   {
     "title": "DOOM",
     "appId": 379720,
@@ -941,7 +941,7 @@ const games=[
       "comparison": "I prefer Fallout 4 overall, especially its combat, graphics and building systems, but New Vegas gives you more interesting choices and more freedom in how you influence the story.",
       "verdict": "A great Fallout RPG where choices and factions are the biggest strengths. It shows its age, but the freedom it gives you is still impressive."
     }
-  }
+  },
   {
     "title": "Rise of the Tomb Raider",
     "appId": 391220,
@@ -956,7 +956,7 @@ const games=[
       "exploration": "The optional tombs are one of the best parts. Solving puzzles and reaching hidden areas makes exploration feel rewarding.",
       "verdict": "A very good action-adventure game with a nice balance between exploration, combat, climbing and puzzles."
     }
-  }
+  },
   {
     "title": "Wolfenstein II: The New Colossus",
     "appId": 612880,
@@ -994,7 +994,7 @@ const games=[
       "exploration": "This is probably what I liked most compared with the earlier Metro games. The larger areas give you freedom to investigate buildings, find supplies and discover smaller stories.",
       "verdict": "A strong combination of shooter, survival and exploration. I especially liked having more freedom while still keeping the atmosphere that makes Metro different."
     }
-  }
+  },
   {
     "title": "The Last of Us™ Part I",
     "appId": 1888930,
@@ -1051,7 +1051,7 @@ const games=[
       "exploration": "The island has hidden areas, tombs and collectibles, although the tombs aren't as developed as they became in Rise of the Tomb Raider.",
       "verdict": "A strong start to the newer Tomb Raider games. Good story, fun combat and enough exploration to keep me interested throughout the adventure."
     }
-  }
+  },
   {
     "title": "Wolfenstein: The New Order",
     "appId": 201810,
@@ -1108,7 +1108,7 @@ const games=[
       "exploration": "It's not a huge open world, but having areas where you can walk around, talk to people and find side missions makes the world feel more interesting.",
       "verdict": "A very enjoyable RoboCop game. It isn't the biggest or most polished shooter I've played, but it understands what makes RoboCop fun and does a great job making you feel like him."
     }
-  }
+  },
   {
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "appId": 20920,
