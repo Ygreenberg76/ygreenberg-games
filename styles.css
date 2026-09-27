@@ -4,3 +4,5 @@
 .wishlist-cover{position:relative;overflow:hidden}.wishlist-cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}.wishlist-cover.has-artwork{padding:0}.wishlist-cover.has-artwork .cover-mark,.wishlist-cover.has-artwork .cover-title{display:none}
 
 .library-tags{margin:10px 0 12px}.library-tags span{font-size:10px}.library-tags+.score{margin-top:auto}
+
+.library-controls{display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap}.library-controls .filters{margin:25px 0}.sort-controls{display:flex;align-items:center;gap:10px}.sort-controls label{color:#8e9aa6;font-size:13px}.sort-controls select{background:#14181d;color:#f5f7fa;border:1px solid #2b333c;border-radius:10px;padding:9px 34px 9px 12px;font-size:14px;cursor:pointer}@media(max-width:650px){.library-controls{align-items:stretch}.sort-controls{width:100%}.sort-controls select{flex:1}}
