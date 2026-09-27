@@ -1239,31 +1239,72 @@ const games=[
     "title": "Max Payne 3",
     "appId": 204100,
     "hours": 15.3,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting feels excellent, and the slow-motion Bullet Time system makes gunfights much more entertaining. The game also has a dark and serious atmosphere that fits Max Payne very well.",
+      "disliked": "The game is very linear, and there are times when I wanted a little more freedom instead of constantly moving from one gunfight to another.",
+      "story": "Max is older and in a very different place in his life, but he is still the same damaged character. The story is dark and violent and gives the game a strong atmosphere.",
+      "combat": "This is the best part for me. Diving through the air in slow motion while shooting enemies is extremely satisfying, and the weapons feel powerful.",
+      "verdict": "A very good third-person shooter with excellent gunplay and one of the best slow-motion combat systems. I just wish there was a little more freedom between the action."
+    }
   },
   {
     "title": "Driver San Francisco",
     "appId": 33440,
     "hours": 14.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The driving is fun, and the ability to jump between different cars gives the game something completely different from most driving games.",
+      "disliked": "After enough time, some missions and activities start feeling repetitive.",
+      "story": "The Shift system is the most interesting part. Instead of always having to physically change cars, you can move into another vehicle and immediately continue what you're doing.",
+      "exploration": "Driving around San Francisco is enjoyable, and having a large city to explore gives you plenty of opportunities to try different cars.",
+      "verdict": "A fun driving game with a very unusual mechanic. The Shift system makes it stand out, although the missions eventually started feeling repetitive."
+    }
   },
   {
     "title": "Far Cry 2",
     "appId": 19900,
     "hours": 14.8,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the freedom and the feeling that the world could become dangerous at any time. Traveling through Africa, planning attacks and dealing with enemies gives the game a different atmosphere from the later Far Cry games.",
+      "disliked": "Enemy checkpoints can become annoying because enemies return after you've already cleared an area, making traveling more repetitive than it needs to be.",
+      "story": "The search for the Jackal gives you the main objective, but the world and gameplay were more interesting to me than the actual story.",
+      "combat": "Weapons can jam or break, fires can spread through the environment, and fights don't always go according to plan. Those systems make combat unpredictable.",
+      "exploration": "The African setting is one of the game's biggest strengths. It feels dangerous and less focused on constantly giving you icons and activities.",
+      "verdict": "A very good Far Cry game that feels more realistic and unforgiving than the newer games. Some mechanics can become frustrating, but I liked the freedom and atmosphere."
+    }
   },
   {
     "title": "Tom Clancy's Splinter Cell: Conviction",
     "appId": 33220,
     "hours": 13.1,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the faster combination of stealth and action. You can still sneak around enemies, but when things go wrong the game gives you the ability to fight back instead of forcing you to restart.",
+      "disliked": "It's less focused on slow, careful stealth than some of the older Splinter Cell games.",
+      "story": "Sam Fisher's story is much more personal this time, which gives him a strong reason to go after the people involved.",
+      "combat": "Mark and Execute is one of the most enjoyable mechanics. Taking enemies down silently and then quickly eliminating marked targets makes Sam feel extremely capable.",
+      "verdict": "A very good stealth-action game. It may be more action-focused than traditional Splinter Cell, but I enjoyed the faster gameplay and the freedom to switch between stealth and combat."
+    }
   },
   {
     "title": "Police Simulator: Patrol Officers",
     "appId": 997010,
     "hours": 13,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked having a game where you're doing normal police work instead of constantly being involved in shootings and huge action scenes. Traffic stops, accidents, tickets and other calls give it a different type of gameplay.",
+      "disliked": "The jobs eventually become repetitive, and some situations start feeling more like completing a checklist than actual police work.",
+      "combat": "You have to pay attention to what people and vehicles are doing and decide whether there is actually a violation before taking action.",
+      "exploration": "Patrolling different parts of the city gives you some freedom to decide what situations you want to investigate.",
+      "verdict": "An interesting police simulator that's fun when you want something slower and different, but the repetitive calls and activities kept it at a 7 for me."
+    }
   },
   {
     "title": "RoboCop: Rogue City",
@@ -1284,31 +1325,72 @@ const games=[
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "appId": 20920,
     "hours": 12.8,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story, characters and choices are the strongest parts. Decisions actually matter, and the game can change significantly depending on choices you make.",
+      "disliked": "The combat and controls can feel dated compared with The Witcher 3, especially when going back to this game after playing newer RPGs.",
+      "story": "The political story is complicated, with different kingdoms, characters and motivations. I liked that choices aren't always clearly good or bad.",
+      "combat": "Combat requires more preparation than simply attacking everything. Signs, potions and different tactics give you several options, although the controls aren't always as smooth as I would like.",
+      "exploration": "The areas aren't as open as The Witcher 3, but there are still plenty of side quests and places worth investigating.",
+      "comparison": "I prefer The Witcher 3 overall, especially its open world and smoother gameplay, but The Witcher 2 still has an excellent story and meaningful choices.",
+      "verdict": "A very good RPG with strong characters and decisions that actually affect your experience. It shows its age in some areas, but the story and choices still make it worth playing."
+    }
   },
   {
     "title": "Binary Domain",
     "appId": 203750,
     "hours": 12.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The shooting is enjoyable, and fighting robots is satisfying because you can actually see pieces of their bodies breaking apart as you damage them.",
+      "disliked": "Some parts feel dated, and the game doesn't have enough variety to keep the combat feeling fresh throughout the entire experience.",
+      "story": "The story about humans and increasingly human-like robots becomes more interesting as the game continues.",
+      "combat": "Shooting different parts of robots can affect how they fight, which makes enemies more interesting than simple targets that just absorb bullets.",
+      "verdict": "A good third-person shooter with satisfying robot combat and an interesting science-fiction story, but it doesn't have enough variety to move higher than a 7 for me."
+    }
   },
   {
     "title": "Lara Croft and the Guardian of Light",
     "appId": 35130,
     "hours": 12.7,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combination of shooting, puzzles and exploration works well, and the different camera style makes it feel different from the main Tomb Raider games.",
+      "disliked": "I prefer the traditional Tomb Raider style where I'm directly controlling Lara from a third-person perspective and exploring larger environments.",
+      "combat": "Combat is simple but enjoyable, while puzzles and environmental challenges give you something different to do between fights.",
+      "exploration": "There are hidden items and optional challenges that reward you for exploring instead of rushing directly toward the objective.",
+      "verdict": "A fun Tomb Raider spin-off with good puzzles and action. I enjoyed it, but I still prefer the traditional Tomb Raider games."
+    }
   },
   {
     "title": "Totally Accurate Battlegrounds",
     "appId": 823130,
     "hours": 12.3,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The ridiculous physics and movement make the game funny. It doesn't try to be a serious battle royale, and that's part of what makes it entertaining.",
+      "disliked": "The joke can eventually wear off, and the intentionally awkward controls can sometimes become frustrating instead of funny.",
+      "combat": "Weapons and movement are unpredictable, which can create some very funny fights. You never really know exactly how an encounter is going to go.",
+      "verdict": "A funny and different take on battle royale games. It's entertaining, especially in shorter sessions, but the crazy physics and limited depth kept it at a 7."
+    }
   },
   {
     "title": "Lethal Company",
     "appId": 1966720,
     "hours": 12.2,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Exploring dangerous locations while trying to collect enough valuable items creates a good combination of tension and humor.",
+      "disliked": "The experience can become repetitive because you're repeatedly collecting items and returning them to meet the quota.",
+      "combat": "You have to decide how much risk you're willing to take. Going deeper might give you better items, but it also increases the chance that something will go wrong.",
+      "exploration": "The game can go from quiet exploration to complete chaos very quickly, which is probably one of its biggest strengths.",
+      "verdict": "A fun survival-horror experience with some genuinely tense and funny moments, but the repeated gameplay loop eventually becomes noticeable."
+    }
   },
   {
     "title": "Detroit: Become Human",
