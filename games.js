@@ -354,62 +354,155 @@ const games=[
     "title": "Days Gone",
     "appId": 1259420,
     "hours": 53.6,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really enjoyed the open world, motorcycle, survival feeling, and fighting the Freakers. Riding across the map on your bike makes the game feel different from most zombie games.",
+      "disliked": "Some missions can become repetitive, and having to constantly think about fuel for the motorcycle can sometimes become annoying when you just want to get somewhere.",
+      "story": "Deacon's search for his wife gives the story a personal reason to keep going. The story takes some time to develop, but I became more interested in the characters and what happened as I continued playing.",
+      "combat": "Fighting normal groups of Freakers is fun, but the hordes are where the game really becomes exciting. Seeing a huge number of Freakers running after you completely changes how you fight because you have to use weapons, explosives and the environment to survive.",
+      "exploration": "I enjoyed riding around the Pacific Northwest, upgrading my motorcycle and discovering different areas. The motorcycle really becomes part of the whole experience rather than just transportation.",
+      "recommendation": "Players who enjoy open-world zombie games, survival, exploration and large battles.",
+      "verdict": "One of the better open-world zombie games I've played, especially when you start dealing with the huge hordes."
+    }
+  }
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
     "appId": 228560,
     "hours": 51.3,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I enjoyed playing as the different Turtles and using their different attacks and abilities. The combat is probably the strongest part, especially when you start unlocking better moves and team attacks.",
+      "disliked": "The camera can become frustrating during fights, and the game has technical problems that sometimes hurt what should be simple fun.",
+      "combat": "The combat reminds me a little of the Batman Arkham style, with combos, counters and fighting groups of enemies. Switching between the Turtles also gives you some variety.",
+      "recommendation": "TMNT fans who want a simple action game and enjoy beat-'em-up combat.",
+      "verdict": "Not an amazing game, but as a TMNT fan there is still fun to be had with the Turtles and the combat."
+    }
+  }
   {
     "title": "Far Cry 4",
     "appId": 298110,
     "hours": 49.5,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the open world, weapons, vehicles and freedom to attack enemy locations however I wanted. Kyrat is also a great location to explore.",
+      "disliked": "A lot of the gameplay is very similar to Far Cry 3. That's not necessarily bad because I enjoyed Far Cry 3, but it doesn't always feel like a completely new experience.",
+      "story": "Pagan Min is an interesting villain, and I liked that the story gives you different characters and choices instead of making everything completely simple.",
+      "combat": "This is classic Far Cry gameplay. You can go into an enemy base shooting everyone, use stealth, attack from a distance or use animals and the environment to create complete chaos.",
+      "exploration": "Kyrat gives you mountains, villages, wildlife and plenty of enemy locations to discover. I enjoyed having the freedom to stop following the story and just explore.",
+      "recommendation": "Anyone who enjoyed Far Cry 3 and wants more open-world shooting, exploration and freedom.",
+      "verdict": "A very good Far Cry game that gives you a lot of freedom, even if it doesn't change the formula that much."
+    }
+  }
   {
     "title": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
     "appId": 32430,
     "hours": 49.4,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Using the Force is easily the best part. Throwing enemies and objects around, using Force lightning and combining powers with the lightsaber makes you actually feel powerful.",
+      "disliked": "The game shows its age now, and some of the controls and technical problems can make parts more frustrating than they should be.",
+      "story": "Playing as Starkiller and seeing a different part of the Star Wars universe was interesting. I liked seeing how his relationship with Darth Vader develops and where the story eventually goes.",
+      "combat": "The lightsaber is fun, but the Force powers are what make the combat special. Force Push, Force Grip and lightning let you play around with enemies instead of simply hitting everything with a lightsaber.",
+      "recommendation": "Star Wars fans who want to feel like an extremely powerful Force user and don't mind playing an older action game.",
+      "verdict": "The game has aged, but throwing Stormtroopers around with the Force is still a lot of fun."
+    }
+  }
   {
     "title": "Far Cry 5",
     "appId": 552520,
     "hours": 49.2,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really liked exploring Montana and having the freedom to decide which area I wanted to work on first. The weapons, vehicles and companions give you many different ways to create chaos.",
+      "disliked": "Some missions and activities become repetitive after enough time, and sometimes the story interrupts what you're doing when you would rather continue exploring.",
+      "story": "Joseph Seed and his family make the story interesting. Each region has its own main enemy, so taking control of the different areas feels like you're slowly breaking down the cult.",
+      "combat": "The shooting is fun, and I liked having different companions that can help depending on how I want to approach a mission. You can use stealth, attack directly or turn everything into complete chaos.",
+      "exploration": "Montana is beautiful and gives you a lot of freedom. I liked being able to drive around, hunt, fish, find missions or just attack enemy locations.",
+      "recommendation": "Far Cry fans and players who enjoy open-world shooters with lots of freedom.",
+      "verdict": "Another strong Far Cry game with a great open world and plenty of ways to play."
+    }
+  }
   {
     "title": "Dragon Age: Origins",
     "appId": 17450,
     "hours": 46.9,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story, characters and choices are what made this game special for me. Your decisions can actually affect characters and what happens later, which makes the RPG experience feel much deeper.",
+      "disliked": "The combat can feel slow compared with newer RPGs, and today the graphics definitely show the game's age.",
+      "story": "This is the strongest part of the game. The world has a lot of history, and your companions aren't just people following you around. They have personalities, opinions and relationships with your character. Your choices can also change how they react to you.",
+      "combat": "Combat is more tactical than a normal action RPG. Managing your party and deciding which abilities everyone should use becomes important, especially in difficult fights.",
+      "recommendation": "RPG players who care about story, characters, choices and building their own character.",
+      "verdict": "One of those RPGs where the characters and decisions are just as important as the actual combat."
+    }
+  }
   {
     "title": "Tom Clancy's Splinter Cell Blacklist",
     "appId": 235600,
     "hours": 46.3,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really enjoyed the stealth and the freedom to decide how I wanted to complete missions. I could try to get through without being detected or become much more aggressive when things went wrong.",
+      "disliked": "Sometimes the game moves more toward action than the older Splinter Cell style, and I personally enjoy Splinter Cell most when stealth is the main focus.",
+      "combat": "The stealth is excellent. Moving between cover, watching enemy patrols and finding the right moment to move makes missions satisfying. The game also lets you use non-lethal methods or become much more aggressive.",
+      "building": "I liked being able to upgrade equipment and choose gear based on how I wanted to approach the next mission.",
+      "recommendation": "Anyone who enjoys stealth games, tactical gameplay and having different ways to complete a mission.",
+      "verdict": "One of my favorite modern Splinter Cell games because it gives you freedom without taking away the stealth."
+    }
+  }
   {
     "title": "WWE 2K25",
     "appId": 2878960,
     "hours": 45.1,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "There is a lot to do, and the actual wrestling feels good. Having so many wrestlers, match types and different modes gives you plenty of ways to play.",
+      "disliked": "Not every mode is equally interesting, and some parts feel like they require more time than I want to spend on them.",
+      "combat": "The wrestling does a good job of making matches feel like WWE instead of just being a normal fighting game. Building momentum, using signature moves and hitting finishers makes a good match feel like something you could actually watch on WWE.",
+      "exploration": "There is a lot of variety. Universe and GM especially give you the ability to create your own shows, rivalries and stories, while Showcase gives you something completely different to play.",
+      "recommendation": "WWE fans who want a lot of wrestlers, match types and different modes to play.",
+      "verdict": "A very good WWE game with enough content to keep a wrestling fan busy for a long time."
+    }
+  }
   {
     "title": "Subnautica",
     "appId": 264710,
     "hours": 44.2,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "Exploration is what makes Subnautica so good. Every time I went deeper into the ocean, I wanted to know what was down there. Finding new creatures, resources and locations gives you a real reason to keep exploring.",
+      "disliked": "Inventory and resource management can sometimes become annoying, especially when you're trying to build something and realize you're missing one material.",
+      "story": "I liked the way the story doesn't just explain everything to you immediately. You discover what happened by exploring, finding information and slowly going deeper into the world.",
+      "combat": "At first you're just trying to survive and find basic resources. Later you're building equipment and vehicles that allow you to go deeper and reach places that were impossible before.",
+      "exploration": "This is easily the best part. The deeper you go, the more dangerous and interesting the ocean becomes. There were times when I wanted to keep exploring but also wasn't sure I wanted to find out what was swimming below me.",
+      "building": "Building your own underwater base is a lot of fun. It gives you somewhere that actually feels like home while you're exploring a world where almost everything outside can become dangerous.",
+      "recommendation": "Anyone who enjoys exploration, survival, crafting and games that don't constantly tell you exactly where to go.",
+      "verdict": "One of the best exploration and survival games I've played. The feeling of discovering something new underwater is what makes it special."
+    }
+  }
   {
     "title": "ORION: Prelude",
     "appId": 104900,
     "hours": 41.8,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The idea is simple but fun: guns, dinosaurs and lots of action. Sometimes I don't need a complicated story—I just want to shoot dinosaurs.",
+      "disliked": "The game can become repetitive, and it doesn't have the depth or polish of the bigger shooters I've played.",
+      "combat": "The main reason to play is fighting waves of dinosaurs with different weapons. It's straightforward action and can be fun when you just want to jump into something without thinking too much.",
+      "recommendation": "Players who like dinosaurs, shooters and simple action games.",
+      "verdict": "It's not one of the best shooters I've played, but shooting dinosaurs is still fun."
+    }
+  }
   {
     "title": "Dying Light",
     "appId": 239140,
