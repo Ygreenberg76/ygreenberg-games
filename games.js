@@ -1811,60 +1811,138 @@ const games=[
     "title": "BIGFOOT",
     "appId": 509980,
     "hours": 3.4,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The idea of hunting Bigfoot in a dark forest is interesting, and there are moments where hearing something nearby without knowing exactly where it is creates good tension.",
+      "disliked": "The gameplay became repetitive quickly for me. There is too much time spent searching and waiting, and I didn't find enough variety to keep me interested.",
+      "combat": "Setting traps, searching for clues and preparing for Bigfoot sounds good, but the slow pace made it difficult for me to stay interested.",
+      "verdict": "A good idea for a horror hunting game, but I didn't enjoy the actual gameplay enough. It became repetitive and slow, so this one only gets a 5 from me."
+    }
   },
   {
     "title": "Aliens vs. Predator",
     "appId": 10680,
     "hours": 3.4,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "I really liked being able to experience the game from three completely different sides: Marine, Alien and Predator. Each one changes how you approach the game.",
+      "disliked": "Some parts feel dated now, and the campaigns aren't very long.",
+      "story": "The Marine sections have more of a survival-horror feeling, while playing as the Predator gives you powerful weapons and technology. Playing as the Alien is completely different again because of the speed and movement.",
+      "combat": "Having three different characters is what makes the combat interesting. Guns as the Marine, technology and stealth as the Predator, and close-range attacks as the Alien keep the game from feeling like the same experience throughout.",
+      "verdict": "A very good Aliens vs. Predator game. Being able to play all three sides gives it much more variety, and I especially liked how different each campaign feels."
+    }
   },
   {
     "title": "Ultimate Custom Night",
     "appId": 871720,
     "hours": 3.3,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked how much control the game gives you over the difficulty. Having so many different animatronics to choose from lets you create your own challenge.",
+      "disliked": "The gameplay becomes extremely difficult and sometimes feels like you're trying to manage too many things at the same time.",
+      "combat": "You constantly have to watch different systems and remember how each animatronic works. Increasing the number and difficulty makes the game much more stressful.",
+      "verdict": "A good challenge for Five Nights at Freddy's fans with a huge amount of customization. I enjoyed trying different combinations, but the gameplay can become overwhelming."
+    }
   },
   {
     "title": "State of Decay",
     "appId": 241540,
     "hours": 3.3,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked that surviving isn't only about killing zombies. You also have to find supplies, manage survivors and keep your community going.",
+      "disliked": "Some activities and supply runs started feeling repetitive, and the game can feel rough in places.",
+      "combat": "Searching for food, medicine, weapons and other resources gives you a reason to leave your base. Losing survivors also makes dangerous situations feel more important.",
+      "exploration": "The open world gives you freedom to search buildings, find resources and decide where you want to go instead of constantly following one mission.",
+      "verdict": "A good zombie survival game with interesting community and resource-management ideas. I liked the freedom, but repetition kept it at a 7 for me."
+    }
   },
   {
     "title": "CreativeDestruction",
     "hours": 3.1,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked the combination of shooting and building. Being able to quickly create structures during a fight adds something beyond normal battle-royale shooting.",
+      "disliked": "After playing for a while, the battle-royale loop became repetitive, especially since every match follows the same basic idea.",
+      "combat": "Collecting weapons, building structures and trying to survive against the other players creates some entertaining matches.",
+      "verdict": "A fun battle-royale game with building mechanics that give the combat some extra variety. I enjoyed it, but there wasn't enough to keep me interested long term."
+    }
   },
   {
     "title": "HITMAN™ 2",
     "appId": 863550,
     "hours": 2.9,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked having different ways to complete an assassination. Watching the environment and finding opportunities is much more interesting than simply shooting your way to the target.",
+      "disliked": "With only a few hours played, I didn't spend enough time learning all the different possibilities in each location.",
+      "combat": "Disguises, distractions, environmental opportunities and stealth give you a lot of options. The game rewards you for taking your time and understanding how the location works.",
+      "exploration": "The levels are designed so that exploring can reveal new routes and different ways to reach or eliminate your target.",
+      "verdict": "A good stealth game with a lot of freedom in how you approach your targets. I can see how much depth the levels have, but I didn't play enough of it to rate it higher."
+    }
   },
   {
     "title": "Half-Life 2",
     "appId": 220,
     "hours": 2.7,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "I liked how the game combines shooting, exploration, physics and environmental puzzles instead of constantly giving you the same type of combat.",
+      "disliked": "Some parts feel dated now, especially compared with newer shooters, and there are sections where the pacing slows down.",
+      "story": "The game doesn't constantly stop to explain everything. You learn about City 17, the Combine and what happened to the world while continuing to play.",
+      "combat": "The Gravity Gun is easily one of the most interesting parts. Being able to use objects from the environment as weapons makes combat much more creative.",
+      "verdict": "A very good FPS with creative gameplay and excellent use of physics. It obviously shows its age in some areas, but I can understand why it became such an important game."
+    }
   },
   {
     "title": "Call of Duty: Ghosts",
     "appId": 209160,
     "hours": 2.5,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The campaign has some entertaining action sequences, and I liked that it tries different environments instead of keeping every mission feeling the same.",
+      "disliked": "The campaign is very linear, and I didn't feel as connected to the story or characters as I did in some other Call of Duty games.",
+      "story": "The idea of the Ghosts and the conflict with the Federation gives the campaign its own identity, but the story wasn't the main reason I enjoyed the game.",
+      "combat": "The shooting feels familiar and responsive. Like most Call of Duty campaigns, it keeps moving quickly from one action sequence to another.",
+      "verdict": "A good Call of Duty campaign with enjoyable shooting and some memorable action, but the story and linear gameplay kept it at a 7 for me."
+    }
   },
   {
     "title": "STAR WARS™: The Force Unleashed™ II",
     "appId": 32500,
     "hours": 2.5,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "Using Force powers and lightsabers makes you feel extremely powerful. Throwing enemies around and combining Force abilities with lightsaber attacks is fun.",
+      "disliked": "The game is short, and there isn't enough variety. Some combat encounters also start feeling repetitive.",
+      "story": "The story continues Starkiller's connection with Darth Vader and his search for answers, but it didn't have the same impact on me as the first game.",
+      "combat": "Force powers are still the strongest part. Pushing, throwing and attacking enemies with two lightsabers makes combat entertaining even when the enemies become repetitive.",
+      "comparison": "I preferred the first Force Unleashed overall. The second game improves some of the action, but the original felt like a more complete experience.",
+      "verdict": "A fun Star Wars action game with great Force powers and enjoyable combat, but it's too short and repetitive to reach the level of the first game for me."
+    }
   },
   {
     "title": "Destiny 2",
     "appId": 1085660,
     "hours": 1.767,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The shooting feels very smooth, and the weapons and abilities make combat satisfying even when you're simply fighting normal enemies.",
+      "disliked": "With less than two hours played, I didn't get deeply into the progression, story or larger amount of content. It also feels designed around spending much more time with the game than I wanted to.",
+      "combat": "Gunplay is definitely the strongest part from what I played. Combining weapons with character abilities makes the combat fast and enjoyable.",
+      "exploration": "The environments look good and give you different areas to fight and explore, although I only experienced a small part of what the game offers.",
+      "verdict": "A good-looking shooter with excellent gunplay, but I didn't spend enough time with Destiny 2 to become invested in its larger progression and online systems."
+    }
   },
   {
     "title": "Red Faction: Guerrilla Steam Edition",
