@@ -799,14 +799,32 @@ const games=[
     "title": "LEGO® MARVEL Super Heroes",
     "appId": 249130,
     "hours": 25.8,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The large number of Marvel characters is probably the best part of the game. Different heroes have different powers, and switching between them to fight enemies or solve puzzles keeps things fun.",
+      "disliked": "The gameplay eventually becomes repetitive. A lot of the missions follow the same pattern of fighting enemies, breaking LEGO objects and solving simple puzzles.",
+      "story": "The story is light and funny, which fits a LEGO Marvel game. Having so many Marvel heroes and villains together also makes it entertaining.",
+      "combat": "Combat is simple, but trying the abilities of different characters gives it more variety. Unlocking additional characters was also a good reason to keep playing.",
+      "exploration": "I liked having an open version of Manhattan to explore between missions. There are plenty of characters, collectibles and smaller activities to find.",
+      "verdict": "A fun Marvel game with a huge selection of characters. It's enjoyable, especially if you like Marvel, but the simple and repetitive gameplay kept it at a 7/10 for me."
+    }
+  }
   {
     "title": "Far Cry New Dawn",
     "appId": 939960,
     "hours": 25,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked returning to Hope County and seeing how completely different it looked after the events of Far Cry 5. The colorful post-apocalyptic world gives the game its own style instead of simply looking like another Far Cry.",
+      "disliked": "The game is shorter and smaller than the main Far Cry games, and some of the resource collecting and upgrading can become repetitive.",
+      "story": "I liked seeing what happened to Hope County and some of its characters after Far Cry 5. The story isn't as strong as Far Cry 5 for me, but the connection between the two games made it more interesting.",
+      "combat": "The shooting is still fun, and I liked upgrading weapons and becoming more powerful. Outposts are also enjoyable because you can capture them and then make them more difficult for better rewards.",
+      "exploration": "Hope County looks very different this time, and I enjoyed exploring familiar places after the apocalypse.",
+      "verdict": "A fun continuation of Far Cry 5. It's smaller and sometimes repetitive, but I enjoyed the colorful world, weapons and familiar Far Cry gameplay."
+    }
+  }
   {
     "title": "Dying Light: The Beast",
     "appId": 3008130,
@@ -825,20 +843,47 @@ const games=[
     "title": "Hitman: Absolution",
     "appId": 203140,
     "hours": 24.8,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked having different ways to eliminate targets. You can use disguises, sneak around enemies, create distractions or sometimes just fight your way through.",
+      "disliked": "Some missions feel more restrictive than I wanted from a Hitman game. I prefer when the game gives me a location and lets me figure out my own solution.",
+      "story": "The story gives Agent 47 a more personal mission, but for me the gameplay was more interesting than the actual story.",
+      "combat": "Stealth is where the game works best. Watching guards, finding disguises and figuring out how to reach a target without being detected can be very satisfying.",
+      "exploration": "I enjoyed searching levels for different routes and opportunities, although some areas don't give you as much freedom as I would have liked.",
+      "verdict": "A good stealth game with some enjoyable missions, but I wanted more freedom and less restriction in how I completed objectives."
+    }
+  }
   {
     "title": "Torchlight II",
     "appId": 200710,
     "hours": 24.2,
-    "status": "coming"
-  },
+    "score": 7.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked constantly finding new weapons, armor and equipment and seeing my character become stronger. The loot and character progression give you a reason to keep playing.",
+      "disliked": "After enough hours, the basic cycle of fighting enemies, collecting loot and moving to the next area becomes repetitive.",
+      "story": "The story gives you a reason to continue through the different areas, but it wasn't really the main reason I played. Character progression and finding better equipment were more important to me.",
+      "combat": "There are different classes, skills and builds, so you have plenty of ways to develop your character. Fighting large groups and then checking all the equipment they dropped can become addictive.",
+      "exploration": "There are plenty of areas, dungeons and enemies to discover, although exploration is mostly connected to fighting and finding better loot.",
+      "verdict": "A good action RPG with satisfying progression and lots of loot. I enjoyed developing my character, although the gameplay eventually became repetitive."
+    }
+  }
   {
     "title": "Assassin's Creed® III",
     "appId": 208480,
     "hours": 23.3,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the historical setting and being able to explore cities and wilderness during the American Revolution. Connor also has a different personality and fighting style from Ezio.",
+      "disliked": "The beginning takes too long to really get going, and some missions can feel restrictive. There were also parts where I wanted more freedom instead of having to complete an objective in one specific way.",
+      "story": "Connor's story connects directly with the American Revolution, and I liked seeing historical events and characters mixed into the Assassin's Creed story.",
+      "combat": "Combat can be fun when you're fighting several enemies, and Connor's tomahawk gives his fighting style a different feel from the previous games.",
+      "exploration": "Having cities, wilderness and the Homestead gives the game more environmental variety. I especially liked having larger natural areas instead of spending the entire game inside cities.",
+      "verdict": "A good Assassin's Creed game with an interesting historical setting, but the slow beginning and some restrictive missions kept me from enjoying it as much as my favorite games in the series."
+    }
+  }
   {
     "title": "DOOM",
     "appId": 379720,
@@ -885,14 +930,33 @@ const games=[
     "title": "Fallout: New Vegas",
     "appId": 22380,
     "hours": 21.3,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The freedom and choices are what make New Vegas special. You can deal with quests in different ways, support different factions and make decisions that actually affect how people react to you.",
+      "disliked": "The game definitely shows its age. The graphics, animations and combat aren't as smooth as newer Fallout games, and there can be technical issues.",
+      "story": "The main conflict around Hoover Dam becomes much more interesting because you aren't simply told who the good guys and bad guys are. Different factions have their own reasons for wanting control, and you get to decide who you support.",
+      "combat": "The shooting feels older than Fallout 4, but V.A.T.S., different weapons and character builds still give you plenty of ways to play.",
+      "exploration": "The Mojave has a lot of interesting locations and side quests. Some of the best parts of the game come from leaving the main story and seeing what you discover.",
+      "comparison": "I prefer Fallout 4 overall, especially its combat, graphics and building systems, but New Vegas gives you more interesting choices and more freedom in how you influence the story.",
+      "verdict": "A great Fallout RPG where choices and factions are the biggest strengths. It shows its age, but the freedom it gives you is still impressive."
+    }
+  }
   {
     "title": "Rise of the Tomb Raider",
     "appId": 391220,
     "hours": 20.9,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the combination of exploration, climbing, combat and tombs. The game gives you enough variety that you're not doing the same thing all the time.",
+      "disliked": "Some of the open areas contain too many collectibles and small activities. I didn't always feel the need to complete everything on the map.",
+      "story": "Lara's search for the Divine Source gives the adventure a good reason to keep moving forward, although the gameplay and exploration were stronger for me than the story.",
+      "combat": "Using the bow, guns, crafting and stealth gives you several ways to deal with enemies. I especially liked using the environment and stealth before starting a direct fight.",
+      "exploration": "The optional tombs are one of the best parts. Solving puzzles and reaching hidden areas makes exploration feel rewarding.",
+      "verdict": "A very good action-adventure game with a nice balance between exploration, combat, climbing and puzzles."
+    }
+  }
   {
     "title": "Wolfenstein II: The New Colossus",
     "appId": 612880,
@@ -920,8 +984,17 @@ const games=[
     "title": "Metro Exodus",
     "appId": 412020,
     "hours": 19.2,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked that Metro Exodus gives you more freedom to explore while still keeping the dark atmosphere of the Metro games. Leaving the tunnels and seeing completely different environments made the game feel much bigger.",
+      "disliked": "Movement and some of the controls can feel a little heavy, and there are parts where the pace slows down more than I wanted.",
+      "story": "Traveling with Artyom and the crew makes the story feel like a journey rather than just moving between missions. I liked seeing the group travel across Russia looking for somewhere better to live.",
+      "combat": "Weapons feel powerful, but ammunition and resources are important. Cleaning, modifying and maintaining weapons also fits the survival feeling of the game.",
+      "exploration": "This is probably what I liked most compared with the earlier Metro games. The larger areas give you freedom to investigate buildings, find supplies and discover smaller stories.",
+      "verdict": "A strong combination of shooter, survival and exploration. I especially liked having more freedom while still keeping the atmosphere that makes Metro different."
+    }
+  }
   {
     "title": "The Last of Us™ Part I",
     "appId": 1888930,
@@ -968,8 +1041,17 @@ const games=[
     "title": "Tomb Raider",
     "appId": 203160,
     "hours": 15.7,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I enjoyed seeing Lara develop from someone trying to survive into a much stronger character. The combination of exploration, climbing and combat keeps the game moving.",
+      "disliked": "There are times when the amount of shooting feels a little strange compared with the survival story the game is trying to tell.",
+      "story": "I liked Lara's survival story and discovering what was happening on the island. The mystery gives you a reason to keep exploring.",
+      "combat": "The bow was probably one of my favorite weapons because it works for both stealth and direct combat. Unlocking new equipment also lets you return to areas you couldn't reach earlier.",
+      "exploration": "The island has hidden areas, tombs and collectibles, although the tombs aren't as developed as they became in Rise of the Tomb Raider.",
+      "verdict": "A strong start to the newer Tomb Raider games. Good story, fun combat and enough exploration to keep me interested throughout the adventure."
+    }
+  }
   {
     "title": "Wolfenstein: The New Order",
     "appId": 201810,
@@ -1016,8 +1098,17 @@ const games=[
     "title": "RoboCop: Rogue City",
     "appId": 1681430,
     "hours": 13,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The game actually makes you feel like RoboCop. You're slow and heavy, but also extremely powerful. Walking into a room and taking down enemies without needing to move like a normal FPS character fits RoboCop perfectly.",
+      "disliked": "Some areas and missions can feel basic, and the game doesn't have the same level of polish or variety as a bigger-budget shooter.",
+      "story": "I enjoyed that the game feels like it belongs in the RoboCop movies instead of just using the name. The characters, atmosphere and humor all help with that.",
+      "combat": "The Auto-9 is extremely satisfying to use, and upgrading RoboCop makes combat even better. I also liked being able to interact with people and handle smaller police situations between the bigger fights.",
+      "exploration": "It's not a huge open world, but having areas where you can walk around, talk to people and find side missions makes the world feel more interesting.",
+      "verdict": "A very enjoyable RoboCop game. It isn't the biggest or most polished shooter I've played, but it understands what makes RoboCop fun and does a great job making you feel like him."
+    }
+  }
   {
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "appId": 20920,
