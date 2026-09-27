@@ -2208,58 +2208,129 @@ const games=[
     "title": "Counter-Strike: Source",
     "appId": 240,
     "hours": 0.267,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The shooting is simple, competitive and very skill-based. Even after all these years, the basic Counter-Strike gameplay is easy to understand.",
+      "disliked": "I barely played this version, and competitive multiplayer isn't normally what keeps me playing a game for a long time.",
+      "combat": "Accuracy and positioning are important, and the weapons punish you for just running around and shooting without control.",
+      "verdict": "A classic competitive shooter that still has solid gameplay. My time with this version was extremely limited, so based only on that experience, I give it a 7."
+    }
   },
   {
     "title": "DARK SOULS™: Prepare To Die Edition",
     "appId": 211420,
     "hours": 0.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The dark atmosphere and challenging combat immediately give the game its own identity.",
+      "disliked": "I played for such a short time that I never really got comfortable with the combat or had a chance to experience the deeper RPG systems.",
+      "combat": "Combat requires patience and timing rather than simply attacking constantly. Even during my short experience, I could tell that mistakes are punished quickly.",
+      "verdict": "I can see the appeal of the challenging combat and dark world, but around 12 minutes isn't enough time for me to properly experience a game like Dark Souls. Based on that very limited experience, it's a 7."
+    }
   },
   {
     "title": "Resident Evil 7 Teaser: Beginning Hour",
     "appId": 530620,
     "hours": 0.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The atmosphere was the strongest part for me. The first-person perspective and creepy house create tension almost immediately.",
+      "disliked": "This is only a teaser, and I played for around 12 minutes, so it's obviously not enough to judge Resident Evil 7 itself.",
+      "combat": "Exploring the house and not knowing what is going to happen creates most of the experience. It does a good job of making you uncomfortable without needing constant action.",
+      "verdict": "A good horror teaser that gave me a taste of Resident Evil 7's atmosphere. Very limited as an experience, but what I played was effective."
+    }
   },
   {
     "title": "Waltz of the Wizard (Legacy demo)",
     "hours": 0.183,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "Playing around with magic in VR is entertaining because you can actually interact with objects and experiment with different things around you.",
+      "disliked": "It's more of a VR demonstration than a full game, and my playtime was extremely short.",
+      "combat": "The fun comes from interacting with the environment and experimenting with magical abilities rather than following a traditional story or mission structure.",
+      "verdict": "A fun little VR experience that shows how well magic and interaction can work in virtual reality. There isn't much for me to judge from such a short demo, but I enjoyed what I tried."
+    }
   },
   {
     "title": "Hired Ops",
     "appId": 374280,
     "hours": 0.15,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The basic FPS mechanics were familiar and easy enough to understand.",
+      "disliked": "Nothing really grabbed my attention during the short time I played. It felt like another multiplayer shooter without giving me a strong reason to continue.",
+      "combat": "The shooting works, but I didn't spend enough time with the game to get into its weapons, progression or multiplayer systems.",
+      "verdict": "My playtime was extremely limited, but the game didn't make a strong enough first impression for me to continue playing. Based on that experience, it's a 5."
+    }
   },
   {
     "title": "Hog Hunter 2021",
     "hours": 0.133,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The hunting concept is straightforward, and I understood what the game was trying to offer.",
+      "disliked": "I didn't find enough in the gameplay to keep me interested, which is why I stopped after only a few minutes.",
+      "combat": "My time with it was too short to explore much of the hunting system or progression.",
+      "verdict": "I barely played it, so this isn't a judgment of everything the game offers. It simply didn't make enough of an impression on me to make me want to continue."
+    }
   },
   {
     "title": "Bloody Good Time",
     "appId": 2450,
     "hours": 0.117,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The concept is different, with a more humorous style than a typical multiplayer action game.",
+      "disliked": "I only played for a few minutes, and nothing about the gameplay made me want to continue for much longer.",
+      "combat": "There are different weapons and ways to attack other players, but I didn't spend enough time with it to learn the systems properly.",
+      "verdict": "An interesting idea, but my first impression wasn't strong enough to keep me playing. With such limited playtime, a 5 feels right for my experience."
+    }
   },
   {
     "title": "VAIL Alpha",
     "hours": 0.083,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 5,
+    "review": {
+      "liked": "The idea of a competitive VR shooter is interesting, and VR can make gun handling feel much more physical than a normal FPS.",
+      "disliked": "I only have around five minutes recorded, so I basically only sampled the alpha rather than properly playing it.",
+      "combat": "There simply wasn't enough time for me to judge the weapons, maps or competitive gameplay in any meaningful way.",
+      "verdict": "This rating is only based on an extremely short experience with an early alpha. I didn't play enough for it to leave much of an impression on me."
+    }
   },
   {
     "title": "Tom Clancy's The Division PTS",
     "appId": 414460,
     "hours": 0.067,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The shooting, cover system and overall gameplay are familiar because this is essentially a test environment for The Division.",
+      "disliked": "With only a few minutes recorded in the PTS itself, there isn't enough here for me to review separately in much detail.",
+      "comparison": "I have over 50 hours in the regular version of The Division, which I rated 8/10. This 7 is specifically for my extremely limited time in the PTS, not my overall opinion of The Division.",
+      "verdict": "There isn't much I can fairly say about the PTS after only a few minutes. I already know I enjoy the main game, but I'm keeping this score specifically about this Steam entry."
+    }
   },
   {
     "title": "Call of Duty: Ghosts - Multiplayer",
     "appId": 209170,
     "hours": 0.017,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The familiar Call of Duty shooting is fast and responsive, which makes it easy to jump into the multiplayer.",
+      "disliked": "Steam shows almost no playtime for this specific multiplayer entry, so I don't have enough recorded experience here to go into much detail.",
+      "combat": "The gunplay follows the fast Call of Duty style, with quick movement and short firefights.",
+      "comparison": "I also rated the main Call of Duty: Ghosts entry 7/10. I'm keeping the multiplayer entry at the same score based on my limited experience with it.",
+      "verdict": "There isn't enough playtime here for a detailed review, but from the little I experienced, the multiplayer has the familiar Call of Duty gameplay I expected."
+    }
   },
   {
     "title": "BioShock",
