@@ -1675,60 +1675,137 @@ const games=[
     "title": "I Am Alive",
     "appId": 214250,
     "hours": 6.7,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "I liked the post-apocalyptic atmosphere and the idea of surviving in a destroyed city where resources are limited. Climbing through damaged buildings also gives the game some interesting moments.",
+      "disliked": "The controls can feel awkward, and the game becomes repetitive. I also felt like the survival concept had more potential than what the game actually delivered.",
+      "story": "Searching for your family after the disaster gives you a reason to keep moving through the city, but the story didn't keep me interested enough.",
+      "combat": "I liked that ammunition is limited and sometimes simply pointing a gun at an enemy can be useful. It makes you think before starting a fight.",
+      "verdict": "There are some good survival ideas and a strong atmosphere here, but the controls, repetition and limited gameplay kept me from enjoying it more."
+    }
   },
   {
     "title": "Remember Me",
     "appId": 228300,
     "hours": 6.6,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "The futuristic setting and the idea of manipulating memories are interesting. Neo-Paris also gives the game a distinctive look.",
+      "disliked": "The game is very linear, and I didn't feel like I had enough freedom to explore the world. Combat also started becoming repetitive.",
+      "story": "The idea that memories can be stolen, changed and controlled is probably the most interesting part of the story.",
+      "combat": "The combo system lets you customize attacks, which is a good idea, but I didn't find the combat interesting enough to keep me fully engaged.",
+      "verdict": "Remember Me has an interesting world and some creative ideas, but the linear gameplay and repetitive combat kept it at a 6 for me."
+    }
   },
   {
     "title": "Feed and Grow: Fish",
     "appId": 429050,
     "hours": 6.4,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "Starting as a small fish and gradually becoming larger by eating other creatures is simple but satisfying.",
+      "disliked": "There isn't enough variety to keep the experience interesting for a long time. Once I understood the basic gameplay loop, it became repetitive.",
+      "combat": "The main idea is survival and growth. You start vulnerable, eat smaller creatures and eventually become powerful enough to attack things that were dangerous earlier.",
+      "verdict": "A simple and entertaining idea that can be fun for a while, but there wasn't enough depth or variety to keep me interested longer."
+    }
   },
   {
     "title": "Alien: Rogue Incursion VR",
     "hours": 5.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "Being inside the Alien universe in VR makes the experience much more intense. Hearing something moving nearby and not knowing exactly where the Xenomorph is creates real tension.",
+      "disliked": "VR can make longer sessions more tiring, and some parts of the gameplay can become repetitive.",
+      "story": "The story fits the Alien universe well and gives you a reason to investigate the facility and discover what happened.",
+      "combat": "Using weapons and equipment in VR makes encounters much more intense than they would be on a normal screen. Fighting a Xenomorph when it feels like it's actually standing in front of you is a completely different experience.",
+      "exploration": "Dark corridors, alarms, sounds and the constant possibility of encountering an Alien make exploring the facility very tense.",
+      "verdict": "A very good Alien VR experience. The atmosphere and VR immersion make the Xenomorph much more frightening, and that was easily the strongest part of the game for me."
+    }
   },
   {
     "title": "Just Cause 2",
     "appId": 8190,
     "hours": 5.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked the freedom to cause destruction and move around the world using the grappling hook and parachute. The game gives you plenty of opportunities to create chaos.",
+      "disliked": "The missions and activities can become repetitive, and the story wasn't really what kept me playing.",
+      "combat": "The grappling hook is the best part because you can use it for movement, combat and creating ridiculous situations. Combining it with vehicles and the parachute makes traveling much more entertaining.",
+      "exploration": "The map is huge, and there's a lot of freedom to travel around and decide where you want to go.",
+      "verdict": "A fun open-world action game with a lot of freedom and destruction. The gameplay can become repetitive, but causing chaos with the grappling hook is still entertaining."
+    }
   },
   {
     "title": "Sniper Ghost Warrior 2",
     "appId": 34870,
     "hours": 5,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I enjoyed the long-distance sniping and having to line up shots instead of simply running into every fight.",
+      "disliked": "The game is fairly linear, and I wanted more freedom to choose my position and approach targets in different ways.",
+      "combat": "Sniping is obviously the strongest part. Distance and other conditions make long shots more interesting, especially when you successfully hit a difficult target.",
+      "verdict": "A good sniper game when I wanted slower, long-distance shooting, but the linear missions and limited freedom kept it at a 7."
+    }
   },
   {
     "title": "Poppy Playtime",
     "appId": 1721470,
     "hours": 4.8,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The abandoned toy factory is creepy, and the game does a good job of making normally harmless-looking toys feel disturbing.",
+      "disliked": "There are sections where the puzzles slow the game down, and with my playtime I didn't experience enough of the game to rate it higher.",
+      "combat": "Exploring, solving puzzles and using the GrabPack gives you something to do besides simply running away from monsters.",
+      "exploration": "The empty factory and the feeling that something might appear at any moment are what make the game work.",
+      "verdict": "A good horror game with a creepy setting and some interesting puzzle ideas. I enjoyed what I played, but not enough to put it above a 7."
+    }
   },
   {
     "title": "Darksiders II",
     "appId": 50650,
     "hours": 4.4,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I liked the combination of combat, exploration, equipment and RPG elements. Playing as Death also gives the game a different style.",
+      "disliked": "Some areas and puzzles slowed the game down for me, and with only a few hours played I didn't get far enough into the game to become completely invested.",
+      "combat": "Combat is fast, and finding different weapons and equipment gives you reasons to keep improving your character.",
+      "exploration": "The world has dungeons, puzzles and hidden areas, although I didn't play enough to experience everything the game offers.",
+      "verdict": "A good action RPG with enjoyable combat and an interesting world. I liked what I played, but I didn't spend enough time with it to rate it higher."
+    }
   },
   {
     "title": "Blade & Sorcery",
     "appId": 629730,
     "hours": 4.2,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The VR combat is the main reason to play. Using swords and other weapons with your own movements makes fighting much more physical than a normal game.",
+      "disliked": "After the initial excitement of VR combat, I wanted more variety and more reasons to keep playing.",
+      "combat": "Experimenting with different weapons, magic and ways of fighting is where most of the fun comes from. The physics can create some entertaining and unpredictable fights.",
+      "verdict": "A fun VR combat game with good physics and plenty of ways to fight. I enjoyed experimenting with the weapons, but the experience became repetitive for me."
+    }
   },
   {
     "title": "Gorilla Tag",
     "appId": 1533390,
     "hours": 3.9,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "Moving around using your arms instead of normal controller movement is unusual and makes the game feel very different from most VR games.",
+      "disliked": "The gameplay is simple and can become repetitive. It's also much more dependent on playing with other people than the types of games I normally prefer.",
+      "combat": "Learning how to move, climb and chase other players is basically the game. The unusual movement system is what makes it entertaining.",
+      "verdict": "A simple but creative VR game. The movement system is fun and different, but there isn't enough depth for me to rate it higher than a 7."
+    }
   },
   {
     "title": "BIGFOOT",
