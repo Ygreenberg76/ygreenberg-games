@@ -129,7 +129,15 @@ const games=[
     "title": "Stumble Guys",
     "appId": 1677740,
     "hours": 111.1,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The biggest reason I enjoyed Stumble Guys is that it's a fun game I can play with my kids. The matches are simple, funny and chaotic, and we can just jump in and have a good time together.",
+      "disliked": "After playing for so many hours, the gameplay can definitely become repetitive. A lot of the fun depends more on who I'm playing with than on the depth of the game itself.",
+      "combat": "The controls and objectives are simple enough that almost anyone can play. The obstacle courses, races and elimination rounds create a lot of funny moments, especially when playing together.",
+      "comparison": "This isn't a game I spent 111 hours playing because of an amazing story or deep gameplay. I played it because it's something fun I can enjoy with my kids, and that makes the experience much better for me.",
+      "verdict": "Stumble Guys is simple, silly and repetitive, but sometimes that's exactly what makes a game fun. Playing it with my kids gave me a reason to keep coming back, and after more than 111 hours, I have a lot of good memories with it."
+    }
   },
   {
     "title": "Assassin's Creed Odyssey",
