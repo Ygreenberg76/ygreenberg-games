@@ -1538,59 +1538,138 @@ const games=[
   {
     "title": "Bro Falls: Ultimate Showdown",
     "hours": 9.5,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "It's simple, colorful and easy to jump into. The different obstacle courses can be funny, especially when everything becomes chaotic with a lot of players trying to survive.",
+      "disliked": "After playing enough rounds, the basic gameplay starts becoming repetitive. There isn't enough depth to keep me interested for very long sessions.",
+      "combat": "The controls are simple, and most of the fun comes from trying to survive the obstacles while watching other players make mistakes.",
+      "verdict": "A fun casual game for shorter sessions. I enjoyed the crazy obstacle courses, but the repetitive gameplay kept it at a 7 for me."
+    }
   },
   {
     "title": "Portal 2",
     "appId": 620,
     "hours": 9.4,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The portal system is still one of the most creative gameplay ideas. I liked entering a room, looking around and slowly figuring out how everything needs to work together.",
+      "disliked": "There were puzzles where I spent longer than I wanted trying to figure out what the game expected me to do.",
+      "story": "The story and humor make the game much more entertaining than simply moving from one puzzle room to another. The characters and dialogue are a big part of the experience.",
+      "combat": "The puzzles become increasingly complicated as new mechanics are introduced. Solving a difficult room after being stuck on it can be extremely satisfying.",
+      "verdict": "A very creative puzzle game with great humor and clever level design. Puzzle games aren't always what I normally look for, but Portal 2 kept me interested."
+    }
   },
   {
     "title": "Singularity",
     "appId": 42670,
     "hours": 9.3,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the combination of shooting, science fiction and time manipulation. The time powers give the game something different from a normal FPS.",
+      "disliked": "The game is fairly linear, and I would have liked more freedom to explore and experiment with its mechanics.",
+      "story": "The story involving experiments, time travel and changing history becomes more interesting as you discover what happened on the island.",
+      "combat": "The Time Manipulation Device is the best part. Being able to affect enemies and objects with time gives you abilities beyond simply using guns.",
+      "exploration": "The abandoned Soviet facility has a creepy atmosphere and made me want to discover what happened there.",
+      "verdict": "A very good science-fiction shooter with an interesting story and fun time-manipulation mechanics. I wish the game had done even more with those ideas."
+    }
   },
   {
     "title": "Transformers: Fall of Cybertron",
     "appId": 213120,
     "hours": 8.9,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Being able to transform between robot and vehicle forms during gameplay is fun, and playing as different Transformers gives the campaign some variety.",
+      "disliked": "The game is fairly linear, and some combat sections start feeling similar after a while.",
+      "story": "Seeing the war for Cybertron and playing from different perspectives makes the story interesting, especially if you already like Transformers.",
+      "combat": "Switching between vehicle and robot form gives combat and movement more variety. Different characters also have abilities that change how some sections play.",
+      "verdict": "A good Transformers action game that makes good use of the characters and transformations, but the linear structure and repetitive combat kept it at a 7 for me."
+    }
   },
   {
     "title": "Battlefield™ 6",
     "hours": 8.8,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The large battles, vehicles and destruction can create some great moments. When everything is happening around you, Battlefield can feel much bigger than a normal shooter.",
+      "disliked": "The experience can be inconsistent depending on the match and the people you're playing with. Sometimes you get a great battle, while other times it can become frustrating.",
+      "combat": "Having infantry, tanks, helicopters and other vehicles fighting in the same battle gives you different ways to play instead of only running around with a gun.",
+      "verdict": "A good large-scale shooter with some impressive battles and destruction. I had fun with it, but the multiplayer experience wasn't consistent enough for me to rate it higher."
+    }
   },
   {
     "title": "Red Faction: Armageddon",
     "appId": 55110,
     "hours": 8.3,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "Destroying parts of the environment is still fun, and the weapons give you some interesting ways to fight enemies.",
+      "disliked": "I wanted more freedom. The game is much more linear than the open-world style I prefer.",
+      "story": "The story works well enough to move the game forward, but the combat and destruction were more interesting to me.",
+      "combat": "The destruction system is the biggest attraction. Breaking structures during combat and using different weapons keeps the action entertaining.",
+      "verdict": "A good action game with enjoyable destruction and weapons, but I would have preferred a more open structure with greater freedom to explore."
+    }
   },
   {
     "title": "Crosshair V2",
     "hours": 7.9,
-    "status": "coming"
+    "score": 6,
+    "status": "reviewed",
+    "review": {
+      "liked": "It's a simple utility that does what it's supposed to do by giving you a customizable crosshair on the screen.",
+      "disliked": "There really isn't much to it beyond that. It's useful in certain situations, but it's not something I would consider a full gaming experience.",
+      "combat": "It can be useful for games where the existing crosshair isn't very good or where you want something easier to see.",
+      "verdict": "A useful little tool for certain games, but very limited in what it offers. It does its job, and that's basically it."
+    }
   },
   {
     "title": "Sniper Elite V2",
     "appId": 63380,
     "hours": 7.5,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The long-distance sniping and X-ray kill camera are the strongest parts. Landing a difficult shot from far away is satisfying.",
+      "disliked": "Some missions feel restrictive and repetitive, and close-range combat isn't nearly as enjoyable as sniping.",
+      "combat": "Finding a good position, watching enemy movement and lining up the right shot is where the game works best.",
+      "comparison": "After playing Sniper Elite 3, I prefer the larger environments and additional freedom of that game. V2 feels more limited in comparison.",
+      "verdict": "A good sniper game with satisfying long-distance shooting, but the more restrictive levels kept it from being better for me."
+    }
   },
   {
     "title": "theHunter Classic",
     "appId": 253710,
     "hours": 7.3,
-    "status": "coming"
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked that hunting requires patience. You can't just run around the map expecting animals to appear directly in front of you.",
+      "disliked": "The slower pace can sometimes become too slow, especially when you've spent a long time searching without finding what you're looking for.",
+      "combat": "Tracking animals, paying attention to signs and trying to get into the right position before taking a shot makes a successful hunt more rewarding.",
+      "exploration": "The large natural environments are relaxing to explore, although traveling around them can take time.",
+      "verdict": "A good hunting game if you enjoy a slower and more patient experience. Successful hunts can be satisfying, but there can also be long periods where not much happens."
+    }
   },
   {
     "title": "F.E.A.R. 3",
     "appId": 21100,
     "hours": 7.3,
-    "status": "coming"
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked the combination of horror and fast shooting. The combat is enjoyable, and the supernatural parts give it something different from a normal FPS.",
+      "disliked": "It doesn't feel as scary as the earlier F.E.A.R. games. There is more emphasis on action, which sometimes takes away from the horror.",
+      "story": "The story continues the strange relationship between Point Man, Paxton Fettel and Alma. It's still dark and supernatural, although the action gets more attention this time.",
+      "combat": "The shooting feels good, and slow motion makes gunfights much more entertaining. Using it to move through a room and take down several enemies is still one of my favorite parts of F.E.A.R.",
+      "comparison": "F.E.A.R. 2 had a stronger horror atmosphere for me, while F.E.A.R. 3 puts more focus on action. I still enjoyed both enough to give them the same score.",
+      "verdict": "A very good action-horror shooter with enjoyable combat and slow motion. I would have liked it to be scarier, but I still had a good time with it."
+    }
   },
   {
     "title": "I Am Alive",
