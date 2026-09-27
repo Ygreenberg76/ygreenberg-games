@@ -2336,61 +2336,136 @@ const games=[
     "title": "BioShock",
     "appId": 7670,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The atmosphere and setting are what stand out the most. Rapture feels completely different from the typical locations you see in shooters, and exploring it is a big part of the experience.",
+      "disliked": "Some of the combat and movement feel dated compared with newer shooters.",
+      "story": "The story, environmental details and mystery surrounding Rapture make you want to continue exploring and understand what happened there.",
+      "combat": "Using normal weapons together with Plasmid abilities gives the combat more variety than a standard FPS.",
+      "verdict": "A very good story-driven shooter with an excellent atmosphere and memorable world. It shows its age in some areas, but the overall experience still deserves an 8."
+    }
   },
   {
     "title": "BioShock Remastered",
     "appId": 409710,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "It keeps the atmosphere, story and unique setting that made the original BioShock so good while presenting it in an updated version.",
+      "disliked": "Underneath the improvements, it's still essentially the same game, so some parts of the gameplay still feel older.",
+      "combat": "The combination of guns and Plasmids is still the most interesting part of the combat because you aren't limited to simply shooting everything.",
+      "comparison": "I give both the original BioShock and BioShock Remastered an 8. The Remastered version improves the presentation, but the core experience is what makes the game good.",
+      "verdict": "A good way to experience BioShock while keeping everything I like about the original."
+    }
   },
   {
     "title": "Call of Duty: Black Ops - Multiplayer",
     "appId": 42710,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The fast shooting and familiar Call of Duty multiplayer gameplay make it easy to jump into matches and start playing.",
+      "disliked": "Multiplayer by itself doesn't give me the same experience as having a campaign and a complete game around it.",
+      "combat": "The gunplay is quick and responsive, with the usual Call of Duty focus on fast reactions and short firefights.",
+      "comparison": "I also gave the main Call of Duty: Black Ops entry a 7/10, so I'm keeping the separate multiplayer entry at the same score.",
+      "verdict": "Good fast FPS gameplay, but competitive multiplayer alone isn't normally what keeps me playing a game for a long time."
+    }
   },
   {
     "title": "Crysis Warhead",
     "appId": 17330,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The combination of weapons, the nanosuit and larger environments gives you more freedom than a typical linear shooter.",
+      "disliked": "Some elements naturally feel dated now, especially compared with newer action games.",
+      "combat": "The nanosuit is what makes the combat interesting. Being able to use abilities together with weapons gives you different ways to approach fights instead of always attacking the same way.",
+      "verdict": "A strong FPS with good action and more freedom than many shooters. The nanosuit helps make the gameplay stand out, and I give it an 8."
+    }
   },
   {
     "title": "Crysis Wars",
     "appId": 17340,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "I liked having the Crysis weapons, nanosuit abilities and larger environments available in a multiplayer-focused game.",
+      "disliked": "As a multiplayer experience, it doesn't have the story and progression that normally keep me interested in a game.",
+      "combat": "The nanosuit gives the shooting more options because movement, armor and other abilities can change how you approach another player.",
+      "verdict": "A good extension of the Crysis gameplay into multiplayer. I prefer having a full single-player experience, but the underlying gameplay is still good enough for an 8."
+    }
   },
   {
     "title": "Dark Messiah of Might & Magic Multi-Player",
     "appId": 2130,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The first-person medieval combat is very different from the normal shooters I play. Using melee weapons and magic from a first-person perspective makes it interesting.",
+      "disliked": "I generally prefer a single-player experience with exploration, progression and a story rather than multiplayer being the main focus.",
+      "combat": "The combination of melee combat and magic gives the gameplay its own identity and makes it feel different from a normal fantasy RPG.",
+      "verdict": "I like the combat ideas and the first-person fantasy style. Even though multiplayer isn't my preferred way to play, I give this version an 8."
+    }
   },
   {
     "title": "Dark Messiah of Might & Magic Single Player",
     "appId": 2100,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The first-person combat and fantasy setting work well together, especially because you can use weapons, magic and the environment during fights.",
+      "disliked": "The game definitely shows its age in its graphics, controls and presentation.",
+      "combat": "Being able to interact with the environment during combat makes fights more entertaining. It isn't just about repeatedly attacking an enemy with the same weapon.",
+      "verdict": "An older game with some very interesting combat ideas. I like the combination of first-person action, fantasy and environmental combat enough to give it an 8."
+    }
   },
   {
     "title": "Devil Daggers",
     "appId": 422970,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "The gameplay is extremely fast, and the simple objective makes it easy to understand immediately.",
+      "disliked": "The experience is very repetitive and focused on surviving and improving your score rather than giving you a story or larger progression system.",
+      "combat": "Constant movement and fast reactions are basically everything. The challenge comes from surviving longer as more enemies appear.",
+      "verdict": "It's good at providing a fast and difficult arcade-style challenge, but it's not really the type of game that gives me enough variety to keep playing for a long time."
+    }
   },
   {
     "title": "Divinity: Original Sin Enhanced Edition",
     "appId": 373420,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "There is clearly a lot of depth in the RPG systems, characters and different choices available to the player.",
+      "disliked": "The turn-based combat and slower pace aren't really what I look for in an RPG. I prefer having direct control of my character during combat.",
+      "combat": "The combat is heavily based on strategy, positioning and choosing abilities carefully rather than real-time action.",
+      "comparison": "I gave the Classic version a 7/10. I'm giving the Enhanced Edition a 6 because this style of RPG still doesn't connect with me as much as more action-focused RPGs.",
+      "verdict": "I understand the depth the game offers, but the slower turn-based gameplay isn't a great match for the way I like to play RPGs."
+    }
   },
   {
     "title": "Dragon Age: Origins - Ultimate Edition",
     "appId": 47810,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The characters, story choices and RPG systems give the game a lot of depth, and your decisions are an important part of the experience.",
+      "disliked": "The combat and presentation feel dated today, and the slower tactical style isn't always the type of combat I prefer.",
+      "story": "The story and characters are stronger parts of the experience for me than the actual combat.",
+      "comparison": "I rated my other Dragon Age: Origins entry 8.5/10. I'm keeping this separate Ultimate Edition entry at the 7/10 score I chose rather than treating the two Steam entries as the same rating.",
+      "verdict": "A deep RPG with strong characters and choices, but this particular entry gets a 7 from me."
+    }
   },
   {
     "title": "Half-Life 2: Deathmatch",
