@@ -2471,64 +2471,144 @@ const games=[
     "title": "Half-Life 2: Deathmatch",
     "appId": 320,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The Half-Life 2 weapons and physics make the multiplayer more interesting than a basic deathmatch shooter. Being able to use objects in the environment as weapons adds some fun to the fights.",
+      "disliked": "It's focused entirely on multiplayer matches, so it doesn't have the story, exploration and progression that I prefer in Half-Life.",
+      "combat": "The gravity gun is the part that makes the combat stand out. Picking up objects and throwing them at other players gives the game its own personality.",
+      "verdict": "A fun multiplayer version of Half-Life 2, but I prefer the single-player Half-Life experience. 7/10."
+    }
   },
   {
     "title": "Half-Life Deathmatch: Source",
     "appId": 360,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "It's simple, fast and gives you the classic Half-Life weapons in a multiplayer deathmatch environment.",
+      "disliked": "There isn't much here for me beyond the multiplayer combat, and that's not normally enough to keep me interested for a long time.",
+      "combat": "It's old-school FPS multiplayer: move quickly, learn the weapons and maps, and try to react faster than the other players.",
+      "verdict": "A straightforward classic multiplayer shooter. Fun for what it is, but not something I would choose over a good single-player FPS. 7/10."
+    }
   },
   {
     "title": "Half-Life: Source",
     "appId": 280,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The original Half-Life design is still interesting, especially the combination of shooting, exploration, puzzles and environmental storytelling.",
+      "disliked": "Even with the Source version, this is an old game and parts of the graphics, movement and overall presentation feel dated today.",
+      "story": "The Black Mesa setting and the way the game moves between exploration, combat and puzzles helped make Half-Life different from many traditional shooters.",
+      "verdict": "An important and enjoyable FPS, but age definitely affects the experience today. For me, 7/10."
+    }
   },
   {
     "title": "Mass Effect 2 (2010) Edition",
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "The characters and story are the strongest parts. Building your team and learning about the different characters makes the missions feel more meaningful.",
+      "disliked": "Some gameplay elements naturally feel older now, and there are parts between the major missions that can slow down the pace.",
+      "story": "The combination of dialogue choices, squad members and third-person shooting works very well. Your relationships with the crew are just as important as the combat.",
+      "comparison": "I rated my other Mass Effect 2 entry 9/10. I'm keeping this separate Steam entry at the 8/10 score I chose rather than automatically giving both entries the same rating.",
+      "verdict": "A very good story-driven RPG/shooter with memorable characters and choices. 8/10."
+    }
   },
   {
     "title": "Metro Exodus Enhanced Edition",
     "appId": 1449560,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "I like the combination of survival, shooting and exploration. The larger environments give you more freedom than the older Metro games while still keeping the series' atmosphere.",
+      "disliked": "The slower movement and survival elements can sometimes make the game feel heavy compared with faster shooters.",
+      "combat": "Exploring for supplies, maintaining your equipment and deciding how to approach enemies makes the world feel dangerous. Ammunition and resources actually matter.",
+      "comparison": "This is an enhanced version of Metro Exodus rather than a completely different game, so the core experience remains what I enjoyed about Metro Exodus.",
+      "verdict": "A strong atmospheric shooter with good exploration and survival mechanics. 8/10."
+    }
   },
   {
     "title": "Red Faction Guerrilla Re-Mars-tered",
     "appId": 667720,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "Destroying buildings is still the best part. The destruction system lets you attack structures in ways that most open-world action games don't allow.",
+      "disliked": "Outside of the destruction, parts of the missions and open-world design can feel repetitive and dated.",
+      "combat": "Using explosives and the sledgehammer to physically destroy structures makes even simple objectives more entertaining.",
+      "comparison": "I also rated Red Faction: Guerrilla Steam Edition 7/10. Re-Mars-tered improves the presentation, but the destruction gameplay remains the main reason I enjoy it.",
+      "verdict": "The destruction system is still impressive and fun to experiment with, even if other parts of the game show their age. 7/10."
+    }
   },
   {
     "title": "Scourge: Outbreak",
     "appId": 227560,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "I like the science-fiction setting and the focus on third-person shooting and action.",
+      "disliked": "The overall presentation and gameplay don't stand out as much compared with stronger third-person shooters.",
+      "combat": "The cover-based shooting is familiar and easy to understand, but there isn't one major gameplay mechanic that makes it completely different from similar games.",
+      "verdict": "A decent science-fiction shooter that can be enjoyable without doing anything especially memorable for me. 7/10."
+    }
   },
   {
     "title": "SiN Episodes: Emergence",
     "appId": 1300,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 8,
+    "review": {
+      "liked": "I like the fast first-person shooting and the more traditional FPS design. It doesn't try to overcomplicate the basic action.",
+      "disliked": "The episodic format means the experience doesn't feel as complete as a larger full-length game.",
+      "combat": "The focus is on straightforward FPS action with different weapons and enemies rather than complicated RPG systems or progression.",
+      "verdict": "A good old-school-style FPS that gives me the kind of straightforward shooting I enjoy. 8/10."
+    }
   },
   {
     "title": "SiN Gold",
     "appId": 1313,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "It has the fast action and level design of classic PC shooters, with plenty of weapons and enemies.",
+      "disliked": "Its age is very noticeable today in the graphics, controls and general presentation.",
+      "combat": "It's much more about moving through levels, finding weapons and shooting enemies than modern progression systems or open-world mechanics.",
+      "verdict": "A good example of an older FPS. I can appreciate what it does, but its age makes it harder for me to enjoy as much as a modern shooter. 7/10."
+    }
   },
   {
     "title": "SiN Multiplayer",
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 7,
+    "review": {
+      "liked": "The faster old-school FPS gameplay works naturally in multiplayer.",
+      "disliked": "Like most multiplayer-only entries in my library, it doesn't give me the story, exploration or progression that I normally want from a game.",
+      "combat": "It's focused on fast movement, weapons and fighting other players without many additional systems getting in the way.",
+      "verdict": "Good classic FPS multiplayer, but I personally get more enjoyment from a complete single-player experience. 7/10."
+    }
   },
   {
     "title": "XCOM: Enemy Unknown",
     "appId": 200510,
     "hours": null,
-    "status": "coming"
+    "status": "reviewed",
+    "score": 6,
+    "review": {
+      "liked": "I can appreciate the amount of strategy involved. Managing your squad, choosing positions and deciding how to approach each situation gives the game a lot of tactical depth.",
+      "disliked": "Turn-based combat isn't really my preferred style. I prefer controlling the action directly instead of taking turns and planning every individual move.",
+      "combat": "There is clearly a lot of strategy involved in positioning, cover, abilities and managing your soldiers, but the slower tactical gameplay isn't a great match for me.",
+      "verdict": "I understand why people who enjoy tactical games can really like XCOM, but the turn-based gameplay doesn't fit the way I normally like to play. 6/10."
+    }
   }
 ];
