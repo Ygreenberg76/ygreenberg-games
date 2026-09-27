@@ -199,62 +199,157 @@ const games=[
     "title": "Kingdom Come: Deliverance",
     "appId": 379430,
     "hours": 74.5,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I really liked the realistic medieval world and the RPG system. You don't start as a powerful warrior, and you actually have to learn and improve your skills. It makes the progression feel much more rewarding.",
+      "disliked": "The game can be difficult and slow, especially at the beginning. Combat against multiple enemies can also become frustrating.",
+      "story": "Henry's story is interesting and gives you a reason to keep going. I also enjoyed that many of the quests feel connected to the world instead of just giving you another enemy to kill.",
+      "combat": "The combat takes time to learn. You have to think about attacking, blocking and timing instead of just pressing the attack button. Once you get better at it, fighting becomes much more satisfying.",
+      "exploration": "The forests, villages and towns make the world feel realistic. I enjoyed exploring because the game feels more like a real medieval world than a fantasy RPG.",
+      "recommendation": "RPG players who enjoy realism, story, exploration and don't mind a game that takes some time to learn.",
+      "verdict": "A realistic medieval RPG where learning and improving is a big part of the experience."
+    }
+  }
   {
     "title": "Assetto Corsa",
     "appId": 244210,
     "hours": 70.9,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The driving is the reason to play Assetto Corsa. The cars feel different from each other, and learning how to control them and improve your lap times can be very satisfying.",
+      "disliked": "For me, there isn't enough outside the actual racing. Compared with racing games that have a stronger career or progression system, it can start feeling like I'm driving just to drive.",
+      "combat": "The simulation is the strongest part. You have to learn braking, corners and how each car handles instead of expecting the game to do everything for you.",
+      "recommendation": "People who really enjoy cars, racing and realistic driving more than story or progression.",
+      "verdict": "A good driving simulator, but for me it needed more outside the actual racing."
+    }
+  }
   {
     "title": "Horizon Forbidden West™ Complete Edition",
     "appId": 2420110,
     "hours": 70.7,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The graphics and world are amazing. I enjoyed exploring new areas, fighting different machines and getting new weapons and abilities. The game gives you a lot more options than the first Horizon.",
+      "disliked": "Sometimes there is almost too much to do. There are so many weapons, upgrades, skills and activities that the game can become a little overwhelming.",
+      "story": "I enjoyed continuing Aloy's story and learning more about the world. There are also more characters around Aloy this time, and many of the side quests have their own interesting stories.",
+      "combat": "Machine combat is excellent. Finding weak points, choosing the right weapon and using different elemental attacks makes fighting the larger machines especially fun.",
+      "exploration": "The Forbidden West is huge and beautiful. There are ruins, underwater areas, mountains and many different environments to explore.",
+      "recommendation": "Players who like open-world action RPGs, exploration, story and fighting large machines.",
+      "verdict": "A beautiful open-world RPG with excellent machine combat and a lot to explore."
+    }
+  }
   {
     "title": "Dragon's Dogma 2",
     "appId": 2054970,
     "hours": 68.8,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combat and exploration are what I enjoyed most. Fighting large monsters is a lot of fun, especially when you can actually climb onto them instead of just attacking their legs.",
+      "disliked": "Traveling can sometimes become frustrating, and the game doesn't always make it easy to get where you want to go. Some things also aren't explained very well.",
+      "combat": "Different vocations give you completely different ways to fight. The Pawn system also makes the game interesting because your companions can help in combat and even show you locations they've learned about.",
+      "exploration": "I liked that exploring doesn't always feel like following icons on a map. You can leave the road, find a cave or monster and suddenly spend much longer exploring than you planned.",
+      "recommendation": "RPG players who enjoy exploration, character building and fighting large fantasy monsters.",
+      "verdict": "A fun RPG where combat, large monsters and unexpected exploration are the highlights."
+    }
+  }
   {
     "title": "Assassin's Creed Origins",
     "appId": 582160,
     "hours": 66.8,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "Ancient Egypt is probably the best part of the game. Exploring pyramids, deserts, cities and temples makes the world interesting even when I'm not doing a mission.",
+      "disliked": "Some of the side activities can become repetitive, and sometimes you need to level up before continuing what you actually wanted to do.",
+      "story": "Bayek is a good main character, and his personal story gives the game more emotion than just hunting different targets. The story also shows how the Assassin Brotherhood started.",
+      "combat": "The RPG-style combat is very different from the older Assassin's Creed games. I liked finding better weapons, upgrading Bayek and having more freedom in how I fight.",
+      "exploration": "Egypt is huge and beautiful. Different cities, deserts, pyramids and wildlife make exploring one of the strongest parts of the game.",
+      "recommendation": "Assassin's Creed fans and players who enjoy RPG progression, history and large open worlds.",
+      "verdict": "A strong Assassin's Creed RPG with an amazing version of Ancient Egypt to explore."
+    }
+  }
   {
     "title": "God of War Ragnarök",
     "appId": 2322010,
     "hours": 66.6,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The story, graphics and combat are excellent. I really enjoyed seeing how Kratos and Atreus continue to change, and the game gives you much more to explore than just following the main story.",
+      "disliked": "Some puzzles and slower sections can interrupt the action, but they didn't stop me from really enjoying the game.",
+      "story": "The relationship between Kratos and Atreus is one of the strongest parts. The story is emotional and gives both characters room to grow.",
+      "combat": "Combat feels powerful and satisfying. Different weapons, abilities, armor and upgrades give you plenty of ways to fight, and the boss battles make good use of them.",
+      "exploration": "The different realms are beautiful and worth exploring. I especially liked that many side quests aren't just filler—they add more story, character development and lore.",
+      "recommendation": "Anyone who enjoys story-driven action games, great combat, exploration and strong characters.",
+      "verdict": "An excellent story-driven action game with great combat, characters and exploration."
+    }
+  }
   {
     "title": "Ghost of Tsushima DIRECTOR'S CUT",
     "appId": 2215430,
     "hours": 65.5,
-    "status": "coming"
-  },
+    "score": 9,
+    "status": "reviewed",
+    "review": {
+      "liked": "The world, sword combat and atmosphere are amazing. Riding across the island and seeing the fields, forests and mountains makes exploring enjoyable even when you're not doing a mission.",
+      "disliked": "Some open-world activities start becoming repetitive after doing them many times.",
+      "story": "Jin's struggle between fighting as a samurai and doing whatever is necessary to save his home makes the story interesting. I wanted to keep playing to see what would happen to him and the people around him.",
+      "combat": "Sword fighting is one of my favorite parts. Changing stances for different enemies, parrying attacks and fighting groups makes combat feel skillful and satisfying. Stealth gives you another option when you don't want to attack directly.",
+      "exploration": "Tsushima is one of those game worlds where I actually wanted to explore instead of only moving from mission marker to mission marker.",
+      "recommendation": "Players who enjoy open worlds, samurai combat, stealth, exploration and a strong story.",
+      "verdict": "A beautiful open-world game with excellent sword combat and a strong samurai story."
+    }
+  }
   {
     "title": "Horizon Zero Dawn™ Complete Edition",
     "appId": 1151640,
     "hours": 55.2,
-    "status": "coming"
-  },
+    "score": 8.5,
+    "status": "reviewed",
+    "review": {
+      "liked": "The combination of a beautiful open world and huge robotic machines immediately made the game interesting. Learning how to fight each machine was one of my favorite parts.",
+      "disliked": "Some side activities and human enemy encounters aren't as interesting as fighting the machines.",
+      "story": "The story starts with a lot of questions about Aloy and what happened to the old world. Finding those answers made me want to continue. The unusual premise develops into a surprisingly strong story.",
+      "combat": "Machine combat is excellent. You need to learn their weak points, use different weapons and decide how you're going to attack instead of just shooting everything the same way.",
+      "exploration": "The world has many different environments, ruins and machines to discover, and I enjoyed exploring outside the main missions.",
+      "recommendation": "Players who enjoy open-world RPGs, science fiction, exploration and tactical combat.",
+      "verdict": "A great open-world RPG with a strong story and some of my favorite machine combat."
+    }
+  }
   {
     "title": "Borderlands 2",
     "appId": 49520,
     "hours": 53.9,
-    "status": "coming"
-  },
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The huge amount of weapons is probably the most fun part. You're constantly finding another gun and checking if it's better or crazier than what you're already using.",
+      "disliked": "After many hours, the gameplay can become repetitive. A lot of the experience is fighting more enemies so you can get better weapons and then fight stronger enemies.",
+      "story": "The story and humor help keep the game moving, and Handsome Jack gives you a villain you actually want to defeat.",
+      "combat": "The combination of FPS combat and RPG progression works well. Different character abilities and the huge weapon selection give you plenty of ways to play.",
+      "recommendation": "Players who enjoy shooters, loot, RPG progression and constantly finding new weapons.",
+      "verdict": "A fun shooter with tons of weapons, but the gameplay can become repetitive after a while."
+    }
+  }
   {
     "title": "Tom Clancy's The Division",
     "appId": 365590,
     "hours": 53.7,
-    "status": "coming"
-  },
+    "score": 8,
+    "status": "reviewed",
+    "review": {
+      "liked": "I liked exploring New York, improving my character and constantly looking for better weapons and equipment. The city has a great atmosphere, especially with the streets almost empty after the disaster.",
+      "disliked": "Some missions and activities become repetitive, and certain enemies can take too many bullets before going down.",
+      "combat": "The cover-based shooting works well, and finding better equipment gives you a reason to continue playing. Building your character around different weapons and abilities adds RPG elements to the shooting.",
+      "exploration": "Exploring New York and finding equipment, missions and encounters makes the city interesting even outside the main story. The Dark Zone adds something completely different because other players can become part of the danger while you're trying to extract valuable gear.",
+      "recommendation": "Players who enjoy third-person shooters, RPG-style gear progression, open-world exploration and tactical combat.",
+      "verdict": "A strong tactical shooter with great atmosphere, gear progression and an interesting version of New York."
+    }
+  }
   {
     "title": "Days Gone",
     "appId": 1259420,
