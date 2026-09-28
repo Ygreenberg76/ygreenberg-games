@@ -1112,8 +1112,8 @@ const games=[
     "title": "Dying Light: The Beast",
     "appId": 3008130,
     "hours": 24.9,
-    "score": 8.5,
-    "status": "reviewed",
+    "score": null,
+    "status": "in-progress",
     "review": {
       "liked": "The combat is great, especially in Beast Mode. Exploring is fun and the graphics look awesome.",
       "disliked": "Nighttime is very difficult. Simply moving around outside at night can become a serious challenge.",
