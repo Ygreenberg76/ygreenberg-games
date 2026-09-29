@@ -126,6 +126,7 @@ const games=[
   {
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "appId": 1643320,
+    "affiliate": {"loaded": "https://go.loaded.com/OY3BJA"},
     "hours": 131.6,
     "score": 8.5,
     "status": "reviewed",
