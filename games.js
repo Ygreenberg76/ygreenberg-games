@@ -2,6 +2,7 @@ const games=[
   {
     "title": "Fallout 4",
     "appId": 377160,
+    "affiliate": {"loaded": "https://go.loaded.com/k4GzP0"},
     "hours": 328,
     "score": 9,
     "status": "reviewed",
@@ -148,6 +149,7 @@ const games=[
   {
     "title": "Kingdom Come: Deliverance II",
     "appId": 1771300,
+    "affiliate": {"loaded": "https://go.loaded.com/DWzQa5"},
     "hours": 117.9,
     "score": 9.5,
     "status": "reviewed",
@@ -251,6 +253,7 @@ const games=[
   {
     "title": "The Elder Scrolls V: Skyrim",
     "appId": 72850,
+    "affiliate": {"loaded": "https://go.loaded.com/k4GzPV"},
     "hours": 78.6,
     "score": 9.5,
     "status": "reviewed",
@@ -395,6 +398,7 @@ const games=[
   {
     "title": "Ghost of Tsushima DIRECTOR'S CUT",
     "appId": 2215430,
+    "affiliate": {"loaded": "https://go.loaded.com/QY3Jx6"},
     "hours": 65.5,
     "score": 9,
     "status": "reviewed",
@@ -1112,6 +1116,7 @@ const games=[
   {
     "title": "Dying Light: The Beast",
     "appId": 3008130,
+    "affiliate": {"loaded": "https://go.loaded.com/jRAXAP"},
     "hours": 24.9,
     "score": null,
     "status": "in-progress",
