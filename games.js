@@ -1,5 +1,26 @@
 const games=[
   {
+    "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
+    "appId": 3765020,
+    "affiliate": {"loaded": "https://go.loaded.com/AgXm1a"},
+    "hours": 10,
+    "score": 7,
+    "status": "reviewed",
+    "review": {
+      "liked": "The graphics are amazing, and the gameplay feels a little better than the original STALKER 2. It was fun to play and shoot bad guys.",
+      "disliked": "The story was not the best, and the side quests did not feel very interesting or important.",
+      "story": "The story was the weakest part for me. I enjoyed playing through the DLC, but the main story and side quests were not as interesting as I wanted them to be.",
+      "combat": "The gameplay feels a little better than the original STALKER 2, and I had fun with the combat and shooting bad guys.",
+      "recommendation": "If you enjoyed STALKER 2 and want another trip into the Zone with amazing graphics and slightly improved gameplay, Cost of Hope is still fun to play, but do not expect the story or side quests to be the strongest part.",
+      "verdict": "Amazing graphics and slightly better gameplay than the original, but the weaker story and uninteresting side quests hold it back. I still had fun playing it. 7/10."
+    },
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ]
+  },
+  {
     "title": "Fallout 4",
     "appId": 377160,
     "affiliate": {"loaded": "https://go.loaded.com/k4GzP0"},
