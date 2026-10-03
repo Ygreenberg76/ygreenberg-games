@@ -1138,15 +1138,17 @@ const games=[
     "title": "Dying Light: The Beast",
     "appId": 3008130,
     "affiliate": {"loaded": "https://go.loaded.com/jRAXAP"},
-    "hours": 24.9,
-    "score": null,
-    "status": "in-progress",
+    "hours": 33.6,
+    "score": 8,
+    "status": "reviewed",
     "review": {
-      "liked": "The combat is great, especially in Beast Mode. Exploring is fun and the graphics look awesome.",
-      "disliked": "Nighttime is very difficult. Simply moving around outside at night can become a serious challenge.",
-      "story": "The story is good and interesting. Some of the side missions are actually better than parts of the main story.",
+      "liked": "The combat is great, especially in Beast Mode. Exploring is fun, the graphics look awesome, and I really enjoyed the gameplay. The ending was especially good, with a great final fight.",
+      "disliked": "Nighttime can be very difficult. Simply moving around outside at night can become a serious challenge.",
+      "story": "The story is good and kept me interested. I completed the main story and all of the side quests. Some of the side missions were actually better than parts of the main story.",
+      "combat": "The combat is one of the strongest parts of the game, especially Beast Mode. The final fight was a great way to end the story.",
       "comparison": "Compared with Dying Light 2, I prefer The Beast's graphics and combat.",
-      "verdict": "Definitely worth playing."
+      "recommendation": "I recommend Dying Light: The Beast, but I would wait for a sale rather than paying full price.",
+      "verdict": "I completed the main story and every side quest in 33.6 hours and had a great time with it. The combat, exploration, graphics and ending were the highlights for me. 8/10."
     },
     "tags": [
       "Survival",
