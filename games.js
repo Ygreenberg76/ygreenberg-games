@@ -44,6 +44,7 @@ const games=[
   },
   {
     "title": "Starfield",
+    "affiliate": {"loaded": "https://go.loaded.com/bk9ov9"},
     "appId": 1716740,
     "hours": 257.6,
     "score": 7.5,
@@ -210,6 +211,7 @@ const games=[
   },
   {
     "title": "Assassin's Creed Odyssey",
+    "affiliate": {"loaded": "https://go.loaded.com/9VaYQy"},
     "appId": 812140,
     "hours": 105.3,
     "score": 8,
@@ -231,6 +233,7 @@ const games=[
   },
   {
     "title": "Cyberpunk 2077",
+    "affiliate": {"loaded": "https://go.loaded.com/DWzNAj"},
     "appId": 1091500,
     "hours": 97.5,
     "score": 8,
@@ -335,6 +338,7 @@ const games=[
   },
   {
     "title": "Horizon Forbidden West™ Complete Edition",
+    "affiliate": {"loaded": "https://go.loaded.com/k4GqbN"},
     "appId": 2420110,
     "hours": 70.7,
     "score": 8.5,
@@ -397,6 +401,7 @@ const games=[
   },
   {
     "title": "God of War Ragnarök",
+    "affiliate": {"loaded": "https://go.loaded.com/4ajNR9"},
     "appId": 2322010,
     "hours": 66.6,
     "score": 9,
@@ -501,6 +506,7 @@ const games=[
   },
   {
     "title": "Days Gone",
+    "affiliate": {"loaded": "https://go.loaded.com/qWXjNy"},
     "appId": 1259420,
     "hours": 53.6,
     "score": 8.5,
@@ -663,6 +669,7 @@ const games=[
   },
   {
     "title": "Subnautica",
+    "affiliate": {"loaded": "https://go.loaded.com/KB3N2n"},
     "appId": 264710,
     "hours": 44.2,
     "score": 9,
