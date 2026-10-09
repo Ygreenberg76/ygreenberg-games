@@ -32,7 +32,7 @@ const wishlist=[
 {title:"Indiana Jones and the Great Circle",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",appId:"2677660",release:"Dec 8, 2024",tags:["Action-Adventure","First-Person","Story Rich","Puzzle","Singleplayer"],status:"Waiting to Play"},
 {title:"007 First Light",appId:"3768760",release:"May 26, 2026",tags:["Cinematic","Story Rich","Singleplayer","Espionage","Action-Adventure"],status:"Waiting to Play"},
 {title:"PRAGMATA",appId:"3357650",release:"Apr 17, 2026",tags:["Cute","Sci-fi","Action","Third-Person Shooter","Funny"],status:"Waiting to Play"},
-{title:"Hell is Us",appId:"1620730",release:"Sep 4, 2025",tags:["Action","Singleplayer","Adventure","Atmospheric","Third Person"],status:"Waiting to Play"},
+
 {title:"Path of Exile 2",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",appId:"2694490",release:"Dec 6, 2024",tags:["Action RPG","Hack and Slash","RPG","Loot","Isometric"],status:"Waiting to Play"},
 {title:"The Outer Worlds 2",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1761760147",appId:"1449110",release:"Oct 29, 2025",tags:["RPG","Singleplayer","Action RPG","Open World","Exploration"],status:"Waiting to Play"},
 {title:"METRO 2039",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2590240/6998fb70f896b0f155061de0b472a8262bd06ef9/header.jpg?t=1788444240",appId:"2590240",release:"Feb 4, 2027",tags:["Action","Adventure","Post-apocalyptic","FPS","Shooter"],status:"Waiting for Release"},
