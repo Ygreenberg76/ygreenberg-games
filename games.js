@@ -1,5 +1,14 @@
 const games=[
   {
+    "title": "Hell Is Us",
+    "appId": 1620730,
+    "hours": 0,
+    "score": null,
+    "status": "in-progress",
+    "review": {},
+    "tags": ["Action", "Adventure", "Exploration", "Atmospheric", "Singleplayer"]
+  },
+  {
     "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
     "appId": 3765020,
     "affiliate": {"loaded": "https://go.loaded.com/AgXm1a"},
