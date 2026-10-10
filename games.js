@@ -2,10 +2,16 @@ const games=[
   {
     "title": "Hell Is Us",
     "appId": 1620730,
-    "hours": 0,
+    "hours": 3.3,
     "score": null,
     "status": "in-progress",
-    "review": {},
+    "review": {
+      "liked": "The graphics are good, and other aspects of the game seem pretty good so far.",
+      "disliked": "The fighting and combat feel boring. The game has not really captured my interest yet.",
+      "story": "The story is okay so far, but I'm still early in the game and it hasn't interested me much yet.",
+      "combat": "The combat is boring for me so far.",
+      "verdict": "Provisional score after 3.3 hours: 6/10. This is not my final rating and may change as I continue playing."
+    },
     "tags": ["Action", "Adventure", "Exploration", "Atmospheric", "Singleplayer"]
   },
   {
