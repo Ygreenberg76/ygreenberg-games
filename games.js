@@ -2,15 +2,17 @@ const games=[
   {
     "title": "Hell Is Us",
     "appId": 1620730,
-    "hours": 3.3,
-    "score": null,
+    "hours": 26,
+    "score": 6.5,
     "status": "in-progress",
     "review": {
-      "liked": "The graphics are good, and other aspects of the game seem pretty good so far.",
-      "disliked": "The fighting and combat feel boring. The game has not really captured my interest yet.",
-      "story": "The story is okay so far, but I'm still early in the game and it hasn't interested me much yet.",
-      "combat": "The combat is boring for me so far.",
-      "verdict": "Provisional score after 3.3 hours: 6/10. This is not my final rating and may change as I continue playing."
+      "liked": "The graphics are good, and the game has become more interesting as I continued playing. I like that the puzzles depend on carefully examining the world, studying what I find, and listening to what people tell me.",
+      "disliked": "The combat is not fun at all. Even after 26 hours, the fighting is boring to me. The drone and some abilities add a little enjoyment, but not enough. If I were not reviewing the game, I would have stopped playing by now.",
+      "story": "The story has some interesting elements, but it has not been the main reason I kept playing.",
+      "combat": "I do not enjoy the regular combat. The drone and a few special abilities are the exceptions.",
+      "exploration": "You really have to look at everything, study what you find, and listen to everyone. The puzzles are based on what you learn and understand, so paying attention matters.",
+      "recommendation": "I would not buy this game at full price. I would only recommend it on sale, especially to players who enjoy careful investigation and puzzle solving more than combat.",
+      "verdict": "After 26 hours, my provisional score is 6.5/10. The exploration and puzzles are interesting, and the graphics are good, but the boring combat seriously hurts the experience. If I were not reviewing it, I would already have moved on to another game."
     },
     "tags": ["Action", "Adventure", "Exploration", "Atmospheric", "Singleplayer"]
   },
