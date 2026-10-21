@@ -1,5 +1,31 @@
 const games=[
   {
+    "title": "The Last of Us™ Part II Remastered",
+    "appId": 2531310,
+    "affiliate": {
+      "loaded": "https://go.loaded.com/aNmm1W"
+    },
+    "hours": 0,
+    "score": null,
+    "status": "in-progress",
+    "review": {
+      "liked": "",
+      "disliked": "",
+      "story": "",
+      "combat": "",
+      "exploration": "",
+      "recommendation": "",
+      "verdict": ""
+    },
+    "tags": [
+      "Story Rich",
+      "Post-apocalyptic",
+      "Third-Person Shooter",
+      "Action-Adventure",
+      "LGBTQ+"
+    ]
+  },
+  {
     "title": "Hell Is Us",
     "appId": 1620730,
     "affiliate": {"loaded": "https://go.loaded.com/m433Re"},
