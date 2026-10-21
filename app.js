@@ -28,7 +28,7 @@ search.oninput=render;sort.onchange=render;tagFilter.onchange=render;document.qu
 const wishlist=[
 {title:"Crimson Desert Enhanced",appId:"3321460",release:"Mar 19, 2026",tags:["Open World","Singleplayer","Action","Exploration","Adventure"],status:"Waiting to Play"},
 {title:"CONTROL Resonant",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1790259464",appId:"3669870",release:"Sep 24, 2026",tags:["Hack and Slash","Action RPG","Story Rich","Lore-Rich","Supernatural"],status:"Waiting to Play"},
-{title:"The Last of Us™ Part II Remastered",appId:"2531310",release:"Apr 3, 2025",tags:["Story Rich","Post-apocalyptic","Third-Person Shooter","Action-Adventure","LGBTQ+"],status:"Waiting to Play"},
+
 {title:"Indiana Jones and the Great Circle",artwork:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2677660/151ae5a881f05ef630defef85d99b38146b7055c/header.jpg?t=1778168392",appId:"2677660",release:"Dec 8, 2024",tags:["Action-Adventure","First-Person","Story Rich","Puzzle","Singleplayer"],status:"Waiting to Play"},
 {title:"007 First Light",appId:"3768760",release:"May 26, 2026",tags:["Cinematic","Story Rich","Singleplayer","Espionage","Action-Adventure"],status:"Waiting to Play"},
 {title:"PRAGMATA",appId:"3357650",release:"Apr 17, 2026",tags:["Cute","Sci-fi","Action","Third-Person Shooter","Funny"],status:"Waiting to Play"},
