@@ -2,6 +2,7 @@ const games=[
   {
     "title": "Hell Is Us",
     "appId": 1620730,
+    "affiliate": {"loaded": "https://go.loaded.com/m433Re"},
     "hours": 31,
     "score": 6,
     "status": "reviewed",
