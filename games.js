@@ -2,19 +2,25 @@ const games=[
   {
     "title": "Hell Is Us",
     "appId": 1620730,
-    "hours": 26,
-    "score": 6.5,
-    "status": "in-progress",
+    "hours": 31,
+    "score": 6,
+    "status": "reviewed",
     "review": {
-      "liked": "The graphics are good, and the game has become more interesting as I continued playing. I like that the puzzles depend on carefully examining the world, studying what I find, and listening to what people tell me.",
-      "disliked": "The combat is not fun at all. Even after 26 hours, the fighting is boring to me. The drone and some abilities add a little enjoyment, but not enough. If I were not reviewing the game, I would have stopped playing by now.",
-      "story": "The story has some interesting elements, but it has not been the main reason I kept playing.",
-      "combat": "I do not enjoy the regular combat. The drone and a few special abilities are the exceptions.",
-      "exploration": "You really have to look at everything, study what you find, and listen to everyone. The puzzles are based on what you learn and understand, so paying attention matters.",
-      "recommendation": "I would not buy this game at full price. I would only recommend it on sale, especially to players who enjoy careful investigation and puzzle solving more than combat.",
-      "verdict": "After 26 hours, my provisional score is 6.5/10. The exploration and puzzles are interesting, and the graphics are good, but the boring combat seriously hurts the experience. If I were not reviewing it, I would already have moved on to another game."
+      "liked": "The concept and story are interesting, and the puzzles reward close attention to details and conversations.",
+      "disliked": "The combat is not fun at all. The drone and a few special abilities are interesting, but regular fighting is boring. The experience sometimes felt more like work than entertainment.",
+      "story": "The story and concept are interesting, but not enough to keep me fully engaged.",
+      "combat": "I did not enjoy the regular combat. The drone and some special abilities are the exceptions.",
+      "exploration": "You must look at everything, listen to everyone and understand what you learn. The puzzles depend heavily on noticing and remembering details.",
+      "recommendation": "I would not buy this game at full price. I would only recommend it on sale, particularly to players who enjoy careful exploration and demanding puzzles.",
+      "verdict": "After finishing Hell Is Us in 31 hours, my final score is 6/10. Interesting ideas and puzzles, but disappointing combat. If I had not been reviewing it, I probably would have stopped playing long before the ending."
     },
-    "tags": ["Action", "Adventure", "Exploration", "Atmospheric", "Singleplayer"]
+    "tags": [
+      "Action",
+      "Adventure",
+      "Exploration",
+      "Atmospheric",
+      "Singleplayer"
+    ]
   },
   {
     "title": "S.T.A.L.K.E.R. 2: Cost of Hope",
