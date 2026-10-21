@@ -1524,6 +1524,7 @@ const games=[
   {
     "title": "The Last of Us™ Part I",
     "appId": 1888930,
+    "affiliate": {"loaded": "https://go.loaded.com/oN33eb"},
     "hours": 18.8,
     "score": 9,
     "status": "reviewed",
