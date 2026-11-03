@@ -5,17 +5,17 @@ const games=[
     "affiliate": {
       "loaded": "https://go.loaded.com/aNmm1W"
     },
-    "hours": 0,
+    "hours": 27,
     "score": null,
     "status": "in-progress",
     "review": {
-      "liked": "",
-      "disliked": "",
-      "story": "",
-      "combat": "",
-      "exploration": "",
-      "recommendation": "",
-      "verdict": ""
+      "liked": "The graphics are outstanding and the attention to detail is amazing. The story keeps me interested in every scene, the combat is very good, and the weapon selection makes me use everything in my inventory.",
+      "disliked": "Nothing significant has disappointed me so far after 27 hours of playing.",
+      "story": "The story is so interesting that I never feel like skipping it. At one point I thought I was reaching the end and didn't want the game to finish. Then an unexpected twist made me realize there was still so much more to play, and I was genuinely happy to keep going. I won't spoil the twist.",
+      "combat": "Combat is very enjoyable, and the weapons are varied and useful. I keep switching between weapons rather than relying on just one, because each has its place.",
+      "exploration": "The graphics are beautiful, and the incredible attention to detail makes the world feel immersive and carefully crafted.",
+      "recommendation": "My impressions after 27 hours are extremely positive. I'm still playing, so I'll save my final recommendation and rating until I finish.",
+      "verdict": "27 hours in and I'm having an awesome time. The graphics, details, engaging story and varied combat make this a game I don't want to end. A surprising story turn made me excited to discover I still had much more to experience. In-progress impressions; final score pending."
     },
     "tags": [
       "Story Rich",
