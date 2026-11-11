@@ -1,4 +1,5 @@
 const games=[
+  {"title":"The Alters","appId":1601570,"affiliate":{"loaded":"https://go.loaded.com/B5MbO9"},"hours":0,"score":null,"status":"in-progress","review":{},"tags":["Story Rich","Survival","Sci-fi","Choices Matter","Base Building"]},
   {
     "title": "The Last of Us™ Part II Remastered",
     "appId": 2531310,
