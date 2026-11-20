@@ -1,5 +1,30 @@
 const games=[
-  {"title":"The Alters","appId":1601570,"affiliate":{"loaded":"https://go.loaded.com/B5MbO9"},"hours":0,"score":null,"status":"in-progress","review":{},"tags":["Story Rich","Survival","Sci-fi","Choices Matter","Base Building"]},
+  {
+  "title": "The Alters",
+  "appId": 1601570,
+  "affiliate": {
+    "loaded": "https://go.loaded.com/B5MbO9"
+  },
+  "hours": 20,
+  "score": 5,
+  "status": "reviewed",
+  "review": {
+    "liked": "The concept is interesting and creative. It can be a fun game to play when I have nothing else to do, and the idea kept me engaged for a while.",
+    "disliked": "Gameplay becomes repetitive, with the same tasks over and over. After Act 2, I encountered serious technical problems, including FPS drops and movement freezing. I kept playing despite the glitches, but eventually they became too frustrating.",
+    "story": "The premise is good and initially interesting, but the game itself did not live up to the potential of its concept.",
+    "combat": "The repeated tasks and gameplay loop eventually made the experience feel more like doing chores than discovering something new.",
+    "exploration": "There are interesting things to do at first, but the repetitive activities make the experience less enjoyable over time.",
+    "recommendation": "If you enjoy unusual science-fiction survival concepts and repetitive management tasks, you may find something to like here. However, I cannot strongly recommend it in its current technical condition based on my experience.",
+    "verdict": "After 20 hours, I decided to stop playing The Alters. The concept was good and the game can be fun when you have nothing else to do, but the repetitive tasks and technical glitches—especially FPS drops and movement freezing after Act 2—ruined the experience for me. My current score is 5/10. If the developers fix these issues, I would be happy to reconsider and raise my rating to 6.5/10."
+  },
+  "tags": [
+    "Story Rich",
+    "Survival",
+    "Sci-fi",
+    "Choices Matter",
+    "Base Building"
+  ]
+},
   {
     "title": "The Last of Us™ Part II Remastered",
     "appId": 2531310,
